@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.13)  20 MAR 2019 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.13)  22 MAR 2019 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,7 +1070,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Package xypdf Info: Line width: 0.39998pt on input line 38.
 \c@lstlisting=\count182
  (./mdse17.nav)
-<hvl_logo_engelsk.png, id=83, 547.3248pt x 142.3719pt>
+<hvl_logo_engelsk.png, id=73, 547.3248pt x 142.3719pt>
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
 Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 43.
@@ -1086,316 +1086,310 @@ Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 47.
  [2
 
 ]
-<survey.pdf, id=264, 602.25pt x 372.39125pt>
+<survey.pdf, id=234, 602.25pt x 372.39125pt>
 File: survey.pdf Graphic file (type pdf)
 <use survey.pdf>
-Package pdftex.def Info: survey.pdf  used on input line 60.
+Package pdftex.def Info: survey.pdf  used on input line 61.
 (pdftex.def)             Requested size: 240.89572pt x 148.95386pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 60.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 61.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [3
 
  <./survey.pdf>]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 71.
+File: hvl_logo_engelsk.png Graphic file (type png)
+<use hvl_logo_engelsk.png>
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 76.
+(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
+ [4
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 84.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 71.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [4
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 79.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 84.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [5
 
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 99.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 99.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 99.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 99.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 92.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [6
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 113.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 107.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
-
-[7
+ [7
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 130.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 118.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [8
+
+[8
 
 ]
+<demographics.pdf, id=599, 758.835pt x 468.75125pt>
+File: demographics.pdf Graphic file (type pdf)
+<use demographics.pdf>
+Package pdftex.def Info: demographics.pdf  used on input line 128.
+(pdftex.def)             Requested size: 303.52863pt x 187.49716pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 147.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 128.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [9
 
-]
+ <./demographics.pdf>]
+<question1.png, id=668, 1267.73625pt x 445.665pt>
+File: question1.png Graphic file (type png)
+<use question1.png>
+Package pdftex.def Info: question1.png  used on input line 134.
+(pdftex.def)             Requested size: 307.28987pt x 108.02263pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 157.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 134.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [10
 
-]
+ <./question1.png>]
+<2_1.png, id=729, 1184.425pt x 273.02pt>
+File: 2_1.png Graphic file (type png)
+<use 2_1.png>
+Package pdftex.def Info: 2_1.png  used on input line 150.
+(pdftex.def)             Requested size: 307.28987pt x 70.83354pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 175.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 150.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [11
 
-]
+ <./2_1.png>]
+<2_2.png, id=789, 1193.45876pt x 238.8925pt>
+File: 2_2.png Graphic file (type png)
+<use 2_2.png>
+Package pdftex.def Info: 2_2.png  used on input line 156.
+(pdftex.def)             Requested size: 307.28987pt x 61.50912pt.
+File: hvl_logo_engelsk.png Graphic file (type png)
+<use hvl_logo_engelsk.png>
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 156.
+(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
+ [12
+
+ <./2_2.png>]
+<2_3.png, id=850, 1181.41376pt x 278.03876pt>
+File: 2_3.png Graphic file (type png)
+<use 2_3.png>
+Package pdftex.def Info: 2_3.png  used on input line 162.
+(pdftex.def)             Requested size: 307.28987pt x 72.31805pt.
+File: hvl_logo_engelsk.png Graphic file (type png)
+<use hvl_logo_engelsk.png>
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 162.
+(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
+ [13
+
+ <./2_3.png>]
+<2_4.png, id=911, 1190.4475pt x 423.5825pt>
+File: 2_4.png Graphic file (type png)
+<use 2_4.png>
+Package pdftex.def Info: 2_4.png  used on input line 168.
+(pdftex.def)             Requested size: 307.28987pt x 109.33386pt.
+File: hvl_logo_engelsk.png Graphic file (type png)
+<use hvl_logo_engelsk.png>
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 168.
+(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
+ [14
+
+ <./2_4.png>]
+<3_1.png, id=972, 627.34375pt x 331.2375pt>
+File: 3_1.png Graphic file (type png)
+<use 3_1.png>
+Package pdftex.def Info: 3_1.png  used on input line 176.
+(pdftex.def)             Requested size: 307.28987pt x 162.25218pt.
+File: hvl_logo_engelsk.png Graphic file (type png)
+<use hvl_logo_engelsk.png>
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 176.
+(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
+ [15
+
+ <./3_1.png>]
+<3_2.png, id=1033, 1185.42876pt x 200.75pt>
+File: 3_2.png Graphic file (type png)
+<use 3_2.png>
+Package pdftex.def Info: 3_2.png  used on input line 183.
+(pdftex.def)             Requested size: 307.28987pt x 52.03754pt.
+File: hvl_logo_engelsk.png Graphic file (type png)
+<use hvl_logo_engelsk.png>
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 183.
+(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
+ [16
+
+ <./3_2.png>]
+<4_1.png, id=1093, 1197.47375pt x 383.4325pt>
+File: 4_1.png Graphic file (type png)
+<use 4_1.png>
+Package pdftex.def Info: 4_1.png  used on input line 193.
+(pdftex.def)             Requested size: 307.28987pt x 98.39124pt.
+<4_2.png, id=1094, 1208.515pt x 229.85875pt>
+File: 4_2.png Graphic file (type png)
+<use 4_2.png>
+Package pdftex.def Info: 4_2.png  used on input line 193.
+(pdftex.def)             Requested size: 307.28987pt x 58.4466pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
 Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 193.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [12
 
-]
+[17
+
+ <./4_1.png> <./4_2.png>]
+<5_1.png, id=1156, 1055.945pt x 266.9975pt>
+File: 5_1.png Graphic file (type png)
+<use 5_1.png>
+Package pdftex.def Info: 5_1.png  used on input line 204.
+(pdftex.def)             Requested size: 307.28987pt x 77.69617pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 206.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 204.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [13
+ [18
 
-] <xymatrix 6x3 308>
+ <./5_1.png>]
+<6_1.png, id=1216, 1187.43625pt x 277.035pt>
+File: 6_1.png Graphic file (type png)
+<use 6_1.png>
+Package pdftex.def Info: 6_1.png  used on input line 218.
+(pdftex.def)             Requested size: 307.28987pt x 71.69345pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 223.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 218.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [14
+ [19
 
-] <xymatrix 6x3 308>
+ <./6_1.png>]
+<6_2.png, id=1278, 1181.41376pt x 376.40625pt>
+File: 6_2.png Graphic file (type png)
+<use 6_2.png>
+Package pdftex.def Info: 6_2.png  used on input line 229.
+(pdftex.def)             Requested size: 307.28987pt x 97.90352pt.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 241.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
-
-[15
-
-] <xymatrix 4x1 100> <xymatrix 6x3 308>
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 264.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [16
-
-] <xymatrix 4x1 100> <xymatrix
-6x3 308>
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 289.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [17
-
-] <xymatrix 3x2 90>
-Overfull \hbox (12.53346pt too wide) detected at line 312
-[]
- []
-
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 312.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
-[18
-
-] <xymatrix 6x3 266>
-Overfull \hbox (24.85228pt too wide) detected at line 329
-[]
- []
-
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 329.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
-[19
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 355.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 229.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [20
 
-]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 404.
+ <./6_2.png>]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 404.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 249.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [21
+[21
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 423.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 275.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [22
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 438.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 275.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [23
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 462.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 275.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [24
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 479.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 290.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [25
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 494.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 308.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [26
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 510.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 330.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [27
 
 ]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 345.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 345.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 345.
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 539.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 345.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [28
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 572.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 361.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [29
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 572.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 376.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [30
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 590.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 392.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [31
 
 ]
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 616.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 407.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
  [32
 
-]
+] (./mdse17.bbl
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 12.
+)
 File: hvl_logo_engelsk.png Graphic file (type png)
 <use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 616.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [33
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 616.
+Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 413.
 (pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
 
-[34
+[33
 
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 631.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [35
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 649.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [36
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 671.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [37
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 686.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [38
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 702.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [39
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 717.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [40
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 733.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [41
-
-]
-File: hvl_logo_engelsk.png Graphic file (type png)
-<use hvl_logo_engelsk.png>
-Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 748.
-(pdftex.def)             Requested size: 59.06175pt x 15.36542pt.
- [42
-
-]
+ </usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write8
 \openout8 = `mdse17.nav'.
 
@@ -1405,55 +1399,38 @@ Package pdftex.def Info: hvl_logo_engelsk.png  used on input line 748.
 \tf@snm=\write10
 \openout10 = `mdse17.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 754.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 754.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 419.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 419.
  (./mdse17.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 754.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 754.
-
-
-Package rerunfilecheck Warning: File `mdse17.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `mdse17.out':
-(rerunfilecheck)             Before: D3C625A484897BE7C59EA31323682D2B;375
-(rerunfilecheck)             After:  11D13CBE5C9A81BA2CABC45D2FBE70E9;375.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 419.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 419.
+Package rerunfilecheck Info: File `mdse17.out' has not changed.
+(rerunfilecheck)             Checksum: 1BC61247DA328C83E4243EF38F541CBA;300.
  ) 
 Here is how much of TeX's memory you used:
- 22145 strings out of 492649
- 392494 string characters out of 6129621
- 568694 words of memory out of 5000000
- 25403 multiletter control sequences out of 15000+600000
- 58835 words of font info for 68 fonts, out of 8000000 for 9000
+ 22177 strings out of 492649
+ 393841 string characters out of 6129621
+ 551892 words of memory out of 5000000
+ 25439 multiletter control sequences out of 15000+600000
+ 56067 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,19n,57p,3238b,887s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Outline0.2.2.23} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.1.20} has been referenced but does not e
-xist, replaced by a fixed one
-
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
-xlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/tex
-mf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fo
-nts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/
-public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/
-lmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/
-texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2018/texmf-dist
-/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/public/lm/lmss8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/l
-m/lmssbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsso1
-0.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive
-/2018/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on mdse17.pdf (42 pages, 417310 bytes).
+ 48i,19n,57p,3238b,769s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/t
+exmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2018/texmf-dist/fonts/type
+1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/l
+m/lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
+/public/lm/lmtt10.pfb>
+Output written on mdse17.pdf (33 pages, 1036978 bytes).
 PDF statistics:
- 2962 PDF objects out of 2984 (max. 8388607)
- 2824 compressed objects within 29 object streams
- 94 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2175 PDF objects out of 2487 (max. 8388607)
+ 2036 compressed objects within 21 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 

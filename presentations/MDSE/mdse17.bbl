@@ -1,0 +1,15 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{LEV80}
+
+\bibitem[LEV80]{b1}
+EDWARD~L. LEVINE, \emph{{Introductory Remarks for the Symposium "Organizational
+  Application of self-appraisal and self-assessment: Another look"}}, Personnel
+  Psychology \textbf{33} (1980), no.~2, 259--262.
+
+\end{thebibliography}

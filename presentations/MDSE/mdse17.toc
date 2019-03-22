@@ -1,8 +1,7 @@
 \babel@toc {british}{}
-\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Software Engineering, SE}{3}{0}{1}
-\beamer@sectionintoc {2}{Modeling}{21}{0}{2}
-\beamer@subsectionintoc {2}{1}{Model}{21}{0}{2}
-\beamer@subsectionintoc {2}{2}{Modeling Languages}{24}{0}{2}
-\beamer@sectionintoc {3}{Meta-Modelling}{31}{0}{3}
-\beamer@sectionintoc {4}{Summary}{37}{0}{4}
+\beamer@sectionintoc {2}{Backgrounds}{7}{0}{2}
+\beamer@sectionintoc {3}{Survey Results}{9}{0}{3}
+\beamer@sectionintoc {4}{Analysis}{21}{0}{4}
+\beamer@sectionintoc {5}{Summary}{27}{0}{5}

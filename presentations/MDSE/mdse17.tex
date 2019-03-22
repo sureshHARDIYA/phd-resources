@@ -46,8 +46,9 @@
   \tableofcontents[currentsection,currentsubsection]
 \end{frame}
 
-\section{Background}
+\section{Introduction}
 \subsection{Software Engineering, SE}
+
 \begin{frame}{Survey conducted on two phases }
 \begin{itemize}
 	\item with 228 software paractitioner
@@ -59,8 +60,20 @@
 \end{center}
 \end{frame}
 
+\begin{frame}{Survey Structure}
 
+	\begin{itemize}
+		\item Topic 1 - \textbf{Fundamentals} - Software design and what is software model 
+		\item Topic 2 -  \textbf{Basic Characteristics of practices} - What medium and methods are used for moedling? 
+		\item Topic 3 -  \textbf{Life Cycle} - Activities involved in SDLC  
+		\item Topic 4 -  \textbf{Platforms} - Tools, methodologies, platforms used in SDLC 
+		\item Topic 5 -  \textbf{Efficacy} - Design and development practices 
+		\item Topic 6 -  \textbf{Code VS Model centrism} - Challenges in code-centric vs model centric SD
+		\item Topic 7 -  \textbf{Open ended and optinal contact info} 
+		\item Topic 8 -  \textbf{Demographics }
+	\end{itemize}
 
+\end{frame}
 
 \begin{frame}{Goal of the Survey}
 \only<1->{
@@ -79,505 +92,151 @@
 \end{frame}
 
 
-\begin{frame}{Software Engineering}
-\only<1->{
-    \begin{itemize}
-    \item Software covers two aspects:
-    	\begin{itemize}
-    	 \item {\bf{Structural}}, data and knowledge representation
-    	 \item {\bf{Procedural}}, description of dynamically changes of data
-    	\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-    
-    \item Traditional view of software development:\\
-    	$Algorithms + Data Structures = Programs$
-    	
-    \item MDE view of software development:\\
-    	$Models + Transformations = Software$
-    \end{itemize}
-}
-\end{frame}
+\section{Backgrounds}
+\begin{frame}{Software Design}
 
-
-
-
-\begin{frame}{Data representation}
-    \begin{itemize}
-    \item A conceptual model is an abstract representation of a system, made of the composition of concepts which are used to help people know, understand, or simulate a subject the model represents. 
-     \item How can we formalize this?
-    	 	\begin{itemize}
-      	\item How can we represent concepts?
-      	\item How can we represent relations between concepts?
-     	\end{itemize}
-    \end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{Modelling Perspectives}
-    Software models represents different perspectives of the system:
-
-
-        \begin{itemize}
-        \item External perspective, models the context of the system, or the interfaces to other systems 
-
-        \item Interaction perspective, models the interaction between the system and its environment
-
-        \item Structural perspective, models the structure of the system (or the data)
-
-        \item Behavioral perspective, models the dynamic behavior of the system
-        \end{itemize}
-\end{frame}
-
-
-
-
-
-\begin{frame}{Formalization}
-To reason about the domain we need a formalization that have:
 \begin{itemize}
-\item Enough expressive power:
-	\begin{itemize}
-	\item To express relations between model types
-	\item To express relations between model types and instances
-	\end{itemize}
-\item The right level of abstraction
-\item Possibility to be visualized (both machine and human understandable)
-\end{itemize} 
-\end{frame}
 
-\begin{frame}{Sets}
-Sets can be used to represent concepts. Where elements of a set represents instances of a concept.  To state that an individual is element of a set we use $\in$ notation e.g. to say that Yngve is a professor we write $yngve \in Professor$\\
-Example of concepts from the University domain:
-\begin{itemize}
-\item Students, Professor, Subject, Courses etc. 
-\end{itemize} 
-
-
-\end{frame}
-
-
-
-\begin{frame}{Expressibility of Sets}
-
-How can we relate concepts?\\
-Functions (and relations) are traditional ways of relating sets.
-Function ensures that for each input of the source set it exists an unique output of the target set. Hence a function $f$ can be visualized with an array $f: X \to Y$. Illustrating for each $x \in X$ it exists an unique $y \in Y$ 
-
-Expressibility of functions:
-\begin{itemize}
-\item Functions can be used to model isA relations. E.g. to model that all students is a person we use an inclusion function: $\iota: Student \to Person$
-alternative notation $Student \subset Person$
-
-\item Functions can be used to merge/classify elements
-e.g.  E.g. we can make a function $Year: Students \to \{ 1,2,3, 4,  \bullet \}$ To model how long  a PhD is in the study, where $\bullet$ models students that use more than 4 years. 
-\end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{Special sets}
-\begin{itemize}
-\item It exists a set with one unique mapping to every other set, the emptyset $\emptyset$. A set that has a unique mapping to every other sets is called an initial set (initial object)
-
-\item It also exists sets that have a unique mapping from every other set, a one point set $\{ \bullet \}$.
-Sets (objects) satisfying this properties are called terminal.
-All elements of a set $X$ is identified in $\{ \bullet \}$ by the unique mapping $x:X \to \{ \bullet \}$
-
-\item An element (constant) $c$ in a set $X$ is represented by a function from $c: \{ \bullet \} \to X$
+	\item Topic 6 -  \textbf{Code VS Model centrism} - Challenges in code-centric vs model centric SD
+	\item Topic 7 -  \textbf{Open ended and optinal contact info} 
+	\item Topic 8 -  \textbf{Demographics }
 \end{itemize}
 
-
-How to merge sets?\\
-Union, intersection disjoint union etc..
 \end{frame}
 
+\begin{frame}{Modeling languages}
 
-
-\begin{frame}{Relations}
-How to relate students and courses?\\
- We can not use functions since a student might take several courses and a course has usually many students.\\
-A relation is a subset of the cartesian product:
-For example Enrolment could be expressed as a binary relation between Courses and Students
-$Enrolment \subset Student \times Course$ \\
-We can also think about the relation as predicate on the combined types that is true for the pairs in the relation.
-
-We can model that a $Student$ is a $Person$ by making a unary relation $Student \subset Person$, in other words $Student$ is a predicate on $Person$ that is true for all persons that are students.
-\end{frame}
-
-
-\begin{frame}{Graphs}
-A (directed) \textbf{graph} $G$ is defined by $G=(N_G,E_G,src_G,trg_G)$ where
-  \begin{itemize}
-  \item $N_G$ is a set of nodes
-  \item $E_G$ is a set of edges
-  \item Function, $src_G:E_G \to N_G$, returns the source node of a edge
-  \item Function, $trg_G:E_G \to N_G$, returns the target node of a edge
-  \end{itemize}
-{Example}
-     \[\xymatrixrowsep{0.15in}
-		\xymatrixcolsep{0.15in}
-      \xymatrix{		& N_1 \ar[dl]_{e_1} \ar[dr]	^{e_2}	&& N_2 \ar[dl]_{e_3} \ar[dr]^{e_4}\\
-      					N_3		&&  N_4	& 						& N_5 \ar[dl]_{e_5} \ar[dr]^{e_6}\\
-      																&&& N_6			&&  N_7} \]
-\end{frame}
-
-
-\begin{frame}{Example Graph}
-The graph $G=(N_G,E_G,src_G,trg_G)$ is given by the following digram:
-
-     \[\xymatrixrowsep{0.15in}
-		\xymatrixcolsep{0.15in}
-      \xymatrix{		& N_1 \ar[dl]_{e_1} \ar[dr]	^{e_2}	&& N_2 \ar[dl]_{e_3} \ar[dr]^{e_4}\\
-      					N_3		&&  N_4	& 						& N_5 \ar[dl]_{e_5} \ar[dr]^{e_6}\\
-      																&&& N_6			&&  N_7} \]
-  \begin{itemize}
-  \item $N_G = \{ N_1 ,  N_2 ,  N_3 ,  N_4 ,  N_5 ,  N_6 ,  N_7\}$ 
-  \item $E_G =\{ e_1 ,  e_2 ,  e_3 ,  e_4 ,  e_5 ,  e_6 \}$
-  \item $src_G(e_1) = N_1 = src_G( e_2),  src_G(e_3)=N_2 = src_G(e_4) ,  src_G(e_5) = N_5 =  src_G(e_6 ) $
-  \item $trg_G:G(e_1) = N_3 , trg_G( e_2)=N_4 =   trg_G(e_3),  trg_G(e_4)=N_5 ,  trg_G(e_5) = N_6 ,  trg_G(e_6 ) = N_7$ 
-  \end{itemize}
-
-\end{frame}
-
-
-
-\begin{frame}{Graph Homomorphism}
-
-A \textbf{graph homomorphism} $\phi: G \to H$, between to graphs $G,H$ is defined by two mappings $\phi_N : N_G \to N_H$ and $\phi_E : E_G \to E_H$, that preserves source and target.\\
-It means that for each edge $e \in E_G$ we have that: $src_H(\phi_E(e)) = \phi_N(src_G(e))$ and  $trg_H(\phi_E(e)) = \phi_N(trg_G(e))$\\
-
-
-Is there a graph homomorphism from the graph $H$ given by the following digram:
-
-     \[\xymatrixrowsep{0.15in}
-		\xymatrixcolsep{0.15in}
-		\xymatrix{		& A_1 \ar[r]^{f_1} 	& A_2 \ar[r]	^{f_2} & N_3 } \]
-		
-And the graph $G$?		
-		
-      \[\xymatrixrowsep{0.1in}
-		\xymatrixcolsep{0.1in}
-      \xymatrix{		& N_1 \ar[dl]_{e_1} \ar[dr]	^{e_2}	&& N_2 \ar[dl]_{e_3} \ar[dr]^{e_4}\\
-      					N_3		&&  N_4	& 						& N_5 \ar[dl]_{e_5} \ar[dr]^{e_6}\\
-      																&&& N_6			&&  N_7} \]
-\end{frame}
-
-
-\begin{frame}{Example Graph Homomorphism}
-
-It's actually two graph homomorphisms $\phi$ and $\rho$ from $H$ to $G$:
-\begin{description}
-\item[$\phi$:] 
-$\phi_N(A_1) = N_2, \phi_N(A_2) = N5, \phi_N(A_3) =N_6$ and\\
-$\phi_E(f_1) = e_4, \phi_E(f_2) = e5$
-\item[$\rho$:]
-$\rho_N(A_1) = N_2, \rho_N(A_2) = N5, \rho_N(A_3) =N_7$ and\\
-$\rho_E(f_1) = e_4, \rho_E(f_2) = e6$
-\end{description}
-
-     \[\xymatrixrowsep{0.15in}
-		\xymatrixcolsep{0.15in}
-		\xymatrix{		& A_1 \ar[r]^{f_1} 	& A_2 \ar[r]	^{f_2} & N_3 } \]
-		
-And the graph $G$?		
-		\[\xymatrixrowsep{0.1in}
-		\xymatrixcolsep{0.1in}
-      \xymatrix{		& N_1 \ar[dl]_{e_1} \ar[dr]	^{e_2}	&& N_2 \ar[dl]_{e_3} \ar[dr]^{e_4}\\
-      					N_3		&&  N_4	& 						& N_5 \ar[dl]_{e_5} \ar[dr]^{e_6}\\
-      																&&& N_6			&&  N_7} \]
-\end{frame}
-
-\begin{frame}{Graph based modelling}
-Nodes represents concepts and edges represents relations between concepts:
-
-    \begin{columns}[T]
-    \column{.5\textwidth}
-    \begin{block}{Concepts}
-        \begin{itemize}
-        \item Person 
-        \item Employee
-        \item Customer
-        \end{itemize}
-    \end{block}
-    \column{.5\textwidth}
-    \begin{block}{Example}
-     \[\xymatrixrowsep{0.1in}
-		\xymatrixcolsep{0.1in}
-      \xymatrix{		& Person \ar[dl] \ar[dr]\\
-      					Employee		&& Customer} \]
-    \end{block}
-
-  \end{columns}
-\end{frame}
-
-
-\begin{frame}{More concepts and relations}
-Note that we have different types of relations:
 \begin{itemize}
-\item An Employee isA Person
-\item A Customer books a room (formally a RoomType)
+	
+	\item Topic 6 -  \textbf{Code VS Model centrism} - Challenges in code-centric vs model centric SD
+	\item Topic 7 -  \textbf{Open ended and optinal contact info} 
+	\item Topic 8 -  \textbf{Demographics }
 \end{itemize}
 
-    {Example}
-     \[\xymatrixrowsep{0.1in}
-		\xymatrixcolsep{0.1in}
-      \xymatrix{		& Person \ar[dl] \ar[dr]		&& Booking \ar[dl]\ar[dr]\\
-      					Employee		&& Customer	& 						&RoomType \ar[dl] \ar[dr]\\
-      																&&& Double			&& Single} \]
-    
 \end{frame}
-
-
-
-
-
-\begin{frame}{Typing and instance}
-An instance of a graph $G$ is a graph $I$ together with a graph homomorphism $\iota:I \to G$, we say that $I$ is typed by $G$
-
-    \begin{columns}[T]
-    \column{.5\textwidth}
-    \begin{block}{Typing}
-        \begin{itemize}
-        \item Person typed by Class
-        \item childOf typed by Association
-        \item 2..2 typed by Property
-        \end{itemize}
-    \end{block}
-    \column{.5\textwidth}
-   
-
-  \end{columns}
-\vspace{-3em}
-An instance conforms to a model (graph) if it satisfies all constraints of the model.
-A person instance will conform to the model above if it has exactly two parents
-
-\end{frame}
-
-
-
-
-
-
-
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\section{Survey Results}
 
-
-
-
-
-
-
-
-
-\section{Modeling}
-
-\subsection{Model}
-
-\begin{frame}{Modelling}
-    Model, from Latin \emph{modulus} meaning measure/standard
-    \begin{itemize}
-    \item A model is used in two ways either as a:
-
-        \begin{description}
-        \item[Prescription] model (usually a miniature) used to represent a system before creation, as a pattern for design
-
-        \item[Description] model used to represent some major aspects of an item, object, system, or concept
-        \end{description}
-
-    \item A model need to meet the following 3 criteria:
-
-        \begin{description}
-        \item [Reflection ] The model reflects some properties of the original (system)%. The original could be a construction that exists or is planned to be built, or a conceptual abstract idea
-
-        \item [Abstraction] The model describes only some of the "interesting" properties of the original
-
-        \item [Substitution] The model can be used instead of the original for some purposes
-
-        \end{description}
-    \end{itemize}
-
+\begin{frame}{Demographics }
+\begin{center}
+	\includegraphics<1>[scale=0.4]{demographics}
+\end{center}
 \end{frame}
 
+\begin{frame}{Topic 1: What is a software model?}
+   \begin{center}
+   	\includegraphics<1>[width=\textwidth]{question1}
+   \end{center}
+\end{frame}
 
-\begin{frame}{Modelling Abstraction}
+\begin{frame}{Topic 2: Characterization of Practices 1/4}
+        \begin{itemize}
+        \item Medium and Methods used for modeling
 
-    \begin{itemize}
-    \item Abstraction key element in modelling used for:
+        \item What models are used for?
 
-        \begin{description}
-        \item[Generalization] generalize specific features of model elements
-
-        \item[Classification] classify model elements into coherent clusters
+        \item Reference Materials
         
-        \item[Aggregation] Aggregate model elements into more complex ones 
-        
-        \item[Information hiding] Hide implementation details from presentation 
-        \end{description}
-    \end{itemize}
+         \item Participants daily activities
+        \end{itemize}
+    
+    	 \begin{center}
+    		\includegraphics<1>[width=\textwidth]{2_1}
+    	\end{center}
+\end{frame}
 
+\begin{frame}{Characterization of Practices 2/4}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{2_2}
+\end{center}
+\end{frame}
+
+\begin{frame}{Characterization of Practices 3/4}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{2_3}
+\end{center}
+\end{frame}
+
+\begin{frame}{Characterization of Practices 4/4}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{2_4}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Topic 3: Life Cycle - 1/2}
+Activivties invovled in various development phases of Software Development Life Cycle (SDLC)
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{3_1}
+\end{center}
+\end{frame}
+
+\begin{frame}{Life Cycle 2/2}
+
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{3_2}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Topic 4: Platforms}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{4_1}
+\end{center}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{4_2}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Topic 5: Efficacy}
+\begin{itemize}
+	\item Questions related to suitability of the modeling tools
+	\item Participants' perceptions of key characteristics of modeling tools
+\end{itemize}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{5_1}
+\end{center}
 \end{frame}
 
 
 
+\begin{frame}{Topic 6: Code VS Model centralism - 1/2}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{6_1}
+\end{center}
 
+\begin{itemize}
+	\item Results show it is easier to create a prototypes, modify the system, create a reusable system and explain system to others in the form of model 
+	\item It is easier to debug, create effecient software system, create a system as soon as possible in code. 
+\end{itemize}
 
-
-\begin{frame}{Modeling and development methods}
-
-    Software models are used for different purposes in different development methods:
-        \begin{itemize}
-        \item Agile methods, models are means to facilitate discussion about systems or design
-        \item Structured methods (UP), models are mainly used for documentation and specification
-        \item MDE, models are used for system development and code generation
-        \end{itemize}
 \end{frame}
 
 
-
-
-
-\subsection{Modeling Languages}
-
-\begin{frame}{General Purpose Modeling Languages (GPML)}
-
-    \begin{itemize}
-    \item General purpose modelling Languages (GPML) are made to represent some aspects of a system (object of study)
-
-    \item GPMLs are often graph based with limited support for constraints
-        \begin{itemize}
-        \item In practice: UML+ OCL
-        \end{itemize}
-    \item The semantics is often not precise or undocumented
-    \item GPMLs are often made to support a specific technology
-        \begin{itemize}
-        \item UML object orientation
-        \item ER relational databases
-        \end{itemize}
-    \end{itemize}
+\begin{frame}{Topic 6: Code VS Model centralism - 2/2}
+\begin{center}
+	\includegraphics<1>[width=\textwidth]{6_2}
+\end{center}
+\begin{itemize}
+	\item Models become out of date and inconsistent with code 
+	\item Models can not be easily exchanged between tools
+\end{itemize}
 \end{frame}
 
 
-\begin{frame}{Some modeling languages}
-        \begin{description}
-        \item [Behavior Trees]  formal, graphical modelling language to unambiguously represent natural language requirements for large-scale software-integrated systems
-
-        \item [Business Process Modelling Notation]  (BPMN, it's XML form BPML and executable form BPEL) examples of a Process Modelling language
-
-        \item [Object Role Modelling] (ORM) conceptual DB modelling language
-
-        \item [Petri nets] For model checking, graphically-oriented simulation, and software verification
-
-        \item [Unified Modelling Language] (UML), diagrams for behaviour and structure specification
-
-        \item[Formal languages] Algebraic, logic, categorical, set based, \ldots
-        \end{description}
-\end{frame}
-
- \begin{frame}{Unified Modeling Language (UML)}
-    \begin{itemize}
-    \item UML is defacto industry standard for modelling
-
-    \item UML consists of 13 different diagrams, most important are:
-        \begin{itemize}
-        \item Activity diagrams, activities in processes
-        \item Use case diagrams, interaction between system and environment
-        \item Sequence diagrams, interaction between system components (and actors)
-        \item Class diagrams, structure of the system
-        \item State diagrams, system dynamics
-        \end{itemize}
-    \end{itemize}
-\end{frame}
-
-\begin{frame}{Some facts about UML}
-    \begin{itemize}
-
-    \item UML can only express constraints on binary relations, basically UML specifies only cardinality constraints
-
-    \item UML has serious issues regarding:
-        \begin{itemize}
-        \item Semantics; UML models may be ambiguous and have
-        semi-formal semantics
-        \item Complexity; UML uses 13 different types of diagrams
-        \item Expressibility; To express constraints over higher
-        order relations one need to use string based logic, (Object Constraint Language, OCL)
-        \end{itemize}
-    \end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{Formal modeling languages}
-
-  Pros:
-    \begin{itemize}
-    \item Nice semantics, several fundamental
-    Software Engineering
-    problems solved by use of formal methods
-
-    \item Set based semantics (logic, algebras, type theory, \ldots)
-     \end{itemize}
-
-   Cons:
-   \begin{itemize}
-    \item No concept of meta-modelling
-
-    \item Hard for software engineers to apply in practice
-
-    \item Lack of good software development tools based on formal
-    approaches
-
-    \item Only used by well trained experts
-
-    \item High cost low productivity
-
-    \end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{Domain Specific Modelling Languages DSMLs}
-\only<1->{
-    \begin{itemize}
-    \item Domain Specific Modelling Languages DSMLs are modelling languages made for a specific domain
-    \item In MDE:
-        \begin{itemize}
-        \item DSMLs usually specified by a graph-based meta-model + text-based Constraints
-        \item In practice: UML, UML profiles + OCL
-        \end{itemize}
-    \end{itemize}
-}
-\only<2->{
-    \begin{itemize}
-    \item Problem
-        \begin{itemize}
-        \item Typing and constraints are specified by different languages (having different meta-models)
-        \item Model transformations usually not constraint-aware
-        %\item synchronization of graphical models with textual constraints
-        \end{itemize}
-    \end{itemize}
-}
-\only<2->{
-    \begin{itemize}
-    \item Solution
-        \begin{itemize}
-        \item Diagrammatic specification formalism where the meta-modelling considers both typing and constraints
-        \end{itemize}
-        \end{itemize}
-}
-\end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Meta-Modelling}
+\section{Analysis}
 
-\begin{frame}{Meta Modelling}
+\begin{frame}{Analysis}
     \begin{itemize}
     \item A meta-model is a model of a modelling language 
 
@@ -743,9 +402,15 @@ A person instance will conform to the model above if it has exactly two parents
     \item Prolog-based infrastructure for RDF: performance and scalability. Wielemaker, J., Schreiber, A.T., Wielinga, B.J.
 In: (Ed.), The Semantic Web - Proceedings ISWC'03, Sanibel Island, Florida (pp. 644-658). Springer Verlag
 
-	\item Alloy: a lightweight object modelling notation. Jackson, D. (2002). ACM Transactions on Software Engineering and Methodology (TOSEM), 11(2), 256-290  
+	\item Alloy: a lightweight object modelling notation. Jackson, D. (2002). ACM Transactions on Software Engineering and Methodology (TOSEM), 11(2), 256-290  \cite{b1}
   \end{itemize}
   \end{frame}
+
+\begin{frame}[allowframebreaks]
+\frametitle{References}
+\bibliographystyle{amsalpha}
+\bibliography{./lib.bib}
+\end{frame}
 
 
 
