@@ -3,44 +3,58 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: mdse17.aux
 The style file: amsalpha.bst
 Database file #1: ./lib.bib
-You've used 1 entry,
+I was expecting a `,' or a `}'---line 20 of file ./lib.bib
+ :  
+ :  year = {2018}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Omar Badreddin, Rahad Khandoker, Andrew Forward, Omar Masmali and Timothy Lethbridge" for entry b2
+while executing---line 1276 of file amsalpha.bst
+Too many commas in name 1 of "Omar Badreddin, Rahad Khandoker, Andrew Forward, Omar Masmali and Timothy Lethbridge" for entry b2
+while executing---line 1276 of file amsalpha.bst
+Too many commas in name 1 of "Omar Badreddin, Rahad Khandoker, Andrew Forward, Omar Masmali and Timothy Lethbridge" for entry b2
+while executing---line 1372 of file amsalpha.bst
+Warning--missing booktitle in b2
+Warning--missing year in b2
+You've used 3 entries,
             2624 wiz_defined-function locations,
-            564 strings with 4537 characters,
-and the built_in function-call counts, 391 in all, are:
-= -- 35
-> -- 8
-< -- 1
-+ -- 2
-- -- 2
-* -- 34
-:= -- 66
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 5
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 15
-empty$ -- 32
-format.name$ -- 4
-if$ -- 73
+            573 strings with 4975 characters,
+and the built_in function-call counts, 1000 in all, are:
+= -- 84
+> -- 35
+< -- 2
++ -- 10
+- -- 10
+* -- 74
+:= -- 163
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 3
+cite$ -- 5
+duplicate$ -- 47
+empty$ -- 87
+format.name$ -- 15
+if$ -- 196
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 3
-pop$ -- 5
+missing$ -- 5
+newline$ -- 19
+num.names$ -- 9
+pop$ -- 31
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 19
 quote$ -- 0
-skip$ -- 10
+skip$ -- 29
 stack$ -- 0
-substring$ -- 32
-swap$ -- 1
-text.length$ -- 1
-text.prefix$ -- 1
+substring$ -- 46
+swap$ -- 5
+text.length$ -- 2
+text.prefix$ -- 2
 top$ -- 0
-type$ -- 8
-warning$ -- 0
-while$ -- 4
-width$ -- 2
-write$ -- 20
+type$ -- 24
+warning$ -- 2
+while$ -- 9
+width$ -- 6
+write$ -- 37
+(There were 4 error messages)

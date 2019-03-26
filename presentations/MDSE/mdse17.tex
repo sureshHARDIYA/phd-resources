@@ -11,24 +11,27 @@
 \usepackage{verbatim}
 \usepackage[all]{xy}
 \usepackage{listings}
-
+\usepackage{smartdiagram}
 \usepackage{fancybox}
+\usepackage{animate}
 
 \definecolor{dgreen}{rgb}{0.0,0.47,0.0}
 \definecolor{maroon}{rgb}{0.8,0.5,0.4}
 
 \usetheme{Singapore}
 \usecolortheme{lily}
+\usepackage{etoolbox,refcount}
 
+	
 \graphicspath{{images/}}
 
 \title{A Decade of Software Design and Modeling: A Survey to Uncover Trends of the Practice}
 
-\author[Suresh Kumar Mukhiya]{{Suresh Kumar Mukhiya}}
+\author[omar]{{Omar Badreddin, Rahad Khandoker, Andrew Forward, Omar Masmali and Timothy Lethbridge}}
 
-\institute[Bergen University College]{ Western Norway University of Applied Sciences}
+\institute[Bergen University College]{ Presented By: \\ Suresh Kumar Mukhiya \\ Western Norway University of Applied Sciences}
 
-\date[Autumn 2017]{PCS 953 / {DAT 353} \\ Spring 2019\\ Bergen \\ Norway}
+\date[Autumn 2017]{PCS 953 / {DAT 353} \\ Spring 2019\\ Bergen, Norway}
 
 \subject{Model Driven Engineering MDE\\ www.dpf.hib.no}
 
@@ -53,7 +56,8 @@
 \begin{itemize}
 	\item with 228 software paractitioner
 	\item April-December, 2007
-	\item March-November, 2017
+	\item March-November, 2017 \cite{b1}
+	\item 152 questions
 \end{itemize} 
 \begin{center}
 	\includegraphics<1>[scale=0.4]{survey}
@@ -69,18 +73,10 @@
 		\item Topic 4 -  \textbf{Platforms} - Tools, methodologies, platforms used in SDLC 
 		\item Topic 5 -  \textbf{Efficacy} - Design and development practices 
 		\item Topic 6 -  \textbf{Code VS Model centrism} - Challenges in code-centric vs model centric SD
-		\item Topic 7 -  \textbf{Open ended and optinal contact info} 
+		\item Topic 7 -  \textbf{Open ended and optional contact info} 
 		\item Topic 8 -  \textbf{Demographics }
 	\end{itemize}
 
-\end{frame}
-
-\begin{frame}{Goal of the Survey}
-\only<1->{
-    \begin{itemize}
-    \item Uncover \textbf{trends in the practice} of \texttt{software design} and \textbf{adaptation pattern} of \texttt{modeling language}
-    \end{itemize}
-}
 \end{frame}
 
 \begin{frame}{Goal of the Survey}
@@ -95,27 +91,96 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Backgrounds}
-\begin{frame}{Software Design}
+\begin{frame}{Software Design }
+ \begin{quotation}
+ 	\textit{... is the process of converting users' need into a suitable form, which helps the programmar in software coding and implementation.}
+ \end{quotation}
 
-\begin{itemize}
+\begin{quotation}
+	\textit{... Software design is the process by which an agent creates a specification of a \textbf{software artifact}, intended to accomplish goals, using a set of primitive components and subject to constraints.}
+\end{quotation}
 
-	\item Topic 6 -  \textbf{Code VS Model centrism} - Challenges in code-centric vs model centric SD
-	\item Topic 7 -  \textbf{Open ended and optinal contact info} 
-	\item Topic 8 -  \textbf{Demographics }
-\end{itemize}
-
+\tiny An artifact is one of many kinds of tangible by-products produced during the development of software. Some artifacts (e.g., use cases, class diagrams, and other Unified Modeling Language (UML) models, requirements and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself—such as project plans, business cases, and risk assessments.
 \end{frame}
+
+\begin{frame}{Design Concepts - SDLC}
+\begin{itemize}
+	\item Software Design is the first step in SDLC (Software Design Life Cycle) - defined in ISO/IEC 12207.
+\end{itemize}
+\begin{center}
+	\smartdiagram[circular diagram:clockwise]{Planning,Defining,Designing,Building,Testing,Deployment}
+\end{center}
+\end{frame}
+
+\begin{frame}{Design Concepts - Why is it required? / Design considerations}
+There are many aspects to consider in the design of a piece of software. The importance of each consideration should reflect the goals and expectations that the software is being created to meet. Some of these aspects are \cite{b3}: 
+\begin{itemize}
+	\item Modularity
+	\item Performance
+	\item Portability
+	\item Usability
+	\item Trackability
+	\item Deployment
+	\item R3 (Reliability, Reusability and Robustness)
+	\item Security
+	\item Scalability
+	\item Maintainability 
+\end{itemize}
+\end{frame}
+
 
 \begin{frame}{Modeling languages}
+A modeling language is any \textbf{artificial language} that can be used to express \textbf{information or knowledge or systems} in a structure that is defined by a consistent set of \textit{rules}.
 
+Types of modeling languages:
 \begin{itemize}
-	
-	\item Topic 6 -  \textbf{Code VS Model centrism} - Challenges in code-centric vs model centric SD
-	\item Topic 7 -  \textbf{Open ended and optinal contact info} 
-	\item Topic 8 -  \textbf{Demographics }
+	\item Graphical Modeling languages
+	\item Textual Modeling languages
+	\item More specific types
 \end{itemize}
 
 \end{frame}
+
+\begin{frame}{Graphical Modeling languages}
+\begin{itemize}
+		\item BPMN
+		\item Flowchart
+		\item Petri nets
+		\item UML
+		\item Behavior Trees
+		\item C-K Theory (Concept Knowledge Theory)
+		\item ORM (Object Role Modeling)
+		\item SysML
+		\item SOMF (Service-oriented Modeling Framework)
+		\item DFD (Data Flow Diagram)
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Textual Modeling languages}
+Information models can also be expressed in formalized natural languages. \\
+\textbf{Example:} Gellish
+
+
+- the Eiffel tower <is located in> Paris \\
+- Paris <is classified as a> city
+
+
+ \begin{center}
+	\includegraphics<1>[scale=0.2]{textual}
+\end{center}
+\end{frame}
+
+\begin{frame}{More specific types }
+\begin{itemize}
+	\item Domain-Specific Modeling (DSM) - specialized to a particular application domain.
+	\item Algebraic Modeling Languages (AML) - mainly in mathematical computation
+	\item Virtual Reality Modeling Language (VRML)
+	\item Behvioral  - process calculus or process algebra for formally modelling concurrent systems.
+	\item Information and knowledge modelling 
+	\item Object Modeling Language  
+\end{itemize}
+\end{frame}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -131,6 +196,13 @@
    \begin{center}
    	\includegraphics<1>[width=\textwidth]{question1}
    \end{center}
+
+	  \begin{itemize}
+		\item Textual Use Case
+		\item Whiteboard Drawing
+		\item Picture by Hand
+		\item Picture by Drawing tools
+	\end{itemize}
 \end{frame}
 
 \begin{frame}{Topic 2: Characterization of Practices 1/4}
@@ -153,9 +225,16 @@
 \begin{center}
 	\includegraphics<1>[width=\textwidth]{2_2}
 \end{center}
+	  \begin{itemize}
+	\item Developing a design
+	\item Converting a design to digital format
+	\item Prototyping a design
+	\item Brainstorming possible designs
+\end{itemize}
 \end{frame}
 
 \begin{frame}{Characterization of Practices 3/4}
+The type of artifacts the developers refer to:
 \begin{center}
 	\includegraphics<1>[width=\textwidth]{2_3}
 \end{center}
@@ -237,174 +316,128 @@ Activivties invovled in various development phases of Software Development Life 
 \section{Analysis}
 
 \begin{frame}{Analysis}
-    \begin{itemize}
-    \item A meta-model is a model of a modelling language 
 
-    \item Meta-models are used to define modelling languages
-
-    \item E.g. in OO modelling a person is an instance of class
-
-    \item Meta-modelling is used to create Domain Specific Modelling Languages DSMLs, i.e. one create language constructs for important domain concepts, e.g. a student and a teacher is instances of persons
-    \end{itemize}
+   \begin{center}
+   	\scalebox{0.7}{
+   			\smartdiagram[constellation diagram]{
+   			Analysis,Upward Trends,Downward \\Trends,Expected Trends,Unexpected Trends
+   		}
+   	}
+   
+   \end{center}
 \end{frame}
 
-\begin{frame}[t]{Meta-model example}
-  \begin{columns}[T]
-    \column{.5\textwidth}
+\begin{frame}{Upward Trends}
+    \begin{itemize}
+	\item Increase in use of DSLs and Formal modeling languages
+	\item Use of models
+		\begin{itemize}
+			\item Provide high level of \textbf{information density}
+			\item Brainstorming session and redesigning process
+		\end{itemize}
+	\item Increase use of ERD tools
+	\item Scaffolding- forward engieering ie partial code generation. Why:? 
+	\begin{itemize}
+		\item Increase adoption of DSL and its customization ability
+		\item Modeling tools have better code generation ability
+		
+	\end{itemize}
+\item Examples: Papyrus, PlantUML, txtUML, MagicDraw, LucidChart etc
+\end{itemize}
+\end{frame}
 
-    \column{.5\textwidth}
-    
-  \end{columns}
-  \begin{block}{}
-    \only<1>{
-    \begin{itemize}
-      \item Models: first class entities
-    \end{itemize}
-    }
-    \only<2>{
-    \begin{itemize}
-      \item Models: specified by means of a modelling language
-    \end{itemize}
-    }
-    \only<3>{
-    \begin{itemize}
-      \item Modelling language: corresponding meta-model + semi-formal semantics
-    \end{itemize}
-    }
-  \end{block}
+\begin{frame}{Upward Trends - very disturbing claim}
+Another important trend is the increase in recognition that \textbf{\texttt{programming languages and related technologies and platforms could become quickly obsolete.}} This trend is particularly positive as it is a motivation for adopting model-centric approaches that tend to provide better support for platform independence.
+\end{frame}
+
+\begin{frame} {SapFix and Sapienz}
+ \begin{center}
+ 		\includegraphics<1>[width=\textwidth]{sap}
+ \end{center}
+ 
+\end{frame}
+
+\begin{frame} {SapFix and Sapienz}
+\begin{itemize}
+	\item A new AI hybrid tool created by Facebook to automatically generate fixes for \texttt{specific bugs} \cite{b2}
+	\item Proposes them (fixes) to engineers for approval and deployment in the production
+	\item Has already been used to accelerate the process of shipping reobust, stable code updates to millions of devices using Facebook Android application
+\end{itemize}
+\begin{quotation}
+	\noindent Does this mean  \textbf{\texttt{programming languages and related technologies and platforms could become quickly obsolete.}}?
+\end{quotation}
+
+\end{frame}
+
+\begin{frame}{Downwards Trends}
+\begin{itemize}
+	\item Inadequate support for maintaining code of the modeling tools
+	\item Decreased user satisfaction
+	\begin{itemize}
+		\item Overly complex
+		\item Significant learning curve
+		\item Decreased usability
+	\end{itemize}
+	\item Inadequate support for \texttt{prototyping}
+	\item Decline in perception of modeling tools
+	\begin{itemize}
+		\item Investment of time in model creation and model maintenance is not justified
+	\end{itemize}
+	\item Less support for communication with other developers and designers
+	\item \texttt{Eclipse, the open source development platform, demonstrated significant decline in use by the survey participants.}
+\end{itemize}
 \end{frame}
 
 
+\begin{frame}{Expected Trends and Unexpected Trends}
+\begin{itemize}
+	\item Declined in the use of older version of UML
+	\item Increased trends in use of Formal modeling languages and DSLs
+\end{itemize}
 
-\begin{frame}{OMG Meta-modelling Levels}
-    \begin{center}
-  \begin{tabular}{|l|p{60mm}|}
-    \hline
-    \textbf{OMG levels} & \textbf{OMG Standards/examples}\\ \hline
-    $M_3$: Meta-meta-model & MOF\\ \hline
-    $M_2$: Meta-model & UML language\\ \hline
-    $M_1$: Model & A UML model: Class "Person" with attributes "name" and "address"\\ \hline
-    $M_0$: Instance & An instance of "Person": "Ola Nordmann" living in "Sotraveien 1, Bergen"\\ \hline
-  \end{tabular}
-    \end{center}
+Unexpected Trends:
+\begin{itemize}
+	\item Increase in the practices of modeling and design despite of \textbf{many participants satisfaction}
+\end{itemize}
 \end{frame}
 
-
-
-\begin{frame}{MOF based modelling languages}
-        \begin{description}
-        \item [UML System on a Chip]  for microchip/hardware/firmware/software definition
-
-        \item [SoaML] for service-oriented architecture
-         
-        \item [Business Process Modelling Notation]  (BPMN, together with it's XML form BPML and executable form BPEL) examples of a Process Modelling language
-        
-         \item [SysML] for modelling large, complex systems of software, hardware, facilities, people and processes
-
-        \item [UPDM] for modelling enterprise architectures
-
-        \item [CWM] for data warehouse
-        \end{description}
+\begin{frame}{The State of Practice in Model-Driven Engineering}
+\begin{itemize}
+	\item \tiny Authors: Jon Whittle, Jon Hutchinson, and Mark Rouncefield,
+	\item \tiny Published in IEEE Software Design, 2014
+	\item \small A new study that surveyed 450 MDE practitioners and performed in-depth interviews with 22 more from 17 different comparnies representing 9 different sectors suggests that MDE might be more widestpread than commonly believed. 
+	\item Developers rarely use it to \texttt{generate whole systems}. Rather they apply \textsc{MDE} to developer \texttt{key parts of a system.}
+	\item Companies that target a particular domain are more likely to use MDE than companies that develop generic software.
+\end{itemize}
 \end{frame}
 
-
-
-
+\begin{frame}{The Effects of Education on Students’ Perception of Modeling in Software Engineering}
+\begin{itemize}
+	\item \tiny Authors: Omar Badreddin, Arnon Sturm, Abdelwahab Hamou-Lhadj, Timothy Lethbridge,Waylon Dixon, Ryan Simmons. 
+	\item \tiny collected 195 student responses from seven programs at four higher education institutions in Canada, Israel, and the U.S. 
+	\item \small The goal was to investigate the effects of education on students’ perception of modeling. 
+	\item \small The authors found consistent downward trend in how students perceive UML effectiveness as they progress towards their degree.
+	\item Reasons include: \textbf{complexity of modeling tools, lack of integration of modeling tools with existing environment, lack of education about value of modeling tools and techniques.} 
+\end{itemize}
+\end{frame}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Summary}
-
-
-
-
-\begin{frame}{Benefits of MDE}
-
+\begin{frame}{Summary}
     \begin{itemize}
-    \item Engineers can reason about the system at different abstraction levels
-    \item Platform independent models without concern of implementation details
-    \item Less errors and faster development speed by automatic software generation
-    \item Software adoption by (automatic) model transformations
+   \item Increase in use of DSLs and Formal modeling languages
+   \item Use of models
+   \begin{itemize}
+   	\item Provide high level of \textbf{information density}
+   	\item Brainstorming session and redesigning process
+   \end{itemize}
+	\item Inadequate support for maintaining code of the modeling tools
+    \item Increase in the practices of modeling and design despite of \textbf{many participants satisfaction}
     \end{itemize}
 \end{frame}
 
-
-\begin{frame}{Chalenges in MDE}
-
-    \begin{itemize}
-    \item Modelling languages need to haver the right abstractions, i.e. one need domain specific modelling languages
-    \item Specification of constraints integrated in the meta-modelling approach, i.e. graphical modelling formalisms with well defined semantics
-    \item MDE traditionally concerned by software architecture and behaviour, need to have technologies for:
-        \begin{itemize}
-        \item Model management (version control, meta-model evolution)
-        \item Model based security engineering
-        \item Model based testing, software dependencies, \ldots
-        \end{itemize}
-    \end{itemize}
-\end{frame}
-
-
-
-\begin{frame}{State of the art in MDE}
-  \begin{description}
-  \item [Modeling] UML or EMF used as modelling language
-
-  \item [Model transformations] Rule based (e.g. Atlas) or ad hoc transformations are used
-
-  \item [Meta modelling] Only tool support for 2 levels of meta-modelling
-
-  \item [Tool support] Eclipse based (EMF, GMF) tools
-
-  \item [Software constraints] Specified in text based language (OCL)
-  \end{description}
-\end{frame}
-
-\begin{frame}{Links to resources}
-    \begin{itemize}
-    \item \href{http://www.theenterprisearchitect.eu/archive/2009/01/15/mde---model-driven-engineering----reference-guide }{\textcolor[rgb]{0.00,0.00,1.00}{mde-model-driven-engineering-reference-guide}}
-
-    \item \href{http://www.theenterprisearchitect.eu/archive/2008/03/14/model_driven_engineering}{\textcolor[rgb]{0.00,0.00,1.00}{model-driven-engineering}}
-
-    \item \href{http://www.theenterprisearchitect.eu/archive/2008/01/16/mda-model-driven-architecture-basic-concepts}{\textcolor[rgb]{0.00,0.00,1.00}{mda-model-driven-architecture-basic-concepts}}
-
-    \item \href{http://dpf.hib.no/}{\textcolor[rgb]{0.00,0.00,1.00}{\textcolor[rgb]{0.00,0.00,1.00}{Diagram-Predicate-Framework}}}
-
-    \item \href{http://www.eclipse.org/modeling/}{\textcolor[rgb]{0.00,0.00,1.00}{\textcolor[rgb]{0.00,0.00,1.00}{Eclipse-Modeling-Technologies}}}
-
-  \end{itemize}
-\end{frame}
-
-
-\begin{frame}{Litterateur}
-    \begin{itemize}
-    \item Conceptual data modelling from a categorical perspective. ter Hofstede, A. H., Lippe, E. and  Frederiks, P. J. M. (1996), The Computer Journal, 39(3), 215-231.
-    
-    \item View updates in a semantic data modelling paradigm. Johnson, M., Rosebrugh, R. and  Dampney C.N. G.  In: Proceedings of the 12th Australasian database conference. IEEE Computer Society, 2001. p. 29-36
-
-   \item Ontologies: Silver Bullet for Knowledge Management and Electronic Commerce. Fensel D. Berlin: Spring-Verlag
-
-   \item Symbolic graphs for attributed graph constraints. Journal of Symbolic Computation, 46(3), 294-315. Orejas, F. (2011)
-
-	\item Diagram predicate framework: a formal approach to MDE. Rutle, A. (2010)
-
-  \end{itemize}
-  \end{frame}
-
-
-
-\begin{frame}{More Litterateur}
-    \begin{itemize}
-  
-
-    \item Domain-Specific Languages, Martin Fowler (With Rebecca Parsons), Addison Wesley
-    
-    \item Prolog-based infrastructure for RDF: performance and scalability. Wielemaker, J., Schreiber, A.T., Wielinga, B.J.
-In: (Ed.), The Semantic Web - Proceedings ISWC'03, Sanibel Island, Florida (pp. 644-658). Springer Verlag
-
-	\item Alloy: a lightweight object modelling notation. Jackson, D. (2002). ACM Transactions on Software Engineering and Methodology (TOSEM), 11(2), 256-290  \cite{b1}
-  \end{itemize}
-  \end{frame}
 
 \begin{frame}[allowframebreaks]
 \frametitle{References}

@@ -5,11 +5,21 @@
   \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
 }
 \providecommand{\href}[2]{#2}
-\begin{thebibliography}{LEV80}
+\begin{thebibliography}{{ISO}05}
+
+\bibitem[{ISO}05]{b3}
+{ISO/IEC 25000}, \emph{{ISO/IEC 25000:2005 Software Engineering - Software
+  product Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE}},
+  2005.
 
 \bibitem[LEV80]{b1}
 EDWARD~L. LEVINE, \emph{{Introductory Remarks for the Symposium "Organizational
   Application of self-appraisal and self-assessment: Another look"}}, Personnel
   Psychology \textbf{33} (1980), no.~2, 259--262.
+
+\bibitem[OBL]{b2}
+Andrew Forward Omar~Masmali Omar~Badreddin, Rahad~Khandoker and Timothy
+  Lethbridge, \emph{{A Decade of Software Design and Modeling: A Survey to
+  Uncover Trends of the Practice}}.
 
 \end{thebibliography}
