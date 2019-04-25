@@ -27,5 +27,10 @@ List of `Ph.D` resources, I want to share with the research community. Currently
 # Open-source Codebase and API
 - `API Endpoint` [HL7 FHIR standard self-assessment questionnaire.](https://mhof.ml/)
 
-
 # Research Data
+
+# Blogs and News
+- [What mental health issues INTROMAT is dealing with?](https://www.skmukhiya.com.np/what-are-the-mental-health-conditions-we-are-referring-here/)
+- [Facts about Norway](https://www.skmukhiya.com.np/depression/)
+- [Correlation between Sleep and mental health problems](https://www.skmukhiya.com.np/correlation-between-sleep-and-mental-health-problems/)
+- [Adaptive Technology in Mental Health issues](https://www.skmukhiya.com.np/adaptive-technology-in-mental-health/)
