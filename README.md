@@ -16,9 +16,16 @@ List of `Ph.D` resources, I want to share with the research community. Currently
 - https://skmukhiya.netlify.com/ethical-aspects-of-my-project.md/
 
 # Papers
+- `Workshop Paper`: [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA), Fazle Rabbi, Ka I Pun, Yngve Lamo. [An architectural design for self-reporting e-health systems](https://www.researchgate.net/publication/331813302_An_architectural_design_for_self-reporting_e-health_systems)
 
 # Books
 
 # Tutorials
 
 # Hands-on Excersie
+
+# Open-source Codebase and API
+- `API Endpoint` [HL7 FHIR standard self-assessment questionnaire.](https://mhof.ml/)
+
+
+# Research Data
