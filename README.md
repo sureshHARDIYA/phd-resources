@@ -1,4 +1,4 @@
-# `Personalized Treatment of Mental Health Problems using Adaptive Technology` 
+# Personalized Treatment of Mental Health Problems using Adaptive Technology
 
 List of `Ph.D` resources, I want to share with the research community. Currently, I am associated with [INTROMAT](http://intromat.no/) project, which has a vision of improving public mental health with innovative technologies and psychological treatments. I am a Ph.D. candidate hired by INTROMAT team to research the use of adaptive technology for the personalized treatment of mental health issues including [Depression](https://www.skmukhiya.com.np/category/mental-health/depression/), ADHD, Bipolar Disorder and Social Anxiety Disorder.
 
