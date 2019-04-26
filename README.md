@@ -23,6 +23,8 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 # Tutorials
 
+- [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
+
 # Hands-on Excersie
 
 # Open-source Codebase and API
