@@ -21,6 +21,9 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 # Books
 
+# Posters
+- [An architecture for creating self-reporting ehealth systems](https://github.com/sureshHARDIYA/phd-resources/tree/master/Posters/Workshop%20at%20HVl)
+
 # Tutorials
 
 - [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
