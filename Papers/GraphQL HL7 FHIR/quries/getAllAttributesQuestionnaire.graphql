@@ -1,0 +1,60 @@
+query getQuestionnaireByID {
+  Questionnaire(_id: "5cf13f09ced5b613494b54cc") {
+    id
+    meta {
+      profile
+    }
+    text {
+      status
+      div
+    }
+    identifier {
+      use
+      value
+    }
+    title
+    version
+    status
+    code {
+      system
+      code
+      display
+    }
+    subjectType
+    item {
+      linkId
+      type
+      required
+      text
+      answerValueSet {
+        id
+        meta {
+          versionId
+          lastUpdated
+        }
+        url
+        identifier {
+          system
+          value
+        }
+        version
+        name
+        status
+        publisher
+        copyright
+        compose {
+          include {
+            concept {
+              display
+              code
+              extension {
+                valueDecimal
+                url
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

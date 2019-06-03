@@ -1,0 +1,21 @@
+query getQuestionnaireByID {
+  Questionnaire(_id: "5cf13f09ced5b613494b54cc") {
+    title
+    item {
+      text
+      answerValueSet {
+        id
+        compose {
+          include {
+            concept {
+              display
+              extension {
+                valueDecimal
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
