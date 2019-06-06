@@ -7,4 +7,4 @@ The prototype contains following major components:
 
 - `The SMART on FHIR Application` (referred to as the “SMART App” or “Client” below): This is an application that the user wishes to access to perform some function.
 
-- `Authorization Server:`` This is an OpenID Connect compliant web server that is able to authenticate users and issue Access Tokens. Smile CDR is able to perform this role but other Authorization Servers may also be used.
+- `Authorization Server:` This is an OpenID Connect compliant web server that is able to authenticate users and issue Access Tokens. Smile CDR is able to perform this role but other Authorization Servers may also be used.
