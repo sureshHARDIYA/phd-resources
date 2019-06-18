@@ -1,12 +1,12 @@
 # Introduction
 
-# Motivation
+The aim of this technical documentation is to provide sufficient insights for interested parties to validate prototypes developed during my Ph.D. My research falls under `software engineering` in general, however my study tries to include other fields including `health informatics`, `IoT`, and `data science`. To backup my proposed solutions for solving problem associated with my study, we have developed several web and mobile based application as prototypes. However, we must emphasis that the prototypes developed must be used as a source of inspiration or general ideas rather than complete commercial solutions.
 
 # Architecture
 
 The prototype contains following major components:
 
-- `Resource Server`:T his is a FHIR compliant web server that is able to respond to HTTP requests using Access Tokens issued by the Authorization Server.
+- `Resource Server`:This is a FHIR compliant web server that is able to respond to HTTP requests using Access Tokens issued by the Authorization Server.
 - `The User:` This is the person who is actually logging into the application to perform some function. Not all SMART on FHIR flows actually require a user to be present but most do.
 
 - `The SMART on FHIR Application` (referred to as the “SMART App” or “Client” below): This is an application that the user wishes to access to perform some function.
@@ -18,6 +18,20 @@ The prototype contains following major components:
 ## Mobile Client
 
 ## Web Client
+
+### FAQ
+
+- <details><summary>Can I get source code for it?</summary>
+  <p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 ## Authorization Server
 
