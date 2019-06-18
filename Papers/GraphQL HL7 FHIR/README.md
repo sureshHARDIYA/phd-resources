@@ -21,18 +21,8 @@ The prototype contains following major components:
 
 ### FAQ
 
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
+<details><summary>Can I get access to source code?</summary>
+<p> Yes, certainly you can. Email us at <itsmeskm99@gmail.com> and we will give you access to the repository.</p>
 </details>
 
 ## Authorization Server
