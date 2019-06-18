@@ -21,8 +21,10 @@ The prototype contains following major components:
 
 ### FAQ
 
-- <details><summary>Can I get source code for it?</summary>
-  <p>
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
 
 #### yes, even hidden code blocks!
 
