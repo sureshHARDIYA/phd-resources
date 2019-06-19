@@ -114,3 +114,5 @@ Another way to solve this is by inspecting the reference. However, this requires
 1. <a name="1"></a>Suresh Kumar Mukhiya, Fazle Rabbi, Violet Ka I Pun, Yngve Lamo, An architectural design for creating self-reporting e-health systems. InICSE 2019Proceedings in the IEEE Digital Library(2018).
 2. <a name="2"></a> Redux Quick Start Guide: A Beginner's Guide to Managing App State with Redux, James Lee, Tao Wei, Suresh Kumar Mukhiya, Packt Publishing, Feb 28, 2019
 3. <a name="3"></a> Mukhiya, S. K., & Hoang Hung, K. (2018). An Architectural Style for Single Page Scalable Modern Web Application, 5(4), 6–13. Retrieved from https://www.ijrra.net/Vol5issue4/IJRRA-05-04-02.pdf
+
+The authorisation server is an OpenID connect [40] compliant web server with an ability to authenticate users and grant authorisation access tokens. More- over, authorisation server manages scopes and permission of the clients, introspects token and requests for the resource server.
