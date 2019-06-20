@@ -87,7 +87,7 @@ Another way to solve this is by inspecting the reference. However, this requires
 
 ## `GraphQL`
 
-- How does `GraphQL` work?
+- [How does `GraphQL` work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 - How is `GraphQL` queries validated and executed?
 
 ## `Apollo-tags`
@@ -108,6 +108,9 @@ Another way to solve this is by inspecting the reference. However, this requires
 4. Why is our prototype using `mongoDB`? Why not others?
 5. What is `HL7 FHIR`? And why should we use it?
 6. What is `INTROMAT`?
+7. <details><summary>Where to get started with `GraphQL`?</summary>
+<p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+</details>
 
 # References
 
