@@ -46,7 +46,7 @@ To get started with `GraphQL` [follow the tutorials written here:](https://skmuk
 
 # Evaluation <a name="evaluation"></a>
 
-Making an `HTTP` request to `RESTful` endpoints returns [all the attributes as shown in the response](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/EVALUATION.md#rest). All these attributes are not used by our self-assessment mobile application. Hence, it is referred to as `overfetching`. To solve this overfetching issue, we introduce `GraphQL`-based API. For the same request, we used `GraphQL` api to fetch only the required attributes and the [https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/EVALUATION.md#graphql).
+Making an `HTTP` request to `RESTful` endpoints returns [all the attributes as shown in the response](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/EVALUATION.md#rest). All these attributes are not used by our self-assessment mobile application. Hence, it is referred to as `overfetching`. To solve this overfetching issue, we introduce `GraphQL`-based API. For the same request, we used `GraphQL` api to fetch [only the required attributes and the](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/EVALUATION.md#graphql).
 
 # Discussion
 
@@ -57,16 +57,13 @@ In this section, we try to enlighten two most important challenges faced in `Gra
 # FAQs
 
 1. <details><summary>Can I get access to source code?</summary>
-   <p> Yes, certainly you can. Email us at <itsmeskm99@gmail.com> and we will give you access to the repository.</p>
+   <p> Yes, certainly you can. Email us at <a href="mailto:itsmeskm99@gmail.com">itsmeskm99@gmail.com</a> and we will give you access to the repository.</p>
    </details>
-2. Why did we build our application using `ReactJS`?
-3. What is `Redux`? Why do we need it?
-4. What is `Redux-Saga`? Why do we need it?
-5. Why is our prototype using `mongoDB`? Why not others?
-6. What is `HL7 FHIR`? And why should we use it?
-7. What is `INTROMAT`?
-8. <details><summary>Where to get started with `GraphQL`?</summary>
-   <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+2. <details><summary>What is `INTROMAT`? </summary>
+    <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. [Find more here.](https://intromat.no/)</p>
+   </details>
+3. <details><summary>Where to get started with `GraphQL`?</summary>
+    <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
    </details>
 
 # References
