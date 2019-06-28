@@ -110,9 +110,11 @@ To get started with `GraphQL` [follow the tutorials written here:](https://skmuk
 
 # Evaluation <a name="evaluation"></a>
 
-Making an `HTTP` request to `RESTful` endpoints returns [all the attributes as shown in the response](/EVALUATION.md#REST). All these attributes are not used by our self-assessment mobile application. Hence, it is referred to as `overfetching`. To solve this overfetching issue, we introduce `GraphQL`-based API. For the same request, we used `GraphQL` api to fetch only the required attributes and the [response we get is shown here](/EVALUATION.md#GraphQL).
+Making an `HTTP` request to `RESTful` endpoints returns [all the attributes as shown in the response](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/EVALUATION.md#rest). All these attributes are not used by our self-assessment mobile application. Hence, it is referred to as `overfetching`. To solve this overfetching issue, we introduce `GraphQL`-based API. For the same request, we used `GraphQL` api to fetch only the required attributes and the [https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/EVALUATION.md#graphql).
 
 # Discussion
+
+In this section, we try to enlighten two most important challenges faced in `GraphQL` community. [Both of them are discussed here](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/DISCUSSION.md).
 
 # Conclusion
 
