@@ -1,8 +1,13 @@
-# Introduction
+# Introduction <a name="intro"></a>
 
 The aim of this technical documentation is to provide sufficient insights for interested parties to validate prototypes developed during my Ph.D. My research falls under `software engineering` in general, however my study tries to include other fields including `health informatics`, `IoT`, and `data science`. To backup my proposed solutions for solving problem associated with my study, we have developed several web and mobile based application as prototypes. However, we must emphasis that the prototypes developed must be used as a source of inspiration or general ideas rather than complete commercial solutions.
 
-# Architecture
+# Outline
+
+1. [Introduction](#intro)
+2. [Architecture](#architecture)
+
+# Architecture <a name="architecture"></a>
 
 The prototype contains following major components:
 
@@ -109,8 +114,8 @@ Another way to solve this is by inspecting the reference. However, this requires
 5. What is `HL7 FHIR`? And why should we use it?
 6. What is `INTROMAT`?
 7. <details><summary>Where to get started with `GraphQL`?</summary>
-<p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
-</details>
+   <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+   </details>
 
 # References
 
