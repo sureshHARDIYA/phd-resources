@@ -5,40 +5,40 @@ List of `Ph.D` resources, I want to share with the research community. Currently
 [Find out how Much Do you know about Mental Health?](https://skmukhiya.netlify.com/mentalHealthQuiz)
 
 # Presentation
-Here are the lists of presentations given in different courses and during my `Ph.D.`. 
+
+Here are the lists of presentations given in different courses and during my `Ph.D.`
+
 ## Model Driven Software Engineering
- - `LaTeX`[A Decade of Software Design and Modeling
-](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/MDSE)
+
+- `LaTeX`[A Decade of Software Design and Modeling
+  ](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/MDSE)
 - `PDF`https://skmukhiya.netlify.com/survey-about-mdse.md/
 
 ## Research Ethics
+
 - `LaTeX`[Research Ethics in relation to AI-assisted Adaptive Technology
-](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/Research%20Ethics)
+  ](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/Research%20Ethics)
 - `PDF`https://skmukhiya.netlify.com/ethical-aspects-of-my-project.md/
 
 # Papers
-- `Workshop Paper`: [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA), Fazle Rabbi, Ka I Pun, Yngve Lamo. [An architectural design for self-reporting e-health systems](https://www.researchgate.net/publication/331813302_An_architectural_design_for_self-reporting_e-health_systems)
 
-# Books
+- `Workshop Paper, 2019`: [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA), Fazle Rabbi, Ka I Pun, Yngve Lamo. [An architectural design for self-reporting e-health systems](https://www.researchgate.net/publication/331813302_An_architectural_design_for_self-reporting_e-health_systems)
 
 # Posters
+
 - [An architecture for creating self-reporting ehealth systems](https://github.com/sureshHARDIYA/phd-resources/tree/master/Posters/Workshop%20at%20HVl)
 
 # Tutorials
 
 - [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
 
-# Hands-on Excersie
-
 # Open-source Codebase and API
+
 - `API Endpoint` [HL7 FHIR standard self-assessment questionnaire.](https://mhof.ml/)
 
-# Research Data
-
 # Blogs and News
+
 - [What mental health issues INTROMAT is dealing with?](https://www.skmukhiya.com.np/what-are-the-mental-health-conditions-we-are-referring-here/)
 - [Facts about Depression](https://www.skmukhiya.com.np/depression/)
 - [Correlation between Sleep and mental health problems](https://www.skmukhiya.com.np/correlation-between-sleep-and-mental-health-problems/)
 - [Adaptive Technology in Mental Health issues](https://www.skmukhiya.com.np/adaptive-technology-in-mental-health/)
-
-# Mobile App 
