@@ -6,33 +6,38 @@ The aim of this technical documentation is to provide sufficient insights for in
 
 1. [Introduction](#intro)
 2. [Architecture](#architecture)
+   2.1. [Resource Server](#resourceServer)
+   2.1. [Authorization Server](#resourceServer)
+   2.1. [Mobile Client](#resourceServer)
+   2.1. [Web Client](#resourceServer)
+3. [Architecture](#architecture)
+4. [Technologies](#technologies)
+5. [Getting Started](#architecture)
+6. [Evaluation](#evaluation)
+7. [Discussion](#discussion)
+8. [FAQ](#discussion)
 
 # Architecture <a name="architecture"></a>
 
 The prototype contains following major components:
 
-- `Resource Server`:This is a FHIR compliant web server that is able to respond to HTTP requests using Access Tokens issued by the Authorization Server.
+## `Resource Server`
+
+This is a FHIR compliant web server that is able to respond to HTTP requests using Access Tokens issued by the Authorization Server.
+
+## Mobile Client
+
 - `The User:` This is the person who is actually logging into the application to perform some function. Not all SMART on FHIR flows actually require a user to be present but most do.
 
 - `The SMART on FHIR Application` (referred to as the “SMART App” or “Client” below): This is an application that the user wishes to access to perform some function.
 
-- `Authorization Server:` This is an OpenID Connect compliant web server that is able to authenticate users and issue Access Tokens. Smile CDR is able to perform this role but other Authorization Servers may also be used.
-
-## Resource Server
-
-## Mobile Client
-
 ## Web Client
-
-### FAQ
-
-<details><summary>Can I get access to source code?</summary>
-<p> Yes, certainly you can. Email us at <itsmeskm99@gmail.com> and we will give you access to the repository.</p>
-</details>
 
 ## Authorization Server
 
-# Technologies
+- `Authorization Server:` This is an OpenID Connect compliant web server that is able to authenticate users and issue Access Tokens. Smile CDR is able to perform this role but other Authorization Servers may also be used.
+
+# Technologies <a name="technologies"></a>
 
 ## [`ReactJS`](https://reactjs.org/)
 
@@ -101,19 +106,26 @@ Another way to solve this is by inspecting the reference. However, this requires
 
 # Getting Started
 
+To get started with `GraphQL` [follow the tutorials written here:](https://skmukhiya.netlify.com/how-does-graphql-work/)
+
+# Evaluation <a name="evaluation"></a>
+
 # Discussion
 
 # Conclusion
 
 # FAQs
 
-1. Why did we build our application using `ReactJS`?
-2. What is `Redux`? Why do we need it?
-3. What is `Redux-Saga`? Why do we need it?
-4. Why is our prototype using `mongoDB`? Why not others?
-5. What is `HL7 FHIR`? And why should we use it?
-6. What is `INTROMAT`?
-7. <details><summary>Where to get started with `GraphQL`?</summary>
+1. <details><summary>Can I get access to source code?</summary>
+   <p> Yes, certainly you can. Email us at <itsmeskm99@gmail.com> and we will give you access to the repository.</p>
+   </details>
+2. Why did we build our application using `ReactJS`?
+3. What is `Redux`? Why do we need it?
+4. What is `Redux-Saga`? Why do we need it?
+5. Why is our prototype using `mongoDB`? Why not others?
+6. What is `HL7 FHIR`? And why should we use it?
+7. What is `INTROMAT`?
+8. <details><summary>Where to get started with `GraphQL`?</summary>
    <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
    </details>
 
