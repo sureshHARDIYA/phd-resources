@@ -50,7 +50,7 @@ In this section, we try to enlighten two most important challenges faced in `Gra
 1. <details><summary>Can I get access to source code?</summary>
    <p> Yes, certainly you can. Email us at <a href="mailto:itsmeskm99@gmail.com">itsmeskm99@gmail.com</a> and we will give you access to the repository.</p>
    </details>
-2. <details><summary>What is `INTROMAT`? </summary>
+2. <details><summary>What is INTROMAT? </summary>
     <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. [Find more here.](https://intromat.no/)</p>
    </details>
 3. <details><summary>Where to get started with `GraphQL`?</summary>

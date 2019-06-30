@@ -12,4 +12,4 @@ This is a FHIR compliant web server that is able to respond to HTTP requests usi
 
 # Authorization Server <a name="Authorization"></a>
 
-The authorisation server is an OpenID connect [40] compliant web server with an ability to authenticate users and grant authorisation access tokens. More- over, authorisation server manages scopes and permission of the clients, introspects token and requests for the resource server.
+The authorisation server is an OpenID connect compliant web server with an ability to authenticate users and grant authorisation access tokens. More- over, authorisation server manages scopes and permission of the clients, introspects token and requests for the resource server.
