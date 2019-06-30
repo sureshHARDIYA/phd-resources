@@ -1,6 +1,8 @@
 # Detailed Evaluation Report for `GraphQL` paper.
 
-## REST
+## Response size and time
+
+### REST
 
 GET `GAD 7` questionnaire - `RESTful` approach. Response JSON:
 
@@ -1154,7 +1156,7 @@ GET `GAD 7` questionnaire - `RESTful` approach. Response JSON:
 }
 ```
 
-## GraphQL
+### GraphQL
 
 GET `GAD-7` only required attributes `GraphQL`. Response JSON:
 
