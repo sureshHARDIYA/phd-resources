@@ -47,22 +47,25 @@ In this section, we try to enlighten two most important challenges faced in `Gra
 
 # FAQs
 
-1. <details>
-    <summary>Can I get access to source code?</summary>
-     <p> Yes, certainly you can. Email us at <a href="mailto:itsmeskm99@gmail.com">itsmeskm99@gmail.com</a> and we will give you access to the repository.</p>
-   </details>
-2. <details>
-    <summary>What is INTROMAT? </summary>
-     <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. <a href="https://intromat.no/">Find more here.</a></p>
-   </details>
-3. <details>
-    <summary>Where to get started with GraphQL?</summary>
-     <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
-   </details>
-4. <details>
-    <summary>What is HL7 FHIR?</summary>
-    <p> HL7 FHIR is a open standard for Health Information Exchange (HIE). <a href="http://hl7.org/fhir/">Read More here </a></p>
-   </details>
+<details>
+  <summary>Can I get access to source code?</summary>
+  <p> Yes, certainly you can. Email us at <a href="mailto:itsmeskm99@gmail.com">itsmeskm99@gmail.com</a> and we will give you access to the repository.</p>
+</details>
+
+<details>
+  <summary>What is INTROMAT? </summary>
+  <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. <a href="https://intromat.no/">Find more here.</a></p>
+</details>
+
+<details>
+  <summary>Where to get started with GraphQL?</summary>
+  <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+</details>
+
+<details>
+  <summary>What is HL7 FHIR?</summary>
+  <p> HL7 FHIR is a open standard for Health Information Exchange (HIE). <a href="http://hl7.org/fhir/">Read More here </a></p>
+</details>
 
 # References
 

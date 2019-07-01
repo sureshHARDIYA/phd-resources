@@ -111,9 +111,28 @@ This app is designed for mental-health patients as a self-assessment tool. Based
 
 # Web Client <a name="webClient"></a>
 
+There can be different types of web clients:
+
+## Web client for Therapists
+
+A web application that provides a comprehensive list of patients, and their status. These type of web-clients works as a dashboard for mental health practitioners. [A version of dashboard was developed by one of our team member. Detailed views and code for dashboard can be found here](https://github.com/NikolaiGrieg/TherapyDashboard).
+
+## Web Client for Patients
+
+A web application that provides web platform for mental health patients to login, view their status and take Internet-delivered interventions like Internet-delivered Cognitive Therapy (IDCBT). IDCBT is a program developed by mental health domain experts to provide online therapies.
+
+## Web Client for Authorization Server
+
+A web application for authorisation server provides a set of comprehensive UI/UX for managing authentication, authorisation, roles, scopes for patients/admins or any other roles created for achieving business logic. For example, a group of nurses can have access to the patients observational data, but may not require to know about the patients billing information. On the other hand, an account does not need to know about observational data, but requires to know about billing information. All these role-based scopes can be managed by creating a visual based web-application.
+
 # Authorization Server <a name="Authorization"></a>
 
-The authorisation server is an OpenID connect compliant web server with an ability to authenticate users and grant authorisation access tokens. More- over, authorisation server manages scopes and permission of the clients, introspects token and requests for the resource server.
+The authorisation server is an [OpenID connect](https://en.wikipedia.org/wiki/OpenID_Connect) compliant web server] with an ability to authenticate users and grant authorisation access tokens. More- over, authorisation server manages scopes and permission of the clients, introspects token and requests for the resource server.
+
+<figure>
+  <img src="oauth.png" alt="Authorization Server">
+  <figcaption>Figure - Authorization Server</figcaption>
+</figure>
 
 # References
 
