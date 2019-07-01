@@ -26,74 +26,74 @@ This app is designed for mental-health patients as a self-assessment tool. Based
 
 #### Addiction
 
-Bergen Shopping Addiction Scale (BSAS)
-CAGE Alcohol Questionnaire (CAGE)
-Diagnostic Screen for Gambling Disorders (NODS-CLIP)
-Excessive Gaming Screening Tool (EGST)
-Internet Addiction Assessment (IAA)
-Sexual Addiction Screening Test (SAST)
+- Bergen Shopping Addiction Scale (BSAS)
+- CAGE Alcohol Questionnaire (CAGE)
+- Diagnostic Screen for Gambling Disorders (NODS-CLIP)
+- Excessive Gaming Screening Tool (EGST)
+- Internet Addiction Assessment (IAA)
+- Sexual Addiction Screening Test (SAST)
 
 #### ADHD
 
-Adult ADHD Self-Report Scale (ASRSv1.1)
-Vanderbilt ADHD Diagnostic Rating Scale (VADRS)
+- Adult ADHD Self-Report Scale (ASRSv1.1)
+- Vanderbilt ADHD Diagnostic Rating Scale (VADRS)
 
 #### Aggression
 
-Buss Perry Aggression Questionnaire (BPAQ)
+- Buss Perry Aggression Questionnaire (BPAQ)
 
 #### Anxiety
 
-Generalized Anxiety Disorder 7 Item Scale (GAD-7)
-Hamilton Anxiety Rating Scale (HAM-A)
-Liebowitz Social Anxiety Scale (LSAS)
-Panic and Agoraphobia Scale (PAS)
-Short Health Anxiety Inventory (HAI-18)
-Social Phobia Inventory (SPIN)
-Spence Children’s Anxiety Scale (SCAS)
-Taylor Manifest Anxiety Scale (TMAS)
-Zung Self-Rating Anxiety Scale (SAS)
+- Generalized Anxiety Disorder 7 Item Scale (GAD-7)
+- Hamilton Anxiety Rating Scale (HAM-A)
+- Liebowitz Social Anxiety Scale (LSAS)
+- Panic and Agoraphobia Scale (PAS)
+- Short Health Anxiety Inventory (HAI-18)
+- Social Phobia Inventory (SPIN)
+- Spence Children’s Anxiety Scale (SCAS)
+- Taylor Manifest Anxiety Scale (TMAS)
+- Zung Self-Rating Anxiety Scale (SAS)
 
 #### Autism Spectrum
 
-Autism Spectrum Quotient (AQ)
-Autism Spectrum Screening Questionnaire (ASSQ)
-Childhood Autism Spectrum Test (CAST)
-Infant-Toddler Checklist (ITC)
-Quantitative Checklist for Autism in Toddlers (Q-CHAT)
-Ritvo Autism & Asperger Diagnostic Scale (RAADS-14)
+- Autism Spectrum Quotient (AQ)
+- Autism Spectrum Screening Questionnaire (ASSQ)
+- Childhood Autism Spectrum Test (CAST)
+- Infant-Toddler Checklist (ITC)
+- Quantitative Checklist for Autism in Toddlers (Q-CHAT)
+- Ritvo Autism & Asperger Diagnostic Scale (RAADS-14)
 
 #### Bipolar Disorder
 
-Altman Self-Rating Mania Scale (ASRM)
-Young Mania Rating Scale (YMRS)
+- Altman Self-Rating Mania Scale (ASRM)
+- Young Mania Rating Scale (YMRS)
 
 #### Depression
 
-Edinburgh Postnatal Depression Scale (EPDS)
-Geriatric Depression Scale (GDS)
-Kutcher Adolescent Depression Scale - 11-Item (KADS-11)
-Major Depression Inventory (MDI)
-Montgomery-Asberg Depression Rating Scale (MADRS)
-Patient Health Questionnaire (PHQ-9)
-Zung Self-Rating Depression Scale (SDS)
+- Edinburgh Postnatal Depression Scale (EPDS)
+- Geriatric Depression Scale (GDS)
+- Kutcher Adolescent Depression Scale - 11-Item (KADS-11)
+- Major Depression Inventory (MDI)
+- Montgomery-Asberg Depression Rating Scale (MADRS)
+- Patient Health Questionnaire (PHQ-9)
+- Zung Self-Rating Depression Scale (SDS)
 
 #### Eating Disorder
 
-Binge Eating Scale (BES)
-Eating Attitudes Test - 26 Item (EAT-26)
+- Binge Eating Scale (BES)
+- Eating Attitudes Test - 26 Item (EAT-26)
 
 #### OCD
 
-Obsessive Compulsive Inventory - Revised (OCI-R)
+- Obsessive Compulsive Inventory - Revised (OCI-R)
 
 #### Personality
 
-Big 5 Personality Test (FFM)
-Empathy Quotient (EQ)
-Hare Psychopathy Checklist (Original) (PCL-22)
-Personality Type Indicator (PTI)
-Toronto Empathy Questionnaire (TEQ)
+- Big 5 Personality Test (FFM)
+- Empathy Quotient (EQ)
+- Hare Psychopathy Checklist (Original) (PCL-22)
+- Personality Type Indicator (PTI)
+- Toronto Empathy Questionnaire (TEQ)
 
 ### Views
 
