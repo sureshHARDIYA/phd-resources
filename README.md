@@ -4,7 +4,7 @@ List of `Ph.D` resources, I want to share with the research community. Currently
 
 [Find out how Much Do you know about Mental Health?](https://skmukhiya.netlify.com/mentalHealthQuiz)
 
-# Presentation
+# Course Work
 
 Here are the lists of presentations given in different courses and during my `Ph.D.`
 
@@ -20,6 +20,11 @@ Here are the lists of presentations given in different courses and during my `Ph
   ](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/Research%20Ethics)
 - `PDF`https://skmukhiya.netlify.com/ethical-aspects-of-my-project.md/
 
+# Presentations
+
+- `keynote`: [Personalized Treatment of mental Health problems using Voice](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/GailoProposal), 20<sup>th</sup> May, 2019. At Gailo, Bergen, Norway
+- `PDF`: [Composing HL7 FHIR Resource Server](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/HelseVestIKT), 24<sup>th</sup> June, 2019. At Helse Vest IKT, Ibsensgate 104
+
 # Papers
 
 - `Workshop Paper, 2019`: [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA), Fazle Rabbi, Ka I Pun, Yngve Lamo. [An architectural design for self-reporting e-health systems](https://www.researchgate.net/publication/331813302_An_architectural_design_for_self-reporting_e-health_systems)
@@ -31,6 +36,7 @@ Here are the lists of presentations given in different courses and during my `Ph
 # Tutorials
 
 - [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
+- [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 
 # Open-source Codebase and API
 
