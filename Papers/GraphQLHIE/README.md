@@ -6,10 +6,10 @@ The aim of this technical documentation is to provide sufficient insights for in
 
 1. [Introduction](#intro)
 2. [Architecture](#architecture)
-   2.1. [Resource Server](#resourceServer)
-   2.1. [Authorization Server](#Authorization)
-   2.1. [Mobile Client](#mobileClient)
-   2.1. [Web Client](#webClient)
+   2.1. [Resource Server](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/ARCHITECTURE.md#resource-server)
+   2.1. [Authorization Server](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/ARCHITECTURE.md#authorization-server-)
+   2.1. [Mobile Client](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/ARCHITECTURE.md#mobile-client-)
+   2.1. [Web Client](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/ARCHITECTURE.md#web-client-)
 3. [Technologies](#technologies)
 4. [Getting Started](#gettingStarted)
 5. [Evaluation](#evaluation)
@@ -47,17 +47,21 @@ In this section, we try to enlighten two most important challenges faced in `Gra
 
 # FAQs
 
-1. <details><summary>Can I get access to source code?</summary>
-   <p> Yes, certainly you can. Email us at <a href="mailto:itsmeskm99@gmail.com">itsmeskm99@gmail.com</a> and we will give you access to the repository.</p>
+1. <details>
+    <summary>Can I get access to source code?</summary>
+     <p> Yes, certainly you can. Email us at <a href="mailto:itsmeskm99@gmail.com">itsmeskm99@gmail.com</a> and we will give you access to the repository.</p>
    </details>
-2. <details><summary>What is INTROMAT? </summary>
-    <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. [Find more here.](https://intromat.no/)</p>
+2. <details>
+    <summary>What is INTROMAT? </summary>
+     <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. <a href="https://intromat.no/">Find more here.</a></p>
    </details>
-3. <details><summary>Where to get started with GraphQL?</summary>
-    <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+3. <details>
+    <summary>Where to get started with GraphQL?</summary>
+     <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
    </details>
-4. <details><summary>What is HL7 FHIR?</summary>
-    <p> `HL7 FHIR` is a open standard for Health Information Exchange (HIE). [Read More here.](http://hl7.org/fhir/)</p>
+4. <details>
+    <summary>What is HL7 FHIR?</summary>
+    <p> HL7 FHIR is a open standard for Health Information Exchange (HIE). <a href="http://hl7.org/fhir/">Read More here </a></p>
    </details>
 
 # References
