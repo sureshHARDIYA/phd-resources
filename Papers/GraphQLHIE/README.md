@@ -53,8 +53,11 @@ In this section, we try to enlighten two most important challenges faced in `Gra
 2. <details><summary>What is INTROMAT? </summary>
     <p> INTROducing Mental health through Adaptive Technology . Our vision is to improve public mental health with innovative technologies and psychological treatments. [Find more here.](https://intromat.no/)</p>
    </details>
-3. <details><summary>Where to get started with `GraphQL`?</summary>
+3. <details><summary>Where to get started with GraphQL?</summary>
     <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+   </details>
+4. <details><summary>What is HL7 FHIR?</summary>
+    <p> `HL7 FHIR` is a open standard for Health Information Exchange (HIE). [Read More here.](http://hl7.org/fhir/)</p>
    </details>
 
 # References
