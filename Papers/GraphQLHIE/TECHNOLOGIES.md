@@ -55,9 +55,44 @@ Another way to solve this is by inspecting the reference. However, this requires
 - [How does `GraphQL` work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 - [How is `GraphQL` queries validated and executed?]
 
-## `Apollo-tags`
-
 ## `Redux-Form`
+
+[`Redux-Form`](https://github.com/erikras/redux-form) is one of most popular libraries for creating form-based solutions for `react/redux` based web-applications. The need of `react/redux` has been justified in above section. In this section, we are going to justify the need of `redux-form` in our application. The main reason to use `redux-form` is, it allows to keep form data in the sate. Having said that, it raises another question - why do we need to store the form data in the state?
+
+### Why do we need to store form data in the state?
+
+React follows unidirectional data flow, which basically means the data (the component state or application state if you are using a state manager like Redux) flows down the component tree and events on the UI that changes this data will update only the part of the UI that is under the data source. With that React was the first library to be able to easily render a UI that just represents a group of data that is not actually in the DOM, and that brings up another concept, called `controlled components`. Now, another question, what is `controlled components?`
+
+Controlled components are just HTML inputs that always receive its value as a property. It also receives an event handler that will update the state when the user interacts with it.
+
+```
+const ControlledInput = ({ value, eventHandler }) => (
+ <input value={value} onChange={eventHandler} />
+)
+```
+It means that when the user types the letter "P" on the input, what is visible is not the same "P", it may be an identical "P" that comes from the state, or whatever the event handler has put in there. By having all the application state in the JavaScript app and using controlled components we get a single source of truth and take full control over the application behavior.
+
+In the context of a form, our React component is able to:
+
+- do instant validation;
+- control the input value format;
+- enable, disable, show or hide components given the state;
+- handle dynamic inputs.
+
+Now that is known why to keep the form data in the state and the reason if that makes sense for an application we can come back to our main subject. Given that the application uses `React` and `Redux` there are two main options:
+
+- implements for each field an event handler that dispatches an action creators, and the reducer that will receive the action, all the redux stuff.
+- we could use a library that does all this work for us.
+
+`Redux-Form` is a great option to do that job to you. It keeps track of all common application form state such as:
+
+- The fields that are in the form;
+- The values of each field;
+- The focused field;
+- If the field values are valid;
+- The fields that the user have interacted with;
+- If the form is being submitted;
+- If is happening any asynchronous validation.
 
 ## `mongoDB`
 
