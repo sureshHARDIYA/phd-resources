@@ -86,13 +86,13 @@ Now that is known why to keep the form data in the state and the reason if that 
 
 `Redux-Form` is a great option to do that job to you. It keeps track of all common application form state such as:
 
-- The fields that are in the form;
-- The values of each field;
-- The focused field;
-- If the field values are valid;
-- The fields that the user have interacted with;
-- If the form is being submitted;
-- If is happening any asynchronous validation.
+- The fields that are in the form
+- The values of each field
+- The focused field
+- If the field values are valid
+- The fields that the user have interacted with
+- If the form is being submitted
+- If is happening any `asynchronous validation
 
 ## `mongoDB`
 
