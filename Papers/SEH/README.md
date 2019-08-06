@@ -1,3 +1,14 @@
+# Outline
+
+| Item           | Description                           |
+| -------------- | ------------------------------------- |
+| Type of Paper  | Workshop Paper                        |
+| Submitted Date | February 4, 2019                      |
+| Accepted Date  | March 1, 2019                         |
+| Venue          | Montreal, Canada                      |
+| Link           | http://seh2019.icmc.usp.br/index.html |
+| Workshop Date  | May 27, 2019                          |
+
 # An architectural design for creating self-reporting e-health systems
 
 Worldwide, public healthcare is challenged to deliver consistent and cost-efficient services. The cost of healthcare is increasing primarily due to growing populations and more expensive treatment. Health facilities in many countries are reaching their full operational capacity, and the resources of these hospitals are less than what is required to deliver the expected quality of care. Under these circumstances, ICT has a major role to play in mitigating the growing need for hospital care. In this paper, we present a cloud-based interoperable architecture built on the top of Service-Oriented Architecture (SOA) for Internet-based treatment where patients can directly interact with underlying healthcare systems such as Electronic Health Record (EHR). Based on this architecture, we also present a prototype for screening and monitoring of mental and neurological health morbidities. The proposed solution is based on healthcare interoperability standard, HL7 FHIR, that enables healthcare providers to assess and monitor patients condition in a secure environment.

@@ -1,3 +1,14 @@
+# Overview
+
+| Item            | Description                               |
+| --------------- | ----------------------------------------- |
+| Type of Paper   | Conference Paper                          |
+| Submitted Date  | July 15, 2019                             |
+| Accepted Date   | August 6, 2019                            |
+| Venue           | Coimbra, Portugal                         |
+| Link            | http://cs-conferences.acadiau.ca/icth-19/ |
+| Conference Date | November 4, 2019 – November 7, 2019       |
+
 # Introduction <a name="intro"></a>
 
 The aim of this technical documentation is to provide sufficient insights for interested parties to validate prototypes developed during my Ph.D. My research falls under `software engineering` in general, however my study tries to include other fields including `health informatics`, `IoT`, and `data science`. To backup my proposed solutions for solving problem associated with my study, we have developed several web and mobile based application as prototypes. However, we must emphasis that the prototypes developed must be used as a source of inspiration or general ideas rather than complete commercial solutions.
