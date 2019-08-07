@@ -1,6 +1,6 @@
 # `Resource Server` <a name="resourceServer"></a>
 
-This is a FHIR compliant web server that is able to respond to HTTP requests using Access Tokens issued by the `Authorization Server`. The resource server developed for this prototype is built using `GraphQL`. This paper presents the need for `GraphQL` based APIs for Health Information Exchange.
+This is a FHIR compliant web server that is able to respond to HTTP requests using Access Tokens issued by the `Authorization Server`. The resource server developed for this prototype is built using [`GraphQL`](https://skmukhiya.netlify.com/query-parsing-and-validation-in-graphQL/). This paper presents the need for `GraphQL` based APIs for Health Information Exchange.
 
 # Mobile Client <a name="mobileClient"></a>
 

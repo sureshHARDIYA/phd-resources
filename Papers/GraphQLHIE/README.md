@@ -54,8 +54,6 @@ Making an `HTTP` request to `RESTful` endpoints returns [all the attributes as s
 
 In this section, we try to enlighten two most important challenges faced in `GraphQL` community. [Both of them are discussed here](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/GraphQLHIE/DISCUSSION.md).
 
-# Conclusion
-
 # FAQs
 
 <details>
@@ -71,6 +69,11 @@ In this section, we try to enlighten two most important challenges faced in `Gra
 <details>
   <summary>Where to get started with GraphQL?</summary>
   <p> Start here: https://skmukhiya.netlify.com/how-does-graphql-work/</p>
+</details>
+
+<details>
+  <summary>How is a GraphQL query parsing and validation?</summary>
+  <p> Start here: https://skmukhiya.netlify.com/query-parsing-and-validation-in-graphQL/</p>
 </details>
 
 <details>
