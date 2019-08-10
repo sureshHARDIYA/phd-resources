@@ -29,7 +29,13 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 # Papers
 
-- `Workshop Paper, 2019`: [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA), Fazle Rabbi, Ka I Pun, Yngve Lamo. [An architectural design for self-reporting e-health systems](https://www.researchgate.net/publication/331813302_An_architectural_design_for_self-reporting_e-health_systems)
+- [`Conference`] Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, Adrian Rutle, Yngve Lamo. [A GraphQL approach to Healthcare Information Exchange with HL7 FHIR](https://www.researchgate.net/publication/334988948_A_GraphQL_approach_to_Healthcare_Information_Exchange_with_HL7_FHIR), [DOI: 10.13140/RG.2.2.22981.19680](10.13140/RG.2.2.22981.19680)
+
+- [`Workshop`] Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, Yngve Lamo. [An architectural design for
+  self-reporting e-health systems](https://www.researchgate.net/publication/331813302_An_architectural_design_for_self-reporting_e-health_systems), [DOI: 10.13140/RG.2.2.14802.30404](10.13140/RG.2.2.14802.30404)
+
+- [`Journal Paper`] Mukhiya, Suresh Kumar, & Hoang Hung, K. (2018). [An Architectural Style for Single Page Scalable Modern Web Application, 5(4), 6–13](https://www.ijrra.net/Vol5issue4/IJRRA-05-04-02.pdf), International Journal of Recent Research Aspects ISSN: 2349-7688, Vol. 5
+
 
 # Posters
 
@@ -39,6 +45,8 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 - [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
 - [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
+- [How does GraphQL GraphQL does query parsing and validation?](- [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
+
 
 # Open-source Codebase and API
 
