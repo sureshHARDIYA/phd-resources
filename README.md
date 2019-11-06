@@ -21,13 +21,14 @@ Here are the lists of presentations given in different courses and during my `Ph
 - `PDF`https://skmukhiya.netlify.com/ethical-aspects-of-my-project.md/
 
 # Presentations
-- `PDF`: [A GraphQL approach to Healthcare Information Exchange with HL7 FHIR](https://github.com/sureshHARDIYA/phd-resources/blob/master/presentations/ICTH%202019/ICTH_2019_Conference.pdf), 5<sup>th</sup> November, 2019. INSTITUTE PEDRO NUNES (IPN), [R. Pedro Nunes 3030-199 Coimbra](https://www.ipn.pt/)
+- `PDF`: [A GraphQL approach to Healthcare Information Exchange with HL7 FHIR](https://github.com/sureshHARDIYA/phd-resources/blob/master/presentations/ICTH%202019/ICTH_2019_Conference.pdf), 5<sup>th</sup> November, 2019. INSTITUTE PEDRO NUNES (IPN), [R. Pedro Nunes 3030-199 Coimbra](https://www.ipn.pt/), Portugal.
 - `PDF`: [Composing HL7 FHIR Resource Server](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/HelseVestIKT), 24<sup>th</sup> June, 2019. At Helse Vest IKT, Ibsensgate 104
 - `pdf`: [An architecture design for self-reporting e-health system](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/SEH), 27<sup>th</sup> May, 2019. At Montreal, QC, Canada
 - `keynote`: [Personalized Treatment of mental Health problems using Voice](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/GailoProposal), 20<sup>th</sup> May, 2019. At Gailo, Bergen, Norway
 - `keynote`: [Personalized Treatment of mental Health problems using Adaptive Technology](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/SanFrancisco), 8<sup>th</sup> March, 2019. 148 Townsend Street, San Francisco
 
 # Papers
+- [`Conference`] Oda E. Nordberg, Suresh Kumar Mukhiya, Frode Guribye, Eivind Flobak, Robin Kenter, Daniel A. Jensen, Astri Lundervold, Tine Nordgreen . The design of a chatbot for guiding peer support chats between adults with ADHD , November 19-20 (https://conversations2019.wordpress.com/), University of Amsterdam, the Netherlands
 
 - [`Conference`] Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, Adrian Rutle, Yngve Lamo. [A GraphQL approach to Healthcare Information Exchange with HL7 FHIR](https://www.researchgate.net/publication/334988948_A_GraphQL_approach_to_Healthcare_Information_Exchange_with_HL7_FHIR), [DOI: 10.13140/RG.2.2.22981.19680](10.13140/RG.2.2.22981.19680)
 
