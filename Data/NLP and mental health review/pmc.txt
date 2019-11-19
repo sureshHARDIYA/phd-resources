@@ -1,0 +1,10 @@
+1:  Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
+Tim Althoff, Kevin Clark, Jure Leskovec
+Trans Assoc Comput Linguist. 2016; 4: 463–476.  
+PMCID: PMC5361062
+
+2:  Novel Use of Natural Language Processing (NLP) to Predict Suicidal Ideation and Psychiatric Symptoms in a Text-Based Mental Health Intervention in Madrid
+Benjamin L. Cook, Ana M. Progovac, Pei Chen, Brian Mullin, Sherry Hou, Enrique Baca-Garcia
+Comput Math Methods Med. 2016; 2016: 8708434.  Published online 2016 Sep 26. doi: 10.1155/2016/8708434
+PMCID: PMC5056245
+
