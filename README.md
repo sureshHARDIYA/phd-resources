@@ -21,7 +21,7 @@ Here are the lists of presentations given in different courses and during my `Ph
 - `PDF`https://skmukhiya.netlify.com/ethical-aspects-of-my-project.md/
 
 # Presentations
--`PDF`: [How can we model adaptive Internet Delivered psychological Treatment system](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/Solstrand%20)
+- `PDF`: [How can we model adaptive Internet Delivered psychological Treatment system](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/Solstrand%20)
 - `PDF`: [A GraphQL approach to Healthcare Information Exchange with HL7 FHIR](https://github.com/sureshHARDIYA/phd-resources/blob/master/presentations/ICTH%202019/ICTH_2019_Conference.pdf), 5<sup>th</sup> November, 2019. INSTITUTE PEDRO NUNES (IPN), [R. Pedro Nunes 3030-199 Coimbra](https://www.ipn.pt/), Portugal.
 - `PDF`: [Composing HL7 FHIR Resource Server](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/HelseVestIKT), 24<sup>th</sup> June, 2019. At Helse Vest IKT, Ibsensgate 104
 - `pdf`: [An architecture design for self-reporting e-health system](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/SEH), 27<sup>th</sup> May, 2019. At Montreal, QC, Canada
