@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{104:function(e){e.exports=JSON.parse('{"allTagsPath":"/phd-resources/tree/gh-pages/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/phd-resources/tree/gh-pages/blog/tags/hola"}')}}]);
