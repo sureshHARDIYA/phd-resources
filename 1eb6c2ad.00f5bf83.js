@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{96:function(e){e.exports=JSON.parse('{"allTagsPath":"https://github.com/sureshHARDIYA/phd-resources/tree/gh-pages/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"https://github.com/sureshHARDIYA/phd-resources/tree/gh-pages/blog/tags/hello"}')}}]);
