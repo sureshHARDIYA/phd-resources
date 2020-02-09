@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{106:function(e){e.exports=JSON.parse('{"allTagsPath":"/phd-resources/tree/gh-pages/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/phd-resources/tree/gh-pages/blog/tags/facebook"}')}}]);
