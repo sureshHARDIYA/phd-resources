@@ -1,0 +1,2202 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Coorey, G
+   Peiris, D
+   Usherwood, T
+   Neubeck, L
+   Mulley, J
+   Redfern, J
+AF Coorey, Genevieve
+   Peiris, David
+   Usherwood, Tim
+   Neubeck, Lis
+   Mulley, John
+   Redfern, Julie
+TI Persuasive design features within a consumer-focused eHealth
+   intervention integrated with the electronic health record: A mixed
+   methods study of effectiveness and acceptability
+SO PLOS ONE
+AB Introduction
+   eHealth strategies targeting health-related behaviour often incorporate persuasive software design. To further engage patients with their overall health management, consumer-facing web portals may be integrated with data from one or more care providers. This study aimed to explore effectiveness for healthier behaviour of persuasive design characteristics within a web application integrated with the primary health care electronic record; also patient and general practitioner (GP) preferences for future integrated records.
+   Methods
+   Mixed methods study within the Consumer Navigation of Electronic Cardiovascular Tools randomised controlled trial. Participants were patients with moderate-high risk of cardiovascular disease, and their GPs. Survey and web analytic data were analysed with descriptive statistics. Interview and focus group transcripts were recorded, transcribed, coded and analysed for themes.
+   Results
+   Surveys (n = 397) received from patients indicated improved medication adherence (31.8%); improved mental health and well-being (40%); higher physical activity (47%); and healthier eating (61%). Users of the interactive features reported benefiting from personalised cardiovascular disease risk score (73%); goal tracking (69%); risk factor self-monitoring (52%) and receipt of motivational health tips (54%). Focus group and interview participants (n = 55) described customisations that would increase portal appeal and relevance, including more provider interaction. Of the GP survey respondents (n = 38), 74% reported increased patient attendance and engagement with their care. For future integrated portals, 94% of GPs were in favour and key themes among interviewees (n = 17) related to design optimisation, impact on workflow and data security.
+   Conclusion
+   Intervention features reflecting the persuasive design categories of Primary Task support, Dialogue support and System Credibility support facilitated healthier lifestyle behaviour. Patients valued customisable functions and greater patient-provider interactivity. GPs identified system challenges but saw advantages for patients and the health care relationship. Future studies could further elucidate the persuasive design principles that are at play and which may promote adoption of EHR-integrated consumer portals.
+SN 1932-6203
+PD JUN 20
+PY 2019
+VL 14
+IS 6
+AR e0218447
+DI 10.1371/journal.pone.0218447
+UT WOS:000484893500049
+PM 31220127
+ER
+
+PT J
+AU Adewuya, AO
+   Momodu, O
+   Ofibamoyo, O
+   Adegbaju, A
+   Adesoji, O
+   Adegbokun, A
+AF Adewuya, Abiodun O.
+   Momodu, Olufisayo
+   Ofibamoyo, Olushola
+   Adegbaju, Adedapo
+   Adesoji, Olabanji
+   Adegbokun, Adedayo
+TI The effectiveness and acceptability of mobile telephone adherence
+   support for management of depression in the Mental Health in Primary
+   Care (MeHPriC) project, Lagos, Nigeria: A pilot cluster randomised
+   controlled trial
+SO JOURNAL OF AFFECTIVE DISORDERS
+AB Background: To evaluate the effectiveness and acceptability of adding a mobile telephone adherence support to a Collaborative Stepped Care (CSC) intervention for primary care management of depression.
+   Methods: A pilot cluster randomised controlled trial with 10 primary care centres in Lagos Nigeria, randomised into either the mobile telephone supported CSC (mCSC) group or the ordinary CSC (oCSC) group in ratio 1:1. The 5 mCSC clusters received in addition to the CSC intervention, a series of tailored informational text messages and reminders. Participants were adults (18-60 years) with depression. The primary outcome was the rate of adherence to intervention at 6th and 12th months follow up. Analysis was by intention to treat.
+   Results: The mCSC group (n = 439 participants) had significantly better adherence rate compared to oCSC group (n= 456 participants) at 6th month (90.0% vs 67.8%, ARR 1.31, 95% CI 1.22-1.40) and at 12th month follow up (78.1% vs 59.2%, ARR 1.30, 95% CI 1.20-1.43). Compared to the oCSC group, the mCSC had significantly higher recovery rate, better quality of life, retention in treatment, was more cost effective and had high level of acceptance amongst clients
+   Limitation: Self rating scales were not used for adherence score. We analysed according to Intention to Treat and we have not included mild depression
+   Conclusion: The addition of our mobile telephony support significantly improves adherence and clinical outcomes for CSC intervention and was cost effective and acceptable to clients. Mobile telephone technology can substantially aid the scale up of mental health services in developing countries.
+RI Adewuya, Abiodun/N-4997-2017
+OI Adewuya, Abiodun/0000-0002-7611-6953; Olibamoyo,
+   Olushola/0000-0001-9696-029X
+SN 0165-0327
+EI 1573-2517
+PD JUN 15
+PY 2019
+VL 253
+BP 118
+EP 125
+DI 10.1016/j.jad.2019.04.025
+UT WOS:000471865800014
+PM 31035212
+ER
+
+PT J
+AU Anastasiadou, D
+   Folkvord, F
+   Serrano-Troncoso, E
+   Lupianez-Villanueva, F
+AF Anastasiadou, Dimitra
+   Folkvord, Frans
+   Serrano-Troncoso, Eduardo
+   Lupianez-Villanueva, Francisco
+TI Mobile Health Adoption in Mental Health: User Experience of a Mobile
+   Health App for Patients With an Eating Disorder
+SO JMIR MHEALTH AND UHEALTH
+AB Background: Despite the worldwide growth in mobile health (mHealth) tools and the possible benefits for both patients and health care providers, the overall adoption levels of mHealth tools by health professionals remain relatively low.
+   Objective: This study aimed (1) to investigate attitudes of health care providers and mHealth experts toward mHealth tools in the health context in general, and this study aimed (2) to test the acceptability and feasibility of a specific mHealth tool for patients with an eating disorder (ED), called TCApp, among patients and ED specialists.
+   Methods: To this purpose, we conducted an explorative qualitative study with 4 in-depth group discussions with several groups of stakeholders: our first focus group was conducted with 11 experts on mHealth from the Catalan Association of Health Entities; the second focus group included 10 health care professionals from the Spanish College of Doctors of Barcelona; the third focus group involved 9 patients with an ED who had used the TCApp over a 12-week period, and the fourth and last focus group involved 8 ED specialists who had monitored such ED patients on the Web.
+   Results: The focus groups showed that health care providers and mHealth experts reported barriers for mHealth adoption more often than facilitators, indicating that mHealth techniques are difficult to obtain and use. Most barriers were attributed to external factors relating to the human or organizational environment (ie, lack of time because of workload, lack of direct interest on a legislative or political level) rather than being attributed to internal factors relating to individual obstacles. The results of the mHealth intervention study indicate that the TCApp was considered as easy to use and useful, although patients and the ED specialists monitoring them on the Web reported different adoption problems, such as the inability to personalize the app, a lack of motivational and interactive components, or difficulties in adhering to the study protocol.
+   Conclusions: In general, this paper indicates that both health professionals and patients foresee difficulties that need to be addressed before comprehensive adoption and usage of mHealth techniques can be effectively implemented. Such findings are in line with previous studies, suggesting that although they acknowledge their possible benefits and cost-effectiveness, health care providers are quite resistant and conservative about integrating mHealth technologies in their daily practice.
+RI Serrano-Troncoso, Eduardo/AAA-4457-2019; Lupianez-Villanueva,
+   Francisco/A-9181-2012
+OI Serrano-Troncoso, Eduardo/0000-0002-4935-7348; Folkvord,
+   Frans/0000-0001-7602-3792; Anastasiadou, Dimitra/0000-0001-7544-523X;
+   Lupianez-Villanueva, Francisco/0000-0001-5361-7678
+SN 2291-5222
+PD JUN 11
+PY 2019
+VL 7
+IS 6
+AR e12920
+DI 10.2196/12920
+UT WOS:000471678300001
+PM 31199329
+ER
+
+PT J
+AU Witry, MJ
+   Neblett, K
+   Hutchens, S
+   Catney, C
+AF Witry, Matthew J.
+   Neblett, Keri
+   Hutchens, Sonja
+   Catney, Christine
+TI When a patient talks about suicide: Adding a social worker led session
+   on the pharmacist's role in suicide prevention to the PharmD curriculum
+SO CURRENTS IN PHARMACY TEACHING AND LEARNING
+AB Background and purpose: Suicide is the tenth leading cause of death in the US. Frontline health professionals like pharmacists can be trained to intervene with patients displaying warning signs of suicide. The purpose of this activity was to introduce student pharmacists to suicide prevention concepts.
+   Educational activity and setting: A social worker on faculty at the school of social work and a pharmacy practice faculty member collaborated to deliver a 50-min didactic session to first year students on the role of pharmacists in suicide prevention. The session included: (1) suicide statistics and public health signiifcance, (2) protective factors, risk factors, and warning signs of suicidal ideation, (3) strategies for asking about suicidal ideation, including practice asking about suicide, (4) resources and referrals, and (5) brief case scenarios and student questions.
+   Findings: An electronic survey was administered to 108 students and 83 responses (76.9%) were received. The results suggested the topic was new to most students and was relevant to their role as pharmacists. Most students (91%) reported that the session increased their confidence in asking about suicide for someone displaying warning signs. Student comments on the survey were generally positive with students requesting additional exposure to scenarios. Pharmacy programs may benefit from collaborating with social work or mental health professionals to deliver basic suicide intervention training tailored to pharmacy.
+   Summary: A social worker-led session about suicide prevention was positively received by first year student pharmacists.
+SN 1877-1297
+EI 1877-1300
+PD JUN
+PY 2019
+VL 11
+IS 6
+BP 585
+EP 591
+DI 10.1016/j.cptl.2019.02.027
+UT WOS:000471798400007
+PM 31213314
+ER
+
+PT J
+AU Jayakumar, P
+   Teunis, T
+   Williams, M
+   Lamb, SE
+   Ring, D
+   Gwilym, S
+AF Jayakumar, P.
+   Teunis, T.
+   Williams, M.
+   Lamb, S. E.
+   Ring, D.
+   Gwilym, S.
+TI Factors associated with the magnitude of limitations during recovery
+   from a fracture of the proximal humerus PREDICTORS OF LIMITATIONS AFTER
+   PROXIMAL HUMERUS FRACTURE
+SO BONE & JOINT JOURNAL
+AB Aims
+   The purpose of this study was to identify factors associated with limitations in function, measured by patient-reported outcome measures (PROMs), six to nine months after a proximal humeral fracture, from a range of demographic, injury, psychological, and social variables measured within a week and two to four weeks after injury.
+   Patients and Methods
+   We enrolled 177 adult patients who sustained an isolated proximal humeral fracture into the study and invited them to complete PROMs at their initial outpatient visit within one week of injury, between two and four weeks, and between six to nine months after injury. There were 128 women and 49 men; the mean age was 66 years (SD 16; 18 to 95). In all, 173 patients completed the final assessment. Bivariate analysis was performed followed by multivariable regression analysis accounting for multicollinearity using partial R-2, correlation matrices, and variable inflation factor.
+   Results
+   Many variables within a week of injury and between two and four weeks after injury correlated with six- to nine-month PROMs in bivariate analysis. Kinesiophobia measured within a week of injury (Tampa Scale for Kinesiophobia-11: partial R-2 = 0.14; p = 0.000) and self-efficacy measured between two and four weeks (Pain Self-efficacy Questionnaire-2: partial R-2 = 0.266; p < 0.001) were the strongest predictors of limitations (measured by Patient Reported Outcome Measurement Information System Upper Extremity Physical Function Computer Adaptive Test (PROMIS UE)) at six to nine months in multivariable analysis. Similar findings were observed with other types of PROM. Regression models accounted for a substantial amount of variance in all PROMs at both timepoints (e.g. 66% of the overall variance within one week, and 70% within two to four weeks for PROMIS UE at six to nine months).
+   Conclusion
+   Recovery from a proximal humeral fracture appears to be enhanced by overcoming fears of movement or reinjury within a week after injury and greater self-efficacy (developing resilience and more effective coping strategies) within a month. Such factors are modifiable using enhanced communication skills and cognitive behavioural treatments. These findings could be a catalyst for the routine assessment and treatment of psychological and social factors in the management of patients with fractures.
+OI Lamb, Sarah/0000-0003-4349-7195
+SN 2049-4394
+PD JUN
+PY 2019
+VL 101B
+IS 6
+BP 715
+EP 723
+DI 10.1302/0301-620X.101B6.BJJ-2018-0857.R1
+UT WOS:000469964100015
+PM 31154836
+ER
+
+PT J
+AU Ebert, DD
+   Franke, M
+   Kahlke, F
+   Kuchler, AM
+   Bruffaerts, R
+   Mortier, P
+   Karyotaki, E
+   Alonso, J
+   Cuijpers, P
+   Berking, M
+   Auerbach, RP
+   Kessler, RC
+   Baumeister, H
+   Hasking, P
+   Boyes, M
+   Kiekens, G
+   Mortier, P
+   Demyttenaere, K
+   Bootsma, E
+   Husky, M
+   Kovess-Masfety, V
+   Ebert, DD
+   Berking, M
+   Franke, M
+   Kahlke, F
+   Baumeister, H
+   Kuchler, AM
+   Mak, A
+   Benjet, C
+   Borges, G
+   Medina-Mora, ME
+   Ramirez, AA
+   Diaz, AC
+   Duran, MS
+   Tarango, GP
+   Berbena, MAZ
+   Gonzalez, RG
+   Gutierrez-Garcia, RA
+   de la Torre, AEH
+   Martinez, KIM
+   Ruiz, SM
+   Cuijpers, P
+   Karyotaki, E
+   O'Neill, S
+   Bjourson, T
+   Murray, E
+   Stein, DJ
+   Lochner, C
+   Roos, J
+   Taljaard, L
+   Bantjes, J
+   Saal, W
+   Alonso, J
+   Vilagut, G
+   Alayo, I
+   Ballester, L
+   Blasco, GBMJ
+   Castellvi, P
+   Cebria, AI
+   Garcia-Forero, C
+   Miranda-Mendizabal, A
+   Pares-Badell, O
+   Almenara, J
+   Lagares, C
+   Echeburua, E
+   Gabilondo, A
+   Iruin, A
+   Perez-Vazquez, MT
+   Piqueras, JA
+   Soto-Sanz, V
+   Rodriguez-Marin, J
+   Roca, M
+   Gili, M
+   Vives, M
+   Auerbach, RP
+   Kessler, RC
+   Green, JG
+   Nock, MK
+   Pinder-Amaker, S
+   Zaslavsky, AM
+AF Ebert, David Daniel
+   Franke, Marvin
+   Kaehlke, Fanny
+   Kuechler, Ann-Marie
+   Bruffaerts, Ronny
+   Mortier, Philippe
+   Karyotaki, Eirini
+   Alonso, Jordi
+   Cuijpers, Pim
+   Berking, Matthias
+   Auerbach, Randy P.
+   Kessler, Ronald C.
+   Baumeister, Harald
+   Hasking, Penelope
+   Boyes, Mark
+   Kiekens, Glenn
+   Mortier, Philippe
+   Demyttenaere, Koen
+   Bootsma, Erik
+   Husky, Mathilde
+   Kovess-Masfety, Viviane
+   Ebert, David D.
+   Berking, Matthias
+   Franke, Marvin
+   Kaehlke, Fanny
+   Baumeister, Harald
+   Kuechler, Ann-Marie
+   Mak, Arthur
+   Benjet, Corina
+   Borges, Guilherme
+   Elena Medina-Mora, Maria
+   Abrego Ramirez, Adrian
+   Covarrubias Diaz, Anabell
+   Socorro Duran, Ma.
+   Perez Tarango, Gustavo
+   Zavala Berbena, Maria Alicia
+   Gonzalez Gonzalez, Rogaciano
+   Gutierrez-Garcia, Raul A.
+   Edith Hermosillo de la Torre, Alicia
+   Martinez Martinez, Kalina Isela
+   Martinez Ruiz, Sinead
+   Cuijpers, Pim
+   Karyotaki, Eirini
+   O'Neill, Siobhan
+   Bjourson, Tony
+   Murray, Elaine
+   Stein, Dan J.
+   Lochner, Christine
+   Roos, Janine
+   Taljaard, Lian
+   Bantjes, Jason
+   Saal, Wylene
+   Alonso, Jordi
+   Vilagut, Gemma
+   Alayo, Itxaso
+   Ballester, Laura
+   Jesus Blasco, Gabriela Barbaglia Maria
+   Castellvi, Pere
+   Isabel Cebria, Ana
+   Garcia-Forero, Carlos
+   Miranda-Mendizabal, Andrea
+   Pares-Badell, Oleguer
+   Almenara, Jose
+   Lagares, Carolina
+   Echeburua, Enrique
+   Gabilondo, Andrea
+   Iruin, Alvaro
+   Teresa Perez-Vazquez, Maria
+   Antonio Piqueras, Jose
+   Soto-Sanz, Victoria
+   Rodriguez-Marin, Jesus
+   Roca, Miquel
+   Gili, Margarida
+   Vives, Margarida
+   Auerbach, Randy P.
+   Kessler, Ronald C.
+   Green, Jennifer G.
+   Nock, Matthew K.
+   Pinder-Amaker, Stephanie
+   Zaslavsky, Alan M.
+CA WHO World Mental Hlth-Int Coll
+   UNIVERSAL Study Grp
+TI Increasing intentions to use mental health services among university
+   students. Results of a pilot randomized controlled trial within the
+   World Health Organization's World Mental Health International College
+   Student Initiative
+SO INTERNATIONAL JOURNAL OF METHODS IN PSYCHIATRIC RESEARCH
+AB Background The majority of university students with mental health problems are untreated. Only a small empirical literature exists on strategies to increase mental health service use. Aims To investigate the effects and moderators of a brief acceptance-facilitating intervention on intention to use mental health services among university students. Method Within the German site of the World Health Organization's World Mental Health International College Student (WMH-ICS) initiative, 1,374 university students were randomized to an intervention condition (IC; n = 664) or a control condition (CC; n = 710) that was implemented in the survey itself. Both conditions received the questions assessing mental disorders and suicidality that were included in other WMH-ICS surveys. The IC group then additionally received: Internet-based personalized feedback based on subject symptom severity in the domains of depression, anxiety, substance use, suicidal thoughts and behaviors, and nonsuicidal self-injury; psychoeducation tailored to the personal symptom profile; and information about available university and community mental health services. The primary outcome was reported intention to use psychological interventions in the next semester, which was the last question in the survey. A broad range of potential moderating factors was explored. Results There was a significant main effect of the intervention with students randomized to IC, reporting significantly higher intentions to seek help in the next semester than students in the CC condition (d = 0.12, 95% CI: 0.02 to 0.23). Moderator analyses indicated that the intervention was more effective among students that fulfilled the criteria for lifetime (d = 0.34; 95% CI: -0.08 to 0.7) and 12-month panic-disorder (d = 0.32; 95% CI: -0.10 to 0.74) compared with those without lifetime (d = 0.11; 95% CI: 0.00 to 0.22) or 12-month panic disorder (d = 0.11; 95% CI: 0.00 to 0.22), students with lower (d = 0.37; 95% CI: -0.77 to 1.51) than higher (d = -0.01; 95% CI: -0.36 to 0.34) self-reported physical health, and students with nonheterosexual (d = 0.38; 95% CI: 0.08 to 0.67) compared with heterosexual (d = 0.06; 95% CI: -0.06 to 0.17) sexual orientation. The intervention had no effects among students who reported that they recognized that they had an emotional problem and "are already working actively to change it" (Stage 4 "stages of change"). Conclusions A simple acceptance-facilitating intervention can increase intention to use mental health services, although effects, are on average, small. Future studies should investigate more personalized approaches with interventions tailored to barriers and clinical characteristics of students. In order to optimize intervention effects, the development and evaluation should be realized in designs that are powered to allow incremental value of different intervention components and tailoring strategies to be evaluated, such as in multiphase optimization designs.
+RI Auerbach, Randy/V-8079-2019; Mak, Arthur Dun Ping/V-6345-2017; Piqueras,
+   Jose A/C-6011-2011; Castellvi, Pere/A-7533-2015; Alonso,
+   Jordi/A-5514-2010; Mortier, Philippe/E-3756-2018; Nock,
+   Matthew/AAE-8330-2019; Stein, Dan J/A-1752-2008; Echeburua,
+   Enrique/F-9033-2010
+OI Mak, Arthur Dun Ping/0000-0003-1627-6434; Piqueras, Jose
+   A/0000-0002-3604-5441; Castellvi, Pere/0000-0002-3920-8576; Alonso,
+   Jordi/0000-0001-8627-9636; Mortier, Philippe/0000-0003-2113-6241; Stein,
+   Dan J/0000-0001-7218-7810; Echeburua, Enrique/0000-0001-7654-0781;
+   Cuijpers, Pim/0000-0001-5497-2743; Ebert, David
+   Daniel/0000-0001-6820-0146; Franke, Marvin/0000-0001-9250-3438;
+   Karyotaki, Eirini/0000-0002-0071-2599; Kahlke, Fanny/0000-0002-8189-301X
+SN 1049-8931
+EI 1557-0657
+PD JUN
+PY 2019
+VL 28
+IS 2
+SI SI
+AR e1754
+DI 10.1002/mpr.1754
+UT WOS:000468789600007
+PM 30456814
+ER
+
+PT J
+AU Ebert, DD
+   Mortier, P
+   Kaehlke, F
+   Bruffaerts, R
+   Baumeister, H
+   Auerbach, RP
+   Alonso, J
+   Vilagut, G
+   Martinez, KU
+   Lochner, C
+   Cuijpers, P
+   Kuechler, AM
+   Green, J
+   Hasking, P
+   Lapsley, C
+   Sampson, NA
+   Kessler, RC
+   Boyes, M
+   Kiekens, G
+   Baumeister, H
+   Kaehlke, F
+   Berking, M
+   Ramirez, AA
+   Borges, G
+   Diaz, AC
+   Duran, MS
+   Gonzalez, RG
+   Gutierrez-Garcia, RA
+   de la Torre, AEH
+   Martinez, KIM
+   Medina-Mora, ME
+   Zarazua, HM
+   Tarango, GP
+   Berbena, MAZ
+   O'Neill, S
+   Bjourson, T
+   Lochner, C
+   Roos, J
+   Cur, HB
+   Taljaard, L
+   Saal, W
+   Stein, DJ
+   Bantjes, J
+   Almenara, J
+   Ballester, L
+   Barbaglia, G
+   Blasco, MJ
+   Castellvi, P
+   Cebria, AI
+   Echeburua, E
+   Gabilondo, A
+   Garcia-Forero, C
+   Iruin, A
+   Lagares, C
+   Miranda-Mendizabal, A
+   Pares-Badell, O
+   Perez-Vazquez, MT
+   Piqueras, JA
+   Roca, M
+   Rodriguez-Marin, J
+   Gili, M
+   Soto-Sanz, V
+   Vives, M
+AF Ebert, David Daniel
+   Mortier, Philippe
+   Kaehlke, Fanny
+   Bruffaerts, Ronny
+   Baumeister, Harald
+   Auerbach, Randy P.
+   Alonso, Jordi
+   Vilagut, Gemma
+   Martinez, Kalina U.
+   Lochner, Christine
+   Cuijpers, Pim
+   Kuechler, Ann-Marie
+   Green, Jennifer
+   Hasking, Penelope
+   Lapsley, Coral
+   Sampson, Nancy A.
+   Kessler, Ronald C.
+   Boyes, Mark
+   Kiekens, Glenn
+   Baumeister, Harald
+   Kaehlke, Fanny
+   Berking, Matthias
+   Abrego Ramirez, Adrian
+   Borges, Guilherme
+   Covarrubias Diaz, Anabell
+   Socorro Duran, Ma.
+   Gonzalez Gonzalez, Rogaciano
+   Gutierrez-Garcia, Raul A.
+   Edith Hermosillo de la Torre, Alicia
+   Martinez Martinez, Kalina Isela
+   Elena Medina-Mora, Maria
+   Mejia Zarazua, Humberto
+   Perez Tarango, Gustavo
+   Zavala Berbena, Maria Alicia
+   O'Neill, Siobhan
+   Bjourson, Tony
+   Lochner, Christine
+   Roos, Janine
+   Cur, Hons B.
+   Taljaard, Lian
+   Saal, Wylene
+   Stein, Dan J.
+   Bantjes, Jason
+   Almenara, Jose
+   Ballester, Laura
+   Barbaglia, Gabriela
+   Jesus Blasco, Maria
+   Castellvi, Pere
+   Isabel Cebria, Ana
+   Echeburua, Enrique
+   Gabilondo, Andrea
+   Garcia-Forero, Carlos
+   Iruin, Alvaro
+   Lagares, Carolina
+   Miranda-Mendizabal, Andrea
+   Pares-Badell, Oleguer
+   Teresa Perez-Vazquez, Maria
+   Antonio Piqueras, Jose
+   Roca, Miquel
+   Rodriguez-Marin, Jesus
+   Gili, Margalida
+   Soto-Sanz, Victoria
+   Vives, Margarida
+CA WHO World Mental Hlth-Int Coll
+   UNIVERSAL Study Grp
+TI Barriers of mental health treatment utilization among first-year college
+   students: First cross-national results from the WHO World Mental Health
+   International College Student Initiative
+SO INTERNATIONAL JOURNAL OF METHODS IN PSYCHIATRIC RESEARCH
+AB Background Although mental disorders and suicidal thoughts-behaviors (suicidal thoughts and behaviors) are common among university students, the majority of students with these problems remain untreated. It is unclear what the barriers are to these students seeking treatment. Aims The aim of this study is to examine the barriers to future help-seeking and the associations of clinical characteristics with these barriers in a cross-national sample of first-year college students. Method As part of the World Mental Health International College Student (WMH-ICS) initiative, web-based self-report surveys were obtained from 13,984 first-year students in eight countries across the world. Clinical characteristics examined included screens for common mental disorders and reports about suicidal thoughts and behaviors. Multivariate regression models adjusted for socio-demographic, college-, and treatment-related variables were used to examine correlates of help-seeking intention and barriers to seeking treatment. Results Only 24.6% of students reported that they would definitely seek treatment if they had a future emotional problem. The most commonly reported reasons not to seek treatment among students who failed to report that they would definitely seek help were the preference to handle the problem alone (56.4%) and wanting to talk with friends or relatives instead (48.0%). Preference to handle the problem alone and feeling too embarrassed were also associated with significantly reduced odds of having at least some intention to seek help among students who failed to report that they would definitely seek help. Having 12-month major depression, alcohol use disorder, and suicidal thoughts and behaviors were also associated with significantly reduced reported odds of the latter outcome. Conclusions The majority of first-year college students in the WMH-ICS surveys report that they would be hesitant to seek help in case of future emotional problems. Attitudinal barriers and not structural barriers were found to be the most important reported reasons for this hesitation. Experimental research is needed to determine whether intention to seek help and, more importantly, actual help-seeking behavior could be increased with the extent to which intervention strategies need to be tailored to particular student characteristics. Given that the preference to handle problems alone and stigma and appear to be critical, there could be value in determining if internet-based psychological treatments, which can be accessed privately and are often build as self-help approaches, would be more acceptable than other types of treatments to student who report hesitation about seeking treatment.
+RI Mortier, Philippe/E-3756-2018; Piqueras, Jose A/C-6011-2011; Echeburua,
+   Enrique/F-9033-2010; Auerbach, Randy/V-8079-2019; Stein, Dan
+   J/A-1752-2008; Alonso, Jordi/A-5514-2010; Castellvi, Pere/A-7533-2015
+OI Mortier, Philippe/0000-0003-2113-6241; Piqueras, Jose
+   A/0000-0002-3604-5441; Echeburua, Enrique/0000-0001-7654-0781; Stein,
+   Dan J/0000-0001-7218-7810; Alonso, Jordi/0000-0001-8627-9636; Castellvi,
+   Pere/0000-0002-3920-8576; Ebert, David Daniel/0000-0001-6820-0146;
+   Kahlke, Fanny/0000-0002-8189-301X
+SN 1049-8931
+EI 1557-0657
+PD JUN
+PY 2019
+VL 28
+IS 2
+SI SI
+AR e1782
+DI 10.1002/mpr.1782
+UT WOS:000468789600006
+PM 31069905
+ER
+
+PT J
+AU Lawrence, JA
+   Kaplan, I
+   Collard, AH
+AF Lawrence, Jeanette A.
+   Kaplan, Ida
+   Collard, Amy H.
+TI Perspectives of Refugee Children Resettling in Australia on Indicators
+   of Their Wellbeing
+SO CHILD INDICATORS RESEARCH
+AB Indicators of the well-being of refugee children are under explored, especially from children's perspectives. We used a child-friendly computer-assisted interview (CAI) to investigate patterns in refugee children's positive and negative indicators of well-being as they resettled in Australia. Thirty-seven children aged 7 to 13years were clients of a specialized refugee trauma service. Analyzes revealed 3 cluster subgroups with distinctive patterns of indicators of high, moderate, low levels of well-being indicators. One subgroup with a high level of well-being differed from low and moderate level subgroups in consistently expressing indicators of faring well with little worrying, and the absence of intrusive worries. A subgroup with a low level of well-being expressed indicators of not faring well, worrying about family members, and having worries that intruded in daily functions. A subgroup with a moderate level of well-being differed from the low cluster in having less severe and less intrusive worries. Subgroups expressed common positive indicators of what they needed to help them feel better, their reliance on family members for help, and the forms of close interactions and talk they received as help from family members. Implications include the value of enabling refugee children to express their perspectives, and the importance of including these perspectives as a basis for tailoring intervention strategies for children and their families and for including children's perspectives in policy and service decisions and strategies.
+SN 1874-897X
+EI 1874-8988
+PD JUN
+PY 2019
+VL 12
+IS 3
+BP 943
+EP 962
+DI 10.1007/s12187-018-9568-x
+UT WOS:000467653800010
+ER
+
+PT J
+AU Sanders, MR
+AF Sanders, Matthew R.
+TI Harnessing the Power of Positive Parenting to Promote Wellbeing of
+   Children, Parents and Communities Over a Lifetime
+SO BEHAVIOUR CHANGE
+AB Evidence-based parenting support (EBPS) programs derived from social learning theory, cognitive behavioural principles, and developmental theory are among the most successful innovations in the entire field of psychological intervention. EBPS programs have been at the cutting edge of global dissemination efforts to increase community access to evidence-based parenting programs. Despite the widely recognised success of these efforts, existing models of parenting intervention are not a panacea, and much can be done to improved outcomes. Efforts to improve outcomes have included the emergence of a population-based approach to increase reach of intervention. This has included the development of flexible delivery modalities, including online parenting interventions, the incorporation of strategies to enhance cultural relevance and acceptability of programs, and more recently, applications with parents in very low resource settings. Further enhancements of outcomes are likely to be forthcoming as we gain a better understanding of the mechanisms that explain positive intervention effects and non-response to interventions. More cost-effective online professional training models are needed to disseminate and promote the sustained use of EBPS programs. New interventions are required for the most vulnerable parents when parenting concerns are complicated by other problems such as trauma, addictions, relationship conflict, family violence, mental health problems and intergenerational poverty. However, to scale effective programs, Commonwealth and state government policies and funding priorities need to respond to evidence about what works and make sustained investments in the implementation of parenting programs. Possible strategies to enhance the policy impact of intervention research are discussed.
+SN 0813-4839
+EI 2049-7768
+PD JUN
+PY 2019
+VL 36
+IS 2
+BP 56
+EP 74
+AR PII S0813483919000032
+DI 10.1017/bec.2019.3
+UT WOS:000466533500001
+ER
+
+PT J
+AU Kitagawa, T
+   Higuchi, Y
+   Todo, E
+   Ueda, T
+   Ando, S
+   Murakami, T
+AF Kitagawa, Tomomi
+   Higuchi, Yumi
+   Todo, Emiko
+   Ueda, Tetsuya
+   Ando, Suguru
+   Murakami, Tatsunori
+TI Tailored feedback reduced prolonged sitting time and improved the health
+   of housewives: a single-blind randomized controlled pilot study
+SO WOMEN & HEALTH
+AB Reducing sitting time, independent of physical activity, is important for health. However, few reports have been published regarding physical activity of housewives compared to that of employed women. We examined strategies to shorten housewives' sitting time using a single-blind randomized controlled trial. Forty-eight housewives (38.0 +/- 4.5 years old) were randomly assigned to one of three groups: pamphlet, self-feedback, and tailored feedback groups. All participants received a pamphlet describing the risks of prolonged sitting. The self-feedback and tailored feedback groups were also given feedback on sitting time by a smartphone application. The tailored feedback group received individual suggestions regarding lifestyle to shorten sitting time. We measured physical activity using an accelerometer and health-related quality of life using the Short-Form 8. The longest prolonged sitting time significantly decreased over time, a significant reduction was observed after the intervention only in the tailored feedback group. Vitality, mental health, and role emotional components of health-related quality of life showed a significant improvement with time but no significant differences were observed among the study groups. We suggested an easy approach to shortening prolonged sitting time in housewives using a pamphlet and feedback by smartphone. However, tailored consulting was necessary to yield a more effective result.
+SN 0363-0242
+EI 1541-0331
+PD FEB 7
+PY 2020
+VL 60
+IS 2
+BP 212
+EP 223
+DI 10.1080/03630242.2019.1616043
+EA MAY 2019
+UT WOS:000469138400001
+PM 31113310
+ER
+
+PT J
+AU Ervasti, M
+   Kallio, J
+   Maattanen, I
+   Mantyjarvi, J
+   Jokela, M
+AF Ervasti, Mari
+   Kallio, Johanna
+   Maattanen, Ilmari
+   Mantyjarvi, Jani
+   Jokela, Markus
+TI Influence of Personality and Differences in Stress Processing Among
+   Finnish Students on Interest to Use a Mobile Stress Management App:
+   Survey Study
+SO JMIR MENTAL HEALTH
+AB Background: Excessive stress has a negative impact on many aspects of life for both individuals and societies, from studying and working to health and well-being. Each individual has their unique level of stress-proneness, and positive or negative outcomes of stress may be affected by it. Technology-aided interventions have potential efficacy in the self-management of stress. However, current Web-based or mobile stress management solutions may not reach the individuals that would need them the most, that is, stress-sensitive people.
+   Objective: The aim of this study was to examine how personality is associated with stress among Finnish university students and their interest to use apps that help in managing stress.
+   Methods: We used 2 structured online questionnaires (combined, n=1001) that were advertised in the University of Helsinki's mailing lists. The first questionnaire (n=635) was used to investigate intercorrelations between the Big Five personality variables (neuroticism, extraversion, openness, agreeableness, and conscientiousness) and other stress-related background variables. The second questionnaire (n=366) was used to study intercorrelations between the above-mentioned study variables and interest in using stress management apps.
+   Results: The quantitative findings of the first questionnaire showed that higher levels of extraversion, agreeableness, and conscientiousness were associated with lower self-reported stress. Neuroticism, in turn, was found to be strongly associated with rumination, anxiety, and depression. The findings of the second questionnaire indicated that individuals characterized by the Big Five personality traits of neuroticism and agreeableness were particularly interested to use stress management apps (r=.27, P<.001 and r=.11, P=.032, respectively). Moreover, the binary logistic regression analysis revealed that when a person's neuroticism is one SD above average (ie, it is higher than among 84% of people), the person has roughly 2 times higher odds of being interested in using a stress management app. Respectively, when a person's agreeableness is one SD above average, the person has almost 1.4 times higher odds of being interested in using a stress management app.
+   Conclusions: Our results indicated that personality traits may have an influence on the adoption interest of stress management apps. Individuals with high neuroticism are, according to our results, adaptive in the sense that they are interested in using stress management apps that may benefit them. On the contrary, low agreeableness may lead to lower interest to use the mobile stress management apps. The practical implication is that future mobile stress interventions should meaningfully be adjusted to improve user engagement and support health even among less-motivated users, for instance, to successfully engage individuals with low agreeableness.
+RI Jokela, Markus/A-4669-2009
+OI Jokela, Markus/0000-0003-0117-0012
+SN 2368-7959
+PD MAY 13
+PY 2019
+VL 6
+IS 5
+AR UNSP e10039
+DI 10.2196/10039
+UT WOS:000469977400001
+PM 31094358
+ER
+
+PT J
+AU Kerr, DJR
+   Deane, FP
+   Crowe, TP
+AF Kerr, Douglas J. R.
+   Deane, Frank P.
+   Crowe, Trevor P.
+TI Narrative Identity Reconstruction as Adaptive Growth During Mental
+   Health Recovery: A Narrative Coaching Boardgame Approach
+SO FRONTIERS IN PSYCHOLOGY
+AB Objective: The purpose of this paper is to construct a conceptual framework for investigating the reconstruction of narrative identity in mental health recovery from a complexity perspective. This conceptual framework provides the foundation for developing a health boardgame to facilitate narrative identity reconstruction.
+   Methods: A selective integrative review of the theoretical and empirical literature relevant to narrative identity reconstruction in recovery was conducted. Sources included books, dissertations, internet resources, and professional journals.
+   Findings: The reviewed material provides a conceptual framework that offers an enriched understanding of narrative identity reconstruction in recovery as a process of adaptive growth. It identifies the Hero's Journey, the life story model of identity (LSMI), and intentional change theory (ITC) as particularly relevant in informing strategies for narrative identity reconstruction. The conceptual framework can be operationalized in a narrative coaching treatment approach using a boardgame.
+   Conclusion and Implications for Practice: In practice, mental health professionals could use the narrative coaching boardgame to facilitate people's adaptive change with a focus on building skills to reconstruct their preferred narrative identity and foster hope. Future research should explore what aspects of narrative identity and non-linear dynamic processes of change are most important in people's recovery narratives and in particular these processes can be assessed in response to the use of the boardgame.
+SN 1664-1078
+PD MAY 8
+PY 2019
+VL 10
+AR 994
+DI 10.3389/fpsyg.2019.00994
+UT WOS:000467444500001
+PM 31133932
+ER
+
+PT J
+AU Karyotaki, E
+   Klein, AM
+   Riper, H
+   de Wit, L
+   Krijnen, L
+   Bol, E
+   Bolinski, F
+   Burger, S
+   Ebert, DD
+   Auerbach, RP
+   Kessler, RC
+   Bruffaerts, R
+   Batelaan, N
+   van der Heijde, CM
+   Vonk, P
+   Kleiboer, A
+   Wiers, RW
+   Cuijpers, P
+AF Karyotaki, Eirini
+   Klein, Anke M.
+   Riper, Heleen
+   de Wit, Leonore
+   Krijnen, Lisa
+   Bol, Eline
+   Bolinski, Felix
+   Burger, Simone
+   Ebert, David D.
+   Auerbach, Randy P.
+   Kessler, Ronald C.
+   Bruffaerts, Ronny
+   Batelaan, Neeltje
+   van der Heijde, Claudia M.
+   Vonk, Peter
+   Kleiboer, Annet
+   Wiers, Reinout W.
+   Cuijpers, Pim
+TI Examining the effectiveness of a web-based intervention for symptoms of
+   depression and anxiety in college students: study protocol of a
+   randomised controlled trial
+SO BMJ OPEN
+AB Introduction The college years are a peak period for the onset of common mental disorders. Poor mental health is associated with low academic attainment, physical, interpersonal and cognitive impairments. Universities can use online approaches to screen students for mental disorders and treat those in need. The present study aims to assess the effectiveness of a guided web-based transdiagnostic individually tailored intervention to treat students with symptoms of depression and/or anxiety.
+   Methods and analysis The present study is a randomised controlled trial. Participants are Dutch college students (>= 18 years) with mild to moderate depression and/or anxiety symptoms. The intervention is a guided web-based transdiagnostic individually tailored intervention that targets symptoms of depression and/or anxiety. The intervention consists of seven online sessions with a duration ranging from 4 to 7 weeks depending on individual progress. A booster session is administered 4 weeks after the completion of the seventh session. Primary outcome measures are the Patient Health Questionnaire for depression and the Generalised Anxiety Disorder 7-item scale for anxiety. These scales are administered at screening, post-treatment and follow-up assessments (6 and 12 months post-randomisation).
+   Ethics and dissemination The Medical Ethics Committee of the Vrije Universiteit Medical Centre has approved the protocol (registration number 2016.583, A2017.362andA2018.421). Results of the trial will be published in a peer-reviewed journal.
+OI Ebert, David Daniel/0000-0001-6820-0146
+SN 2044-6055
+PD MAY
+PY 2019
+VL 9
+IS 5
+AR e028739
+DI 10.1136/bmjopen-2018-028739
+UT WOS:000471192800380
+PM 31092668
+ER
+
+PT J
+AU Larsen, SE
+   Lotfi, S
+   Bennett, KP
+   Larson, CL
+   Dean-Bernhoft, C
+   Han-Joo, L
+AF Larsen, Sadie E.
+   Lotfi, Salahadin
+   Bennett, Kenneth P.
+   Larson, Christine L.
+   Dean-Bernhoft, Caron
+   Han-Joo, Lee
+TI A pilot randomized trial of a dual n-back emotional working memory
+   training program for veterans with elevated PTSD symptoms
+SO PSYCHIATRY RESEARCH
+AB Anxiety is characterized by excessive attention to threatening information, leading to impaired working memory (WM) performance and elevated anxious thoughts. Preliminary research indicates that individuals with PTSD show particular difficulty with WM in emotional contexts (Schweizer et al., 2011). Although several studies show that computerized training can improve WM capacity for anxious individuals (Owens et al., 2013; Schweizer et al., 2011; 2013), there has been very little research on WM training for PTSD or with Veterans (Saunders et al., 2015). In a pilot randomized trial, we assigned Veterans with elevated PTSD symptoms to an online emotional WM training, either adaptive (n-back; n = 11) or a less potent training (1-back; n = 10). Overall, both groups showed significant decreases in PTSD symptoms. The n-back group showed a trend of outperforming the 1-back group in improving reexperiencing symptoms (which are likely to be associated with impaired WM functioning). This population anecdotally found the intervention quite challenging, which may be why even the less potent 1-back was still helpful. These preliminary findings justify the effort for developing new WM-focused PTSD intervention for complex, vulnerable populations, particularly as online training can improve accessibility.
+SN 0165-1781
+PD MAY
+PY 2019
+VL 275
+BP 261
+EP 268
+DI 10.1016/j.psychres.2019.02.015
+UT WOS:000469156400037
+PM 30939398
+ER
+
+PT J
+AU Fitzsimmons-Craft, EE
+   Firebaugh, ML
+   Graham, AK
+   Eichen, DM
+   Monterubio, GE
+   Balantekin, KN
+   Karam, AM
+   Seal, A
+   Funk, B
+   Taylor, CB
+   Wilfley, DE
+AF Fitzsimmons-Craft, Ellen E.
+   Firebaugh, Marie-Laure
+   Graham, Andrea K.
+   Eichen, Dawn M.
+   Monterubio, Grace E.
+   Balantekin, Katherine N.
+   Karam, Anna M.
+   Seal, Annie
+   Funk, Burkhardt
+   Taylor, C. Barr
+   Wilfley, Denise E.
+TI State-Wide University Implementation of an Online Platform for Eating
+   Disorders Screening and Intervention
+SO PSYCHOLOGICAL SERVICES
+AB The Internet-based Healthy Body Image (HBI) Program platform uses online screening to identify individuals at low risk for, high risk for, or with an eating disorder (ED) and then directs users to tailored, evidence-based online/mobile interventions or referral to in-person care to address individuals' risk/clinical status. We examined findings from the first state-wide deployment of HBI over the course of 3 years in Missouri public universities, sponsored by the Missouri Eating Disorders Council and the Missouri Mental Health Foundation. First, the screen was completed 2,454 times, with an average of 2.5% of the undergraduate student body on each campus taking the screen. Second, ED risk level in the participating students was high-over 56% of students screened were identified as being at high risk for ED onset or having a clinical/subclinical ED. Third, uptake for the HBI online/mobile interventions ranged from 44-51%, with higher rates of uptake in the high-risk compared with low-risk group. Fourth, results showed that, for students with a clinical/subclinical ED, use of the clinical mobile application Student Bodies-Eating Disorders intervention resulted in significantly decreased restrictive eating and binge eating. Neither vomiting nor diet pill/laxative use was found to decrease, but reports of these behaviors were very low. This is the first deployment of a comprehensive online platform for screening and delivering tailored interventions to a population of individuals with varying ED risk and symptom profiles in an organized care setting. Implications for future research and sustaining and broadening the reach of HBI are discussed.
+SN 1541-1559
+EI 1939-148X
+PD MAY
+PY 2019
+VL 16
+IS 2
+SI SI
+BP 239
+EP 249
+DI 10.1037/ser0000264
+UT WOS:000466773000009
+PM 30407047
+ER
+
+PT J
+AU David, OA
+   David, D
+AF David, Oana A.
+   David, Daniel
+TI Managing Distress Using Mobile Prescriptions of Psychological Pills: A
+   First 6-Month Effectiveness Study of the PsyPills App
+SO FRONTIERS IN PSYCHIATRY
+AB Background: Although numerous mental health apps are commercially available, only a few of them have been empirically tested. PsyPills is an interactive and personalized mobile application, based on emotion regulation research and Rational Emotive Behavior Therapy principles, that can function as a stand-alone intervention aimed at offering immediate stress relief.
+   Objective: In this paper, we describe the newly developed PsyPills app and present data obtained at 6 months after its release regarding its effectiveness for stress management.
+   Methods: 115 users aged 15-79 years old (M = 39.01, SD = 13.49) accessed the app during the first 6 months after its release and were thus included in the study. Distress and specific cognitive processes were collected using visual analog scale measures.
+   Results: Most users accessed the app with the purpose of searching anxiety relief and most often reported work-related distress. Seventy-Four users accessed PsyPills between 1 and 11 times (M = 2.68, SD = 2.59), and received 258 psychological prescriptions in total. PsyPills was effective in terms of reducing the frequency of dysfunctional emotions, such that significantly more users reported feeling functional emotions after accessing the application and reading its personalized prescriptions than those reporting not being able to change it [chi(2) (1, N = 52) = 52.00 p 0.001]. Using reminders of the psychological pill at specific times during the day made the PsyPills app more effective.
+   Conclusions: Based on initial data on its first 6-month usage, the PsyPills app appears to be promising in terms of offering stress relief. However, future studies need to use golden standard design and investigate its efficacy as an adjunctive intervention.
+SN 1664-0640
+PD MAY 1
+PY 2019
+VL 10
+AR 201
+DI 10.3389/fpsyt.2019.00201
+UT WOS:000466593900001
+PM 31118904
+ER
+
+PT J
+AU Ford, J
+   Littleton, H
+   Lutes, L
+   Wuensch, K
+   Benton, C
+   Cahill, J
+   Hudson, C
+   Nekkanti, R
+   Gehi, A
+   Sears, S
+AF Ford, Jessica
+   Littleton, Heather
+   Lutes, Lesley
+   Wuensch, Karl
+   Benton, Christie
+   Cahill, John
+   Hudson, Christopher
+   Nekkanti, Rajasekhar
+   Gehi, Anil
+   Sears, Samuel
+TI Evaluation of an Internet-based intervention for ICD patients with
+   elevated symptoms of posttraumatic stress disorder
+SO PACE-PACING AND CLINICAL ELECTROPHYSIOLOGY
+AB Background To date, treatment to reduce posttraumatic stress disorder (PTSD) symptoms in implantable cardioverter defibrillator (ICD) patients has been limited by lack of symptom recognition, lack of provider referrals, barriers to treatment access, and inadequate evidence base of treatment effectiveness in this population. Methods Participants were 46 patients with ICDs (17 paired) with elevated PTSD symptoms who were recruited in electrophysiology clinics at community and university hospitals as well as ICD support forums. Participants were provided the Web-based, brief psychosocial intervention, which was tailored to ICD patients and contained elements of evidence-based cognitive-behavioral protocols for PTSD. Pretest and posttest measurement assessed participants' trauma experiences, mental health, and device-specific distress (device acceptance and shock anxiety). Results Postintervention scores on the PTSD Checklist (PCL; M = 35.5, SD = 10.09) were significantly lower than preintervention scores (M = 46.31, SD = 9.88), t (16) = 3.51, P = 0.003, d = 1.08. Conclusions Preliminary results indicate that future research with a more robust design is warranted. Given limitations in accessibility of mental health providers to manage cardiac-related psychological sequelae, brief, Web-based intervention may be an effective, supplemental, clinical modality to offer treatment to this population.
+SN 0147-8389
+EI 1540-8159
+PD MAY
+PY 2019
+VL 42
+IS 5
+BP 521
+EP 529
+DI 10.1111/pace.13654
+UT WOS:000465228600005
+PM 30847952
+ER
+
+PT J
+AU Tolou-Shams, M
+   Yonek, J
+   Galbraith, K
+   Bath, E
+AF Tolou-Shams, Marina
+   Yonek, Juliet
+   Galbraith, Katharine
+   Bath, Eraka
+TI Text Messaging to Enhance Behavioral Health Treatment Engagement Among
+   Justice-Involved Youth: Qualitative and User Testing Study
+SO JMIR MHEALTH AND UHEALTH
+AB Background: Mental health and substance use disorders are highly prevalent in justice-involved youth, yet only 8% of court-involved, nonincarcerated (CINI) youth in need of treatment receive it. Dual diagnosis (co-occurring psychiatric and substance use disorders) in justice-involved youth is highly predictive of recidivism. Identifying novel approaches, such as the use of mobile health (mHealth) technologies, to close this gap between need and receipt of behavioral health treatment for the CINI population could potentially offset rates of reoffending into adulthood. Text-messaging (short message service, SMS) interventions have demonstrated efficacy in improving treatment adherence and other associated outcomes in other vulnerable youth populations, but development and testing of mHealth interventions to improve behavioral health treatment rates and outcomes for CINI youth are lacking.
+   Objective: This study aimed to collect qualitative data from key stakeholders to inform the development of a theoretically grounded, family-based text-messaging (SMS) intervention targeting CINI youth's behavioral health treatment engagement; additionally, the aim was to conduct end-user testing over 6 months with CINI youth and caregivers to determine intervention feasibility and acceptability.
+   Methods: CINI youth and caregivers were referred from a California-based Juvenile Probation Department and community-based provider organizations providing services for justice-involved youth. Eligibility criteria included the following: being a justice-involved youth or a caregiver of a justice-involved youth, English speaking, youth aged 13 to 17 years old and either referred to or currently attending mental health or substance use treatment, and youth and caregiver have access to a cell phone with text-messaging capability.
+   Results: Overall, 28 individuals participated in focus groups and interviews-8 youth, 5 caregivers, and 15 juvenile justice (JJ) personnel. Three major themes emerged: (1) texting among JJ personnel and CINI youth and caregivers in their caseload is common but not systematic, (2) stigma and privacy are perceived as barriers to texting youth about behavioral health treatment appointments, and (3) messages should be short, simple, relatable, positive, and personalized. In total, 9 participants (7 youth and 2 caregivers) participated in end-user testing and rated the intervention as useful, helpful, and supportive.
+   Conclusions: Text messaging (SMS) is an acceptable and feasible means of reminding CINI youth to attend behavioral health treatment appointments. Future implementation challenges include making text messaging (SMS) personalized and tailored but not resource intensive (eg, requiring one-to-one, 24/7 human contact) and identifying which systems will deliver and sustain the intervention. Text messaging (SMS) among justice personnel, youth, and their caregivers is already widespread, but lack of clear guidelines about privacy, confidentiality, and information sharing poses ethical conundrums. Future hybrid-type research designs that explore the efficacy of the intervention while also studying ethical, system, and policy-level factors associated with using digital health interventions to improve CINI youth outcomes is a key next step.
+SN 2291-5222
+PD APR 5
+PY 2019
+VL 7
+IS 4
+AR e10904
+DI 10.2196/10904
+UT WOS:000465335500001
+PM 30950808
+ER
+
+PT J
+AU den Boer, K
+   de Veer, AJE
+   Schoonmade, LJ
+   Verhaegh, KJ
+   van Meijel, B
+   Francke, AL
+AF den Boer, Karin
+   de Veer, Anke J. E.
+   Schoonmade, Linda J.
+   Verhaegh, Kim J.
+   van Meijel, Berno
+   Francke, Anneke L.
+TI A systematic review of palliative care tools and interventions for
+   people with severe mental illness
+SO BMC PSYCHIATRY
+AB Background: Increasing attention to palliative care for the general population has led to the development of various evidence-based or consensus-based tools and interventions. However, specific tools and interventions are needed for people with severe mental illness (SMI) who have a life-threatening illness. The aim of this systematic review is to summarize the scientific evidence on tools and interventions in palliative care for this group.
+   Methods: Systematic searches were done in the PubMed, Cochrane Library, CINAHL, PsycINFO and Embase databases, supplemented by reference tracking, searches on the internet with free text terms, and consultations with experts to identify relevant literature. Empirical studies with qualitative, quantitative or mixed-methods designs concerning tools and interventions for use in palliative care for people with SMI were included. Methodological quality was assessed using a critical appraisal instrument for heterogeneous study designs. Stepwise study selection and the assessment of methodological quality were done independently by two review authors.
+   Results: Four studies were included, reporting on a total of two tools and one multi-component intervention. One study concerned a tool to identify the palliative phase in patients with SMI. This tool appeared to be usable only in people with SMI with a cancer diagnosis. Furthermore, two related studies focused on a tool to involve people with SMI in discussions about medical decisions at the end of life. This tool was assessed as feasible and usable in the target group. One other study concerned the Dutch national Care Standard for palliative care, including a multi-component intervention. The Palliative Care Standard also appeared to be feasible and usable in a mental healthcare setting, but required further tailoring to suit this specific setting. None of the included studies investigated the effects of the tools and interventions on quality of life or quality of care.
+   Conclusions: Studies of palliative care tools and interventions for people with SMI are scarce. The existent tools and intervention need further development and should be tailored to the care needs and settings of these people. Further research is needed on the feasibility, usability and effects of tools and interventions for palliative care for people with SMI.
+OI Schoonmade, Linda/0000-0002-2407-5977
+EI 1471-244X
+PD APR 3
+PY 2019
+VL 19
+AR 106
+DI 10.1186/s12888-019-2078-7
+UT WOS:000463729300001
+PM 30943927
+ER
+
+PT J
+AU Marques, DR
+   Castilho, P
+   Gomes, AA
+   Pereira, A
+AF Marques, Daniel Ruivo
+   Castilho, Paula
+   Gomes, Ana Allen
+   Pereira, Anabela
+TI Mindfulness and self-compassion along the chronotype: a cross-sectional
+   study
+SO CHRONOBIOLOGY INTERNATIONAL
+AB It is well established in the literature that morning-type individuals present better health indicators than evening-types. Mindfulness is considered an adaptive self-regulation skill associated with well-being and physical and mental health. However, there is scarce studies that relate chronotype and mindfulness. Thus, in this research, our aim was to study the relationship between chronotype and mindfulness-related variables. For this purpose, a sample composed of 483 participants from the community was recruited through an online survey and invited to fill out the Five Facet Mindfulness Questionnaire, the Self-Compassion Scale, and the Composite Morningness Scale. Regarding mindfulness measure, the results indicated that morning-types presented higher levels of "acting with awareness" than intermediate and evening-types. Additionally, as to self-compassion measure, morning-types presented higher levels of "mindfulness" and "overall self-compassion" than intermediate and evening-types. The remaining associations examined were not statistically significant. In sum, the morning-types showed higher scores in some of the mindfulness and self-compassion scales which seem to suggest that this morningness tendency may function as protective factor concerning eventual disorders ' development. Nonetheless, more systematic studies are needed to better understand this association and subsequently foster changes for psychological intervention.
+RI Marques, Daniel Ruivo/AAC-7827-2020; Gomes, Ana Cardoso
+   Allen/K-5865-2013; Pereira, Anabela/I-5400-2014
+OI Ruivo Marques, Daniel/0000-0003-3729-0120; Gomes, Ana Cardoso
+   Allen/0000-0002-8221-6985; Pereira, Anabela/0000-0002-3897-2732
+SN 0742-0528
+EI 1525-6073
+PD APR 3
+PY 2019
+VL 36
+IS 4
+BP 541
+EP 547
+DI 10.1080/07420528.2018.1564323
+UT WOS:000460047000010
+PM 30773061
+ER
+
+PT J
+AU Xu, D
+   Xiao, SY
+   He, H
+   Caine, ED
+   Gloyd, S
+   Simoni, J
+   Hughes, JP
+   Nie, J
+   Lin, MJ
+   He, WJ
+   Yuan, YQ
+   Gong, WJ
+AF Xu, Dong (Roman)
+   Xiao, Shuiyuan
+   He, Hua
+   Caine, Eric D.
+   Gloyd, Stephen
+   Simoni, Jane
+   Hughes, James P.
+   Nie, Juan
+   Lin, Meijuan
+   He, Wenjun
+   Yuan, Yeqing
+   Gong, Wenjie
+TI Lay health supporters aided by mobile text messaging to improve
+   adherence, symptoms, and functioning among people with schizophrenia in
+   a resource-poor community in rural China (LEAN): A randomized controlled
+   trial
+SO PLOS MEDICINE
+AB Background Schizophrenia is a leading cause of disability, and a shift from facility- to community-based care has been proposed to meet the resource challenges of mental healthcare in low- and middle-income countries. We hypothesized that the addition of mobile texting would improve schizophrenia care in a resource-poor community setting compared with a community-based free-medicine program alone.
+   Methods and findings In this 2-arm randomized controlled trial, 278 community-dwelling villagers (patient participants) were randomly selected from people with schizophrenia from 9 townships of Hunan, China, and were randomized 1:1 into 2 groups. The program participants were recruited between May 1, 2015, and August 31, 2015, and the intervention and follow-up took place between December 15, 2015, and July 1, 2016. Baseline characteristics of the 2 groups were similar. The patients were on average 46 years of age, had 7 years of education, had a duration of schizophrenia of 18 years with minimal to mild symptoms and nearly one-fifth loss of functioning, and were mostly living with family (95%) and had low incomes. Both the intervention and the control groups received a nationwide community-based mental health program that provided free antipsychotic medications. The patient participants in the intervention group also received LEAN (Lay health supporters, E-platform, Award, and iNtegration), a program that featured recruitment of a lay health supporter and text messages for medication reminders, health education, monitoring of early signs of relapses, and facilitated linkage to primary healthcare. The primary outcome was medication adherence (proportion of dosages taken) assessed by 2 unannounced home-based pill counts 30 days apart at the 6-month endpoint. The secondary and other outcomes included patient symptoms, functioning, relapses, re-hospitalizations, death for any reason, wandering away without notifying anyone, violence against others, damaging goods, and suicide. Intent-to-treat analysis was used. Missing data were handled with multiple imputations. In total, 271 out of 278 patient participants were successfully followed up for outcome assessment. Medication adherence was 0.48 in the control group and 0.61 in the intervention group (adjusted mean difference [AMD] 0.12 [95% CI 0.03 to 0.22]; p = 0.013; effect size 0.38). Among secondary and other outcomes we noted substantial reduction in the risk of relapse (26 [21.7%] of 120 interventional participants versus 40 [34.2%] of 117 controls; relative risk 0.63 [95% CI 0.42 to 0.97]; number needed to treat [NNT] 8.0) and re-hospitalization (9 [7.3%] of 123 interventional participants versus 25 [20.5%] of 122 controls; relative risk 0.36 [95% CI 0.17 to 0.73]; NNT 7.6). The program showed no statistical difference in all other outcomes. During the course of the program, 2 participants in the intervention group and 1 in the control group died. The limitations of the study include its lack of a full economic analysis, lack of individual tailoring of the text messages, the relatively short 6-month follow-up, and the generalizability constraint of the Chinese context.
+   Conclusions The addition of texting to patients and their lay health supporters in a resource-poor community setting was more effective than a free-medicine program alone in improving medication adherence and reducing relapses and re-hospitalizations. Future studies may test the effectiveness of customization of the texting to individual patients.
+RI Xu, Dong/Z-1502-2019
+OI Xu, Dong/0000-0001-7438-632X; gong, wenjie/0000-0002-7943-4041
+SN 1549-1277
+EI 1549-1676
+PD APR
+PY 2019
+VL 16
+IS 4
+AR e1002785
+DI 10.1371/journal.pmed.1002785
+UT WOS:000466741500011
+PM 31013275
+ER
+
+PT J
+AU Parnell, A
+   Box, E
+   Bonevski, B
+   Slevin, T
+   Anwar-McHenry, J
+   Chapman, L
+   Pettigrew, S
+AF Parnell, Ashleigh
+   Box, Emily
+   Bonevski, Billie
+   Slevin, Terry
+   Anwar-McHenry, Julia
+   Chapman, Lorena
+   Pettigrew, Simone
+TI Potential sources of cessation support for high smoking prevalence
+   groups: a qualitative study
+SO AUSTRALIAN AND NEW ZEALAND JOURNAL OF PUBLIC HEALTH
+AB Objective This study aimed to: i) explore potential sources of cessation support as nominated by disadvantaged smokers; and ii) identify factors influencing decisions to use these sources. Methods Semi-structured interviews were conducted with 84 smokers accessing community service organisations from the alcohol and other drugs, homeless, and mental health sectors. Transcripts were coded and thematically analysed. Results Doctors emerged as the most commonly recognised source of cessation support, followed by Quitline, community service organisation staff; and online resources. The main factors contributing to the possible use of these sources of support were identified as awareness, perceived usefulness and anticipated emotional support. Conclusions The results suggest that doctors are an important group to consider when developing cessation interventions for disadvantaged smokers due to their recognised ability to provide practical and emotional support. However, efforts are needed to ensure doctors are aware of the benefits of cessation for these groups. Community service organisations appear to be another potentially effective source of cessation support for disadvantaged smokers. Implications for public health The results indicate that cessation interventions among high-priority groups should endeavour to provide personalised emotional and practical support. Doctors and community service organisation staff appear to be well-placed to deliver this support.
+RI McHenry, Julia Anwar/W-1318-2019
+SN 1326-0200
+EI 1753-6405
+PD APR
+PY 2019
+VL 43
+IS 2
+BP 108
+EP 113
+DI 10.1111/1753-6405.12869
+UT WOS:000464599200003
+PM 30673149
+ER
+
+PT J
+AU Wride, J
+   Bannigan, K
+AF Wride, James
+   Bannigan, Katrina
+TI Investigating the prevalence of anxiety and depression in people living
+   with patellofemoral pain in the UK: the Dep-Pf Study
+SO SCANDINAVIAN JOURNAL OF PAIN
+AB Background and aims: Patellofemoral pain (PFP) is a common knee condition causing pain around or behind the kneecap which is exacerbated by certain activities. Traditionally it has been viewed as a self-limiting condition. Recent research proves this is not the case and the evidence for poor long-term outcomes is growing. Whilst the evidence base for PFP treatment and the understanding of its aetiology is improving, it remains a complex and difficult to treat condition. In many physical conditions, it has been shown that anxiety and depression negatively affect both their management and duration. It is unclear how prevalent anxiety and depression are in PFP. This study aimed to identify the prevalence of anxiety and depression in people living with PFP in the UK.
+   Methods: In order to investigate this, a cross-sectional online survey was undertaken. Four hundred participants with self-reported symptoms of PFP were recruited through a tailored social media campaign, using modified snowball sampling. Eligibility criteria were (i) aged between 18 and 44, (ii) self-reported symptoms of PFP (using accepted criteria) (iii) resident in the UK. Exclusion criteria were previous history of patella dislocation or previous surgery to affected knee. The survey recorded demographic information, previous treatment for both PFP and anxiety and depression, the Hospital Anxiety and Depression Scale and the Anterior Knee Pain Scale. Ethical approval was gained from a University of Plymouth Ethics Committee.
+   Results: Half (49.5%; n = 198) of respondents were classified as experiencing anxiety and 20.8% (n = 83) as experiencing depression. The levels of anxiety and depression identified in this study are higher than those found in the general population (5.9-7.8% and 3.3-7.8%, respectively). This mirrors results which have been reported in other studies into PFP in different settings and with other musculoskeletal conditions, such as osteoarthritis and contracted shoulder.
+   Conclusions: Anxiety and depression are more common in people living with PFP than in the general population. These findings support the need for greater research into the effects of psychological factors, such as anxiety and depression, in PFP. A key area of future research will be to determine whether these psychological factors affect treatment outcomes in people living with PFP.
+SN 1877-8860
+EI 1877-8879
+PD APR
+PY 2019
+VL 19
+IS 2
+BP 375
+EP 382
+DI 10.1515/sjpain-2018-0347
+UT WOS:000463370000017
+PM 30796852
+ER
+
+PT J
+AU Meyer, B
+   Weiss, M
+   Holtkamp, M
+   Arnold, S
+   Bruckner, K
+   Schroder, J
+   Scheibe, F
+   Nestoriuc, Y
+AF Meyer, Bjoern
+   Weiss, Mario
+   Holtkamp, Martin
+   Arnold, Stephan
+   Brueckner, Katja
+   Schroeder, Johanna
+   Scheibe, Franziska
+   Nestoriuc, Yvonne
+TI Effects of an epilepsy-specific Internet intervention (Emyna) on
+   depression: Results of the ENCODE randomized controlled trial
+SO EPILEPSIA
+AB Objective Depression and anxiety are highly prevalent among people with epilepsy (PwE) but often remain unrecognized and treated inadequately. Effective psychosocial treatments such as cognitive behavioral therapy (CBT) are rarely available to most PwE, which is one reason electronically delivered CBT (eCBT) is regarded as promising. This study examined an eCBT intervention, termed Emyna, that was tailored to suit the needs of PwE. It includes CBT-related content on depression, stress and anxiety, seizure triggers and auras, and lifestyle habits. The trial examined the efficacy of Emyna in reducing symptoms of depression (primary outcome) and anxiety as well as improving quality of life. Methods Participants (N = 200) with epilepsy, a diagnosis of a depressive disorder, and at least moderate depressive symptoms were randomized to Emyna or care as usual. At baseline and after 3, 6, and 9 months, participants were invited to complete online questionnaires. The primary outcome was improvement of depressive symptoms at 3 months. Results Relative to the control group, intervention group participants experienced significantly greater improvements in depression, anxiety, stress, social-occupational impairment, and epilepsy-related quality of life, in both intention-to-treat (ITT) and per-protocol analyses. In ITT analyses, effects of medium magnitude were observed, as measured by the Patient Health Questionnaire-9 items (Cohen d = 0.54, 95% confidence interval [CI] = 0.25-0.82, P < 0.001) and the Neurological Disorders Depression Inventory for Epilepsy (d = 0.51, 95% CI = 0.23-0.79, P < 0.01). At 3 months, intervention group participants also reported fewer illness-related days off work and fewer days hospitalized over the preceding months, compared to control group participants (P <= 0.05), whereas no such differences were present at baseline (P > 0.30). Significance These findings showed that Emyna, used adjunctively to usual care, could help improve mental health, social-occupational functioning, and quality of life among PwE. The program provides an additional treatment option that could produce clinically relevant symptom reductions and reduce key cost drivers (ie, hospitalization rates and illness-related inability to work).
+RI Meyer, Bjorn/C-8787-2012
+OI Meyer, Bjorn/0000-0003-1100-0260
+SN 0013-9580
+EI 1528-1167
+PD APR
+PY 2019
+VL 60
+IS 4
+BP 656
+EP 668
+DI 10.1111/epi.14673
+UT WOS:000463267500009
+PM 30802941
+ER
+
+PT J
+AU Lindau, ST
+   Makelarski, JA
+   Abramsohn, EM
+   Beiser, DG
+   Boyd, K
+   Chou, CH
+   Giurcanu, M
+   Huang, ES
+   Liao, CH
+   Schumm, LP
+   Tung, EL
+AF Lindau, Stacy Tessler
+   Makelarski, Jennifer A.
+   Abramsohn, Emily M.
+   Beiser, David G.
+   Boyd, Kelly
+   Chou, Chiahung
+   Giurcanu, Mihai
+   Huang, Elbert S.
+   Liao, Chuanhong
+   Schumm, L. Philip
+   Tung, Elizabeth L.
+TI CommunityRx: A Real-World Controlled Clinical Trial of a Scalable,
+   Low-Intensity Community Resource Referral Intervention
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+AB Objectives. To test We effect or CommunityRx, a scalable, low-intensity intervention that matches patients to community resources, on mental health-related quality of life (HRQOL) (primary outcome), physical HRQOL, and confidence in finding resources.
+   Methods. Areal-world trial assigned publicly insured residents of Chicago, Illinois, aged 45 to 74 years to an intervention (n = 209) or control (n=202) group by alternating calendar week, December 2015 to August 2016. Intervention group participants received usual care and an electronic medical record generated, personalized list of community resources. Surveys (baseline, 1-week, 1- and 3-months) measured HRQOL and confidence in finding community resources to manage health.
+   Results. At 3 months, there was no difference between groups in mental (-1.03; 95% confidence interval [CI]=-3.02, 0.96) or physical HRQOL (0.59; 95% CI=-0.98, 2.16). Confidence in Finding resources was higher in the intervention group (odds ratio =2.08; 95% CI = 1.18, 3.63); the effect increased at each successive time point. Among intervention group participants; 65% recalled receiving the intervention; 48% shared community resource information with others.
+   Conclusions. CommunityRx did not increase HRQOL, but its positive effect on confidence in Finding resources For self-care suggests that this low-intensity intervention may have a role in population health promotion.
+   Trial Registration. ClinicalTrials.gov Identifier: NCTOZ435511.
+OI Schumm, Phil/0000-0002-3050-2429
+SN 0090-0036
+EI 1541-0048
+PD APR
+PY 2019
+VL 109
+IS 4
+BP 600
+EP 606
+DI 10.2105/AJPH.2018.304905
+UT WOS:000461042400037
+PM 30789775
+ER
+
+PT J
+AU Gatej, AR
+   Lamers, A
+   van Domburgh, L
+   Crone, M
+   Ogden, T
+   Rijo, D
+   Aronen, E
+   Barroso, R
+   Boomsma, DI
+   Vermeiren, R
+AF Gatej, Alexandra-Raluca
+   Lamers, Audri
+   van Domburgh, Lieke
+   Crone, Matty
+   Ogden, Terje
+   Rijo, Daniel
+   Aronen, Eeva
+   Barroso, Ricardo
+   Boomsma, Dorret I.
+   Vermeiren, Robert
+TI Awareness and perceptions of clinical guidelines for the diagnostics and
+   treatment of severe behavioural problems in children across Europe: A
+   qualitative survey with academic experts
+SO EUROPEAN PSYCHIATRY
+AB Background: Severe behavioural problems (SBPs(1)) in childhood are highly prevalent, impair functioning, and predict negative outcomes later in life. Over the last decade, clinical practice guidelines for SBPs have been developed across Europe to facilitate the translation of scientific evidence into clinical practice. This study outlines the results of an investigation into academic experts' perspectives on the current prevalence, implementation, and utility of clinical guidelines for SBPs in children aged 6-12 across Europe.
+   Methods: An online semi-structured questionnaire was completed by 28 psychiatry and psychology experts from 23 countries.
+   Results: Experts indicated that approximately two thirds of the included European countries use at least an unofficial clinical document such as textbooks, while nearly half possess official guidelines for SBPs. Experts believed that, although useful for practice, guidelines' benefits would be maximised if they included more specific recommendations and were implemented more conscientiously. Similarly, experts suggested that unofficial clinical documents offer a wide range of treatment options to individualise treatment from. However, they stressed the need for more consistent, evidence-based clinical practices, by means of developing national and European clinical guidelines for SBPs.
+   Conclusions: This study offers a preliminary insight into the current successes and challenges perceived by experts around Europe associated with guidelines and documents for SBPs, acting as a stepping stone for future systematic, in-depth investigations of guidelines. Additionally, it establishes experts' consensus for the need to develop official guidelines better tailored to clinical practice, creating a momentum for a transition towards European clinical guidelines for this population. (c) 2019 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+RI ; Rijo, Daniel/V-7419-2017
+OI Vermeiren, Robert/0000-0002-8673-2207; Rijo, Daniel/0000-0002-5368-0770;
+   Ogden, Terje/0000-0002-2353-0798
+SN 0924-9338
+EI 1778-3585
+PD APR
+PY 2019
+VL 57
+BP 1
+EP 9
+DI 10.1016/j.eurpsy.2018.12.009
+UT WOS:000461333900001
+PM 30658274
+ER
+
+PT J
+AU Levin, ME
+   Haeger, J
+   Cruz, RA
+AF Levin, Michael E.
+   Haeger, Jack
+   Cruz, Rick A.
+TI Tailoring Acceptance and Commitment Therapy Skill Coaching in the Moment
+   Through Smartphones: Results from a Randomized Controlled Trial
+SO MINDFULNESS
+AB There is growing evidence for the efficacy of acceptance and commitment therapy (ACT) interventions delivered through smartphones, but research has not yet focused on how to optimize such interventions. One benefit of mobile interventions is the ability to adapt content based on in-the-moment variables. The current randomized controlled trial evaluated whether an ACT app that tailored skill coaching based on in-the-moment ecological momentary assessments (EMAs) would be more efficacious than the same app where skill coaching was random or an EMA-only condition. A sample of 69 adults interested in using a self-help app were randomized to one of three app conditions and used the app for the following 4weeks. Results indicated equivalently high user satisfaction with the tailored versus random apps. Participants used the EMA-only app the most and the tailored app the least, but overall adherence was adequate. Participants in the tailored app improved significantly more on psychological distress and positive mental health relative to the random app and EMA-only conditions. However, no differences were found between the random app and EMA-only conditions on outcomes. Between-group differences over time were also found on psychological inflexibility, but this appeared to be primarily due to a lower rate of improvement in the random app condition relative to both tailored and EMA-only. Overall, these results suggest that tailoring ACT skill coaching based on in-the-moment variables leads to greater efficacy.
+RI Cruz, Rick A./M-1901-2016
+OI Cruz, Rick A./0000-0001-9139-8170
+SN 1868-8527
+EI 1868-8535
+PD APR
+PY 2019
+VL 10
+IS 4
+BP 689
+EP 699
+DI 10.1007/s12671-018-1004-2
+UT WOS:000461393600010
+ER
+
+PT J
+AU Gorlich, D
+   Faldum, A
+AF Goerlich, Dennis
+   Faldum, Andreas
+TI Implementing online interventions in ICare: A biostatistical perspective
+SO INTERNET INTERVENTIONS-THE APPLICATION OF INFORMATION TECHNOLOGY IN
+   MENTAL AND BEHAVIOURAL HEALTH
+AB The implementation of research studies is a highly complex process. All decisions with respect to the study design impact the statistical analyses and interpretation of the results. Within the ICare research project (EU H2020 Grant agreement 634757) seven research trials are conducted to generate evidence on efficacy, effectiveness and the dissemination potential of online interventions targeting eating disorders, common mental health problems and resilience. Within the project a central biometrical unit was established to manage and coordinate data collection, processing and statistical data analysis. This allows for harmonized trial planning, conduct, data management processes and analysis strategies. The purpose of this article is to describe the common concepts underlying all seven ICare trials. This includes development of (adaptive sequential) study designs, handling of missing values, general data management and processing as well as data protection aspects.
+RI Gorlich, Dennis/C-8950-2012; Faldum, Andreas/A-7894-2013
+OI Gorlich, Dennis/0000-0002-2574-9419; 
+EI 2214-7829
+PD APR
+PY 2019
+VL 16
+SI SI
+BP 5
+EP 11
+DI 10.1016/j.invent.2018.12.004
+UT WOS:000460083800002
+PM 30775259
+ER
+
+PT J
+AU Nacke, B
+   Beintner, I
+   Gorlich, D
+   Vollert, B
+   Schmidt-Hantke, J
+   Hutter, K
+   Taylor, CB
+   Jacobi, C
+AF Nacke, Barbara
+   Beintner, Ina
+   Goerlich, Dennis
+   Vollert, Bianka
+   Schmidt-Hantke, Juliane
+   Huetter, Kristian
+   Taylor, C. Barr
+   Jacobi, Corinna
+TI everyBody-Tailored online health promotion and eating disorder
+   prevention for women: Study protocol of a dissemination trial
+SO INTERNET INTERVENTIONS-THE APPLICATION OF INFORMATION TECHNOLOGY IN
+   MENTAL AND BEHAVIOURAL HEALTH
+AB Background: Although there is extensive evidence for the efficacy of online eating disorder (ED) prevention programs in clinical trials, these programs have rarely been adopted beyond the trial phase and offered to a wider audience. As risk factors for eating disorders are partly associated with overweight and overweight in turn is correlated to disordered eating, this study will offer a combined eating disorder prevention program which also promotes a balanced lifestyle to normal weight and overweight individuals alike. The efficacy of the program has been proven in previous trials. The study aims to evaluate the dissemination of a combined eating disorder prevention and health promotion program (everyBody) to women of all age groups and varying levels of ED risk status in the general population.
+   Methods: A dissemination trial will be conducted in German-speaking countries, including 4160 women from the general population. Participants will be screened to exclude participants who are likely to have an ED. Eligible participants will be allocated to one of five program arms based on their BMI and respective ED symptoms. The guided program consists of 4 to 12 weeks of weekly sessions offering CBT-based exercises, psychoeducational material, self-monitoring, and group discussions. Outcomes will be assessed according to the RE-AIM model, including measures of effectiveness, reach, adoption, implementation, and maintenance of the program.
+   Discussion/conclusions: This trial aims to disseminate a combined ED prevention and health promotion program in the general population, offering universal, selective and indicated prevention in one program. To our knowledge, it is the first trial to systematically evaluate dissemination efforts based on the RE-AIM model. This trial will be conducted as part of the EU-funded ICare (Integrating Technology into Mental Health Care Delivery in Europe) project.
+RI Beintner, Ina/P-3646-2018; Gorlich, Dennis/C-8950-2012
+OI Beintner, Ina/0000-0003-1779-9878; Gorlich, Dennis/0000-0002-2574-9419
+EI 2214-7829
+PD APR
+PY 2019
+VL 16
+SI SI
+BP 20
+EP 25
+DI 10.1016/j.invent.2018.02.008
+UT WOS:000460083800004
+PM 30775261
+ER
+
+PT J
+AU Weisel, KK
+   Zarski, AC
+   Berger, T
+   Krieger, T
+   Schaub, MP
+   Moser, CT
+   Berking, M
+   Dey, M
+   Botella, C
+   Banos, R
+   Herrero, R
+   Etchemendy, E
+   Riper, H
+   Cuijpers, P
+   Bolinski, F
+   Kleiboer, A
+   Gorlich, D
+   Beecham, J
+   Jacobi, C
+   Ebert, DD
+AF Weisel, Kiona K.
+   Zarski, Anna-Carlotta
+   Berger, Thomas
+   Krieger, Tobias
+   Schaub, Michael P.
+   Moser, Christian T.
+   Berking, Matthias
+   Dey, Michelle
+   Botella, Cristina
+   Banos, Rosa
+   Herrero, Rocio
+   Etchemendy, Ernestina
+   Riper, Heleen
+   Cuijpers, Pim
+   Bolinski, Felix
+   Kleiboer, Annet
+   Goerlich, Dennis
+   Beecham, Jennifer
+   Jacobi, Corinna
+   Ebert, David D.
+TI Efficacy and cost-effectiveness of guided and unguided internet- and
+   mobile-based indicated transdiagnostic prevention of depression and
+   anxiety (ICare Prevent): A three-armed randomized controlled trial in
+   four European countries
+SO INTERNET INTERVENTIONS-THE APPLICATION OF INFORMATION TECHNOLOGY IN
+   MENTAL AND BEHAVIOURAL HEALTH
+AB Background: Depression and anxiety are highly prevalent and often co-occur. Several studies indicate the potential of disorder-specific psychological interventions for the prevention of each of these disorders. To treat comorbidity, transdiagnostic treatment concepts seem to be a promising approach, however, evidence for transdiagnostic concepts of prevention remains inconclusive. Internet-and mobile-based interventions (IMIs) may be an effective means to deliver psychological interventions on a large scale for the prevention of common mental disorders (CMDs) such as depression and anxiety. IMIs have been shown to be effective in treating CMDs, e.g. in reducing symptoms of depression and anxiety. However, there is a lack of studies examining the efficacy of interventions reducing the incidence of CMDs. Moreover, the comparative cost-effectiveness of guided versus unguided IMIs for the prevention of depression and anxiety has not been studied yet. Hence, this study aims at investigating the (cost-) effectiveness of guided and unguided internet-and mobile-based transdiagnostic individually tailored indicated prevention of depression and anxiety.
+   Methods: A multi-country three-armed randomized controlled trial will be conducted to compare a guided and unguided intervention to treatment as usual (TAU). Both active conditions are based on the same intervention, ICare Prevent, and differ only with regard to guidance format. Altogether, 954 individuals with subclinical symptoms of depression (CES-D >= 16) and anxiety (GAD-7 >= 5) who do not have a full-blown disorder will be recruited in Germany, Switzerland, Spain and the Netherlands, and randomized to one of three conditions (guided intervention, unguided intervention, or TAU). The TAU arm will receive access to the training after a 12-month waiting period. The primary outcome will be time to CMD onset (any depression/anxiety disorder) within a follow-up period of 12 months after baseline. Secondary outcomes will include disorder-specific symptom severity (depression/anxiety) assessed by diagnostic raters blinded to intervention condition at post-intervention, self-reports, acceptability, health related quality of life, and psychosocial variables associated with developing a CMD. Assessments will take place at baseline, mid-intervention (5 weeks into the intervention), post- intervention (8 weeks after randomization) and follow-up (6 and 12 months after randomization). Data will be analyzed on an intention-to-treat basis and per protocol. Cost-effectiveness will be evaluated from a public health and a societal perspective, including both direct and indirect costs.
+   Discussion: The present study will further enhance the evidence-base for transdiagnostic preventive interventions and provide valuable information about optimal trade-off between treatment outcome and costs. Trial registration: German Clinical Trial Registration (DRKS - http://www.drks.de/drks_web/): DRKS00011099.
+RI Gorlich, Dennis/C-8950-2012; /E-7836-2010; Krieger, Tobias/L-3002-2016;
+   Botella, Cristina/F-9230-2010; RIVERA, ROSA MARIA BANOS/C-6077-2011;
+   Herrero, Rocio PhD/M-2363-2014
+OI Gorlich, Dennis/0000-0002-2574-9419; /0000-0001-5147-3383; Krieger,
+   Tobias/0000-0001-5137-0755; Botella, Cristina/0000-0001-8783-6959;
+   RIVERA, ROSA MARIA BANOS/0000-0003-0626-7665; Herrero, Rocio
+   PhD/0000-0001-6987-6607; Ebert, David Daniel/0000-0001-6820-0146; Dey,
+   Michelle/0000-0002-4300-1877
+EI 2214-7829
+PD APR
+PY 2019
+VL 16
+SI SI
+BP 52
+EP 64
+DI 10.1016/j.invent.2018.04.002
+UT WOS:000460083800008
+PM 30775265
+ER
+
+PT J
+AU Buitenweg, DC
+   Bongers, IL
+   van de Mheen, D
+   van Oers, HAM
+   van Nieuwenhuizen, C
+AF Buitenweg, David C.
+   Bongers, Ilja L.
+   van de Mheen, Dike
+   van Oers, Hans A. M.
+   van Nieuwenhuizen, Chijs
+TI Cocreative Development of the QoL-ME: A Visual and Personalized Quality
+   of Life Assessment App for People With Severe Mental Health Problems
+SO JMIR MENTAL HEALTH
+AB Background: Quality of life (QoL) is a prominent outcome measure in mental health. However, conventional methods for QoL assessment rely heavily on language-based communication and therefore may not be optimal for all individuals with severe mental health problems. In addition, QoL assessment is usually based on a fixed number of life domains This approach conflicts with the notion that QoL is influenced by individual values and preferences. A digital assessment app facilitates both the accessibility and personalization of QoL assessment and may, therefore, help to further advance QoL assessment among individuals with severe mental health problems.
+   Objective: This study focused on the development of an innovative, visual, and personalized QoL assessment app for people with severe mental health problems: the QoL-ME.
+   Methods: A group of 59 participants contributed to the 6 iterations of the cocreative development of the QoL-ME. In the brainstorming stage, consisting of the first iteration, participants' previous experiences with questionnaires and mobile apps were explored. Participants gave their feedback on initial designs and wireframes in the second to fourth iterations that made up the design stage. In the usability stage that comprised the final 2 iterations, the usability of the QoL-ME was evaluated.
+   Results: In the brainstorming stage, participants stressed the importance of privacy and data security and of receiving feedback when answering questionnaires Participants in the design stage indicated a preference for paging over scrolling, linear navigation, a clean and minimalist layout, the use of touchscreen functionality in various modes of interaction, and the use of visual analog scales. The usability evaluation in the usability stage revealed good to excellent usability.
+   Conclusions: The cocreative development of the QoL-ME resulted in an app that corresponds to the preferences of participants and has strong usability. Further research is needed to evaluate the psychometric quality of the QoL-ME and to investigate its usefulness in practice.
+OI van Oers, Hans/0000-0003-4063-2240; Buitenweg,
+   David/0000-0002-8593-1722; Bongers, Ilja/0000-0002-8961-5663
+SN 2368-7959
+PD MAR 28
+PY 2019
+VL 6
+IS 3
+AR UNSP e12378
+DI 10.2196/12378
+UT WOS:000464220700001
+PM 30920381
+ER
+
+PT J
+AU Tielman, ML
+   Neerincx, MA
+   Pagliari, C
+   Rizzo, A
+   Brinkman, WP
+AF Tielman, Myrthe L.
+   Neerincx, Mark A.
+   Pagliari, Claudia
+   Rizzo, Albert
+   Brinkman, Willem-Paul
+TI Considering patient safety in autonomous e-mental health systems -
+   detecting risk situations and referring patients back to human care
+SO BMC MEDICAL INFORMATICS AND DECISION MAKING
+AB Background: Digital health interventions can fill gaps in mental healthcare provision. However, autonomous e-mental health (AEMH) systems also present challenges for effective risk management. To balance autonomy and safety, AEMH systems need to detect risk situations and act on these appropriately. One option is sending automatic alerts to carers, but such 'auto-referral' could lead to missed cases or false alerts. Requiring users to actively self-refer offers an alternative, but this can also be risky as it relies on their motivation to do so. This study set out with two objectives. Firstly, to develop guidelines for risk detection and auto-referral systems. Secondly, to understand how persuasive techniques, mediated by a virtual agent, can facilitate self-referral.
+   Methods: In a formative phase, interviews with experts, alongside a literature review, were used to develop a risk detection protocol. Two referral protocols were developed - one involving auto-referral, the other motivating users to self-refer. This latter was tested via crowd-sourcing (n = 160). Participants were asked to imagine they had sleeping problems with differing severity and user stance on seeking help. They then chatted with a virtual agent, who either directly facilitated referral, tried to persuade the user, or accepted that they did not want help. After the conversation, participants rated their intention to self-refer, to chat with the agent again, and their feeling of being heard by the agent.
+   Results: Whether the virtual agent facilitated, persuaded or accepted, influenced all of these measures. Users who were initially negative or doubtful about self-referral could be persuaded. For users who were initially positive about seeking human care, this persuasion did not affect their intentions, indicating that a simply facilitating referral without persuasion was sufficient.
+   Conclusion: This paper presents a protocol that elucidates the steps and decisions involved in risk detection, something that is relevant for all types of AEMH systems. In the case of self-referral, our study shows that a virtual agent can increase users' intention to self-refer. Moreover, the strategy of the agent influenced the intentions of the user afterwards. This highlights the importance of a personalised approach to promote the user's access to appropriate care.
+RI Neerincx, Mark/J-9086-2012
+SN 1472-6947
+PD MAR 18
+PY 2019
+VL 19
+AR 47
+DI 10.1186/s12911-019-0796-x
+UT WOS:000461902600003
+PM 30885190
+ER
+
+PT J
+AU Knight, RE
+   Chabot, C
+   Carson, A
+   Thomson, K
+   Haag, D
+   Gilbert, M
+   Shoveller, J
+AF Knight, Rod Eric
+   Chabot, Cathy
+   Carson, Anna
+   Thomson, Kimberly
+   Haag, Devon
+   Gilbert, Mark
+   Shoveller, Jean
+TI Qualitative analysis of the experiences of gay, bisexual and other men
+   who have sex with men who use GetCheckedOnline.com: a comprehensive
+   internet-based diagnostic service for HIV and other STIs
+SO SEXUALLY TRANSMITTED INFECTIONS
+AB Objectives T o describe the factors that influence gay, bisexual and other men who have sex with men's (gbMSM) experiences with GetCheckedOnline. com (GCO) in British Columbia (BC), Canada. GCO clients complete an internet-based risk assessment and print a laboratory test requisition form for HIV and other STIs to take to a private laboratory for diagnostic services. Methods Drawing on a purposive stratified sampling framework, we conducted 37 in-depth semistructured interviews with gbMSM who had used GCO at least once between 2015 and 2017. Results Participants expressed a preference for GCO (instead of clinic-based testing) because of convenience, privacy and control over specimen collection (specifically with doing one's own throat or anal swab). Participants preferred receiving their results online via GCO compared with phone or email follow-up by clinic staff. GCO was viewed positively because it offers gbMSM living outside of urban city centres easy access to diagnostic services, including access to pooled nucleic acid amplification testing. Many participants also continued to positively view the clinic-based services available for gbMSM in their community. These services were frequently described as highly competent, tailored and comprehensive in responding to more complex needs. For example, attending a clinic was viewed as preferential to GCO in instances where there was a desire to access services addressing co-occurring health issues (eg, mental health; substance use disorders). Almost all of the participants anticipated using both GCO and clinic-based services in the future. Conclusions gbMSM report positive experiences and perceptions of GCO; however, they do not view GCO as a panacea. The results of this study point to the need to ensure that a wide range of integrated service options (eg, online; clinic-based) are available to address the range of sexual health needs of gbMSM living in BC's diverse settings.
+SN 1368-4973
+EI 1472-3263
+PD MAR
+PY 2019
+VL 95
+IS 2
+BP 145
+EP 150
+DI 10.1136/sextrans-2018-053645
+UT WOS:000471868700015
+PM 30636705
+ER
+
+PT J
+AU Marfeo, EE
+   McDonough, C
+   Ni, PS
+   Peterik, K
+   Porcino, J
+   Meterko, M
+   Rasch, E
+   Kazis, L
+   Chan, L
+AF Marfeo, Elizabeth E.
+   McDonough, Christine
+   Ni, Pengsheng
+   Peterik, Kara
+   Porcino, Julia
+   Meterko, Mark
+   Rasch, Elizabeth
+   Kazis, Lewis
+   Chan, Leighton
+TI Measuring Work Related Physical and Mental Health Function Updating the
+   Work Disability Functional Assessment Battery (WD-FAB) Using Item
+   Response Theory
+SO JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL MEDICINE
+AB Objective: To further improve measurement of work-related physical and mental health by updating the Work Disability Assessment Battery (WD-FAB). Methods: Cross-sectional study with 1024 disability claimants and 1000 working age (21 to 66 years) adults in the United States. Developed new items to replenish the WD-FAB and analyzed using factor analysis and item response theory (IRT). Computer adaptive testing (CAT) simulations evaluated the psychometric properties of the original versus updated WD-FAB. Results: Analyses confirmed the structure of the WD-FAB. Twenty-three new items were added (basic mobility: 7, upper body function: 4, fine motor: 6, self-regulation: 1, resilience & sociability: 5 items). Conclusions: Findings support the WD-FAB as a robust, psychometrically sound assessment of work-related function. Extensive content coverage (331 items) represents eight physical and mental health domains. IRT/CAT methods allow administration in under 15 minutes. The WD-FAB may prove valuable for efficiently characterizing work-related function across work rehabilitation settings.
+SN 1076-2752
+EI 1536-5948
+PD MAR
+PY 2019
+VL 61
+IS 3
+BP 219
+EP 224
+DI 10.1097/JOM.0000000000001521
+UT WOS:000462766400012
+PM 30540653
+ER
+
+PT J
+AU Wilson, SM
+   Thompson, AC
+   Currence, ED
+   Thomas, SP
+   Dedert, EA
+   Kirby, AC
+   Elbogen, EB
+   Moore, SD
+   Calhoun, PS
+   Beckham, JC
+AF Wilson, Sarah M.
+   Thompson, Alexandra C.
+   Currence, Emily D.
+   Thomas, Shaun P.
+   Dedert, Eric A.
+   Kirby, Angela C.
+   Elbogen, Eric B.
+   Moore, Scott D.
+   Calhoun, Patrick S.
+   Beckham, Jean C.
+TI Patient-Informed Treatment Development of Behavioral Smoking Cessation
+   for People With Schizophrenia
+SO BEHAVIOR THERAPY
+AB The objective of this study was to use qualitative methodology to tailor and refine an existing smoking cessation intervention for the population of people who use cigarettes and are diagnosed with schizophrenia, schizoaffective, or psychotic disorder. Successive cohort design methodology was used to iteratively modify the treatment in response to qualitative participant, therapist, and consultant feedback on the intervention. Qualitative methodology for participant feedback included analysis of semistructured interviews with participants, visualization of app utilization data, and stakeholder feedback from study therapists and consultants. Using the successive cohort design, a tailored multicomponent mobile health smoking cessation intervention was developed. The intervention included mobile contingency management (i.e., financial compensation for confirmed abstinence from smoking), pharmacotherapy for smoking cessation, cognitive-behavioral counseling sessions, and the Stay Quit app for relapse prevention. Two cohorts (N = 13) were completed in the study; after each cohort, the treatment protocol was revised. The intervention is described, as well as the qualitative findings from each cohort and subsequent changes made to the intervention based upon patient and provider feedback. Metrics of patient engagement included treatment adherence (40% in Cohort 1 and 63% in Cohort 2). Both participants and therapists reported that the intervention was helpful. Over one third of participants self-reported abstinence at post-treatment. Since qualitative methodology is often underutilized in mental health treatment development, this study demonstrates the utility of the successive cohort design for treatment development of behavior change interventions for at-risk, vulnerable populations.
+SN 0005-7894
+EI 1878-1888
+PD MAR
+PY 2019
+VL 50
+IS 2
+BP 395
+EP 409
+DI 10.1016/j.beth.2018.07.004
+UT WOS:000462262900011
+PM 30824254
+ER
+
+PT J
+AU Joyce, S
+   Shand, F
+   Lal, TJ
+   Mott, B
+   Bryant, RA
+   Harvey, SB
+AF Joyce, Sadhbh
+   Shand, Fiona
+   Lal, Tara J.
+   Mott, Brendan
+   Bryant, Richard A.
+   Harvey, Samuel B.
+TI Resilience@Work Mindfulness Program: Results From a Cluster Randomized
+   Controlled Trial With First Responders
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+AB Background: A growing body of research suggests that resilience training can play a pivotal role in creating mentally healthy workplaces, particularly with regard to protecting the long-term well-being of workers. Emerging research describes positive outcomes from various types of resilience training programs (RTPs) among different occupational groups. One specific group of workers that may benefit from this form of proactive resilience training is first responders. Given the nature of their work, first responders are frequently exposed to stressful circumstances and potentially traumatic events, which may impact their overall resilience and well-being over time.
+   Objective: This study aimed to examine whether a mindfulness-based RTP (the Resilience@Work [RAW] Mindfulness Program) delivered via the internet can effectively enhance resilience among a group of high-risk workers. Methods: We conducted a cluster randomized controlled trial (RCT) comprising 24 Primary Fire and Rescue and Hazmat stations within New South Wales. Overall, 12 stations were assigned to the 6-session RAW Mindfulness Program and 12 stations were assigned to the control condition. A total of 143 active full-time firefighters enrolled in the study. Questionnaires were administered at baseline, immediately post training, and at 6-month follow-up. Measurements examined change in both adaptive and bounce-back resilience as well as several secondary outcomes examining resilience resources and acceptance and mindfulness skills.
+   Results: Mixed-model repeated measures analysis found that the overall test of group-by-time interaction was significant (P=.008), with the intervention group increasing in adaptive resilience over time. However, no significant differences were found between the intervention group and the control group in terms of change in bounce-back resilience (P=.09). At 6-month follow-up, the group receiving the RAW intervention had an average increase in their resilience score of 1.3, equating to a moderate-to-large effect size compared with the control group of 0.73 (95% CI 0.38-1.06). Per-protocol analysis found that compared with the control group, the greatest improvements in adaptive resilience were observed among those who completed most of the RAW program, that is, 5 to 6 sessions (P=.002).
+   Conclusions: The results of this RCT suggest that mindfulness-based resilience training delivered in an internet format can create improvements in adaptive resilience and related resources among high-risk workers, such as first responders. Despite a number of limitations, the results of this study suggest that the RAW Mindfulness Program is an effective, scalable, and practical means of delivering online resilience training in high-risk workplace settings. To the best of our knowledge, this is the first time a mindfulness-based RTP delivered entirely via the internet has been tested in the workplace.
+RI Bryant, Richard/AAA-6479-2019; Shand, Fiona L/O-3223-2019; Joyce,
+   Sadhbh/R-6121-2019
+OI Bryant, Richard/0000-0002-9607-819X; Joyce, Sadhbh/0000-0002-3256-3575;
+   Lal, Tara/0000-0001-6481-5848; Harvey, Samuel/0000-0001-9580-3743
+SN 1438-8871
+PD FEB 19
+PY 2019
+VL 21
+IS 2
+AR e12894
+DI 10.2196/12894
+UT WOS:000459341300001
+PM 30777846
+ER
+
+PT J
+AU Aldrich, SL
+   Poweleit, EA
+   Prows, CA
+   Martin, LJ
+   Strawn, JR
+   Ramsey, LB
+AF Aldrich, Stacey L.
+   Poweleit, Ethan A.
+   Prows, Cynthia A.
+   Martin, Lisa J.
+   Strawn, Jeffrey R.
+   Ramsey, Laura B.
+TI Influence of CYP2C19 Metabolizer Status on Escitalopram/Citalopram
+   Tolerability and Response in Youth With Anxiety and Depressive Disorders
+SO FRONTIERS IN PHARMACOLOGY
+AB In pediatric patients, the selective serotonin reuptake inhibitors (SSRIs) escitalopram and citalopram (es/citalopram) are commonly prescribed for anxiety and depressive disorders. However, pharmacogenetic studies examining CYP2C19 metabolizer status and es/citalopram treatment outcomes have largely focused on adults. We report a retrospective study of electronic medical record data from 263 youth < 19 years of age with anxiety and/or depressive disorders prescribed escitalopram or citalopram who underwent routine clinical CYP2C19 genotyping. Slower CYP2C19 metabolizers experienced more untoward effects than faster metabolizers (p = 0.015), including activation symptoms (p = 0.029) and had more rapid weight gain (p = 0.018). A larger proportion of slower metabolizers discontinued treatment with es/citalopram than normal metabolizers (p = 0.007). Meanwhile, faster metabolizers responded more quickly to es/citalopram (p = 0.005) and trended toward less time spent in subsequent hospitalizations (p = 0.06). These results highlight a disparity in treatment outcomes with es/citalopram treatment in youth with anxiety and/or depressive disorders when standardized dosing strategies were used without consideration of CYP2C19 metabolizer status. Larger, prospective trials are warranted to assess whether tailored dosing of es/citalopram based on CYP2C19 metabolizer status improves treatment outcomes in this patient population.
+SN 1663-9812
+PD FEB 19
+PY 2019
+VL 10
+AR 99
+DI 10.3389/fphar.2019.00099
+UT WOS:000459120800002
+PM 30837874
+ER
+
+PT J
+AU Reupert, A
+   Bartholomew, C
+   Cuff, R
+   Foster, K
+   Matar, J
+   Maybery, DJ
+   Pettenuzzo, L
+AF Reupert, Andrea
+   Bartholomew, Catherine
+   Cuff, Rose
+   Foster, Kim
+   Matar, Jodie
+   Maybery, Darryl J.
+   Pettenuzzo, Laura
+TI An Online Intervention to Promote Mental Health and Wellbeing for Young
+   Adults Whose Parents Have Mental Illness and/or Substance Use Problems:
+   Theoretical Basis and Intervention Description
+SO FRONTIERS IN PSYCHIATRY
+AB The transition to adulthood can be a vulnerable period for certain population groups. In particular, young adults aged 18-25 years who have a parent with mental illness and/or substance use problems face increased risks to their mental health compared to same aged peers. Yet these young adults may not have access to age-appropriate, targeted interventions, nor engage with traditional face-to-face health services. To support this vulnerable group, services need to engage with them in environments where they are likely to seek help, such as the Internet. This paper describes the risk mechanisms for this group of young adults, and the theoretical and empirical basis, aims, features and content of a tailored online group intervention; mi.spot (mental illness: supportive, preventative, online, targeted). The participatory approach employed to design the intervention is described. This involved working collaboratively with stakeholders (i.e., young adults, clinicians, researchers and website developers). Implementation considerations and future research priorities for an online approach targeting this group of young adults conclude the paper.
+OI Foster, Kim/0000-0001-6931-2422
+SN 1664-0640
+PD FEB 15
+PY 2019
+VL 10
+AR 59
+DI 10.3389/fpsyt.2019.00059
+UT WOS:000458786200002
+PM 30828308
+ER
+
+PT J
+AU Lopian, KM
+   Chebolu, E
+   Kulak, JA
+   Kahn, LS
+   Blondell, RD
+AF Lopian, Kailey M.
+   Chebolu, Esha
+   Kulak, Jessica A.
+   Kahn, Linda S.
+   Blondell, Richard D.
+TI A retrospective analysis of treatment and retention outcomes of pregnant
+   and/or parenting women with opioid use disorder
+SO JOURNAL OF SUBSTANCE ABUSE TREATMENT
+AB Aim: To determine factors associated with positive outcomes of buprenorphine maintenance treatment for opioid use disorder among pregnant women and women with children under the age of five years.
+   Methods: This retrospective, de-identified electronic health record review of a cohort of 108 female patients at a suburban primary care outpatient clinic followed patients for one year of treatment at the clinic. Positive outcomes were defined as 1) treatment retention and 2) urine toxicology at 12 months free of all substances other than buprenorphine. This study also evaluated a variety of potential correlates of treatment retention and toxicology, including patient demographics, medical and social history, and clinical factors (i.e., participation in a women's group and assigned treatment provider).
+   Results: Patient retention was 73.2% at 12 months. Compared to those retained in treatment, patients not retained were more likely to have received past treatment for a psychiatric illness (65.4% vs. 38.2%; p < 0.02) or have prior criminal history of a misdemeanor conviction (56.0% vs. 27.9%; p < 0.02). There was a significant association between time in treatment and reduction in opiate use (p < 0.01).
+   Conclusions: In this population, certain baseline characteristics were predictive of failure to be retained in treatment. As such, specific patients may need more intensive treatment. These findings have important public health and child welfare implications and may offer insight for providers to tailor treatment and refer for comprehensive services.
+SN 0740-5472
+PD FEB
+PY 2019
+VL 97
+BP 1
+EP 6
+DI 10.1016/j.jsat.2018.11.002
+UT WOS:000455858000001
+PM 30577894
+ER
+
+PT J
+AU Grieco, JC
+   Romero, B
+   Flood, E
+   Cabo, R
+   Visootsak, J
+AF Grieco, Joseph C.
+   Romero, Beverly
+   Flood, Emuella
+   Cabo, Raquel
+   Visootsak, Jeannie
+TI A Conceptual Model of Angelman Syndrome and Review of Relevant Clinical
+   Outcomes Assessments (COAs)
+SO PATIENT-PATIENT CENTERED OUTCOMES RESEARCH
+AB BackgroundAngelman syndrome (AS) is a rare, neurological genetic disorder for which no clinical outcomes assessments (COAs) or conceptual models (CM) have been developed.ObjectiveThis study aimed to identify symptoms and impacts relevant and important in this patient population and develop a conceptual model of AS, and to evaluate the content validity of selected COA instruments with potential for inclusion in clinical studies of AS to capture treatment benefit.MethodsFor both concept elicitation (CE) and cognitive interviews (CI), caregivers of children, adolescents, and adults with AS and clinicians with AS experience were targeted. For CI, clinicians discussed the Modified Performance-Oriented Mobility Assessment (MPOMA-G) and ProtoKinetics Zeno Walkway and caregivers reviewed the Pediatric Evaluation of Disability Inventory Computer Adaptive Test (PEDI-CAT), the Anxiety, Depression and Mood Scale (ADAMS), the Aberrant Behavior Checklist-Community (ABC-C), and the Morning Diary.ResultsFour clinicians and 34 caregivers participated in CE interviews; three clinicians and 36 caregivers participated in CI. A conceptual model, initially informed by literature, was refined based on interview data. Five domains of symptoms, signs, and characteristics of AS were identified: cognitive and executive functioning, social-emotional, emotional-expressive behavior, sensory-compulsive behavior, and physical. Patient impacts were identified in three domains: activities of daily living, school, and social/community. Caregiver impacts were identified in five domains: mental health, physical health, work, home, and social. While all instruments demonstrated the ability to provide relevant data for the AS population, each instrument either contained some items irrelevant to individuals with AS or was missing important concepts based on the interviews. No single instrument covered all relevant domains specific to AS.ConclusionFuture work should consider the adaptation of existing COAs and the development of a novel AS-specific instrument for use in clinical research to ensure outcomes important to this patient population are captured.
+SN 1178-1653
+EI 1178-1661
+PD FEB
+PY 2019
+VL 12
+IS 1
+BP 97
+EP 112
+DI 10.1007/s40271-018-0323-7
+UT WOS:000455953700006
+PM 29987743
+ER
+
+PT J
+AU Kohan, EM
+   Hill, JR
+   Schwabe, M
+   Aleem, AW
+   Keener, JD
+   Chamberlain, AM
+AF Kohan, Eitan M.
+   Hill, J. Ryan
+   Schwabe, Maria
+   Aleem, Alexander W.
+   Keener, Jay D.
+   Chamberlain, Aaron M.
+TI The influence of mental health on Patient-Reported Outcomes Measurement
+   Information System (PROMIS) and traditional outcome instruments in
+   patients with symptomatic glenohumeral arthritis
+SO JOURNAL OF SHOULDER AND ELBOW SURGERY
+AB Background: The Patient-Reported Outcomes Measurement Information System (PROMIS) assessment includes computerized adaptive tests (CATs) that assess function, pain, depression, and anxiety. The influence of mental health on patients' self-reported pain and function has not been explored using PROMIS in patients with symptomatic glenohumeral osteoarthritis.
+   Methods: This cross-sectional study included 284 shoulders in 276 patients presenting with isolated glenohumeral osteoarthritis. All patients completed the American Shoulder and Elbow Surgeons (ASES) score, Simple Shoulder Test (SST), Visual Analog Pain Scale (VAS), and PROMIS CATs at the time of presentation. PROMIS anxiety and depression scores were converted into Generalized Anxiety Disorder-7 and Patient Health Questionnaire-9 scores, respectively, using the PROsetta Stone "crosswalk" tool. Mean pain and functional scores were compared between patients with and without PROMIS-converted scores corresponding to a diagnosis of anxiety or depression, as well as between scores corresponding to varying degrees of anxiety or depression.
+   Results: Patients with scores corresponding to a diagnosis of anxiety or depression reported lower functional and higher pain scores compared to those with scores in the normal range (P < .001). Analysis of variance showed progressively lower functional and higher pain scores as anxiety severity increased (P < .001). Similar results were seen with ASES, upper extremity CAT, and pain scores as depression severity increased (P < .001). Functional ASES (P = .004), SST (P < .001), and physical function CAT (P = .002) scores were statistically significantly lower in patients with moderate to severe depression than those without depression or with mild depression.
+   Discussion: In patients with glenohumeral osteoarthritis, PROMIS-reported anxiety and depression scores, particularly in those with moderate-to-severe scores, correlate with lower functional and higher pain scores. Further investigation is necessary to examine the influence that mental health has on outcomes after operative intervention in this population. (C) 2018 Journal of Shoulder and Elbow Surgery Board of Trustees. All rights reserved.
+OI Schwabe, Maria/0000-0002-2371-903X
+SN 1058-2746
+PD FEB
+PY 2019
+VL 28
+IS 2
+BP E40
+EP E48
+DI 10.1016/j.jse.2018.07.033
+UT WOS:000455671700002
+PM 30552069
+ER
+
+PT J
+AU Kaess, M
+   Ritter, S
+   Lustig, S
+   Bauer, S
+   Becker, K
+   Eschenbeck, H
+   Moessner, M
+   Rummel-Kluge, C
+   Salize, HJ
+   Thomasius, R
+   Resch, F
+   Koenig, J
+   Bertsch, K
+   Bilic, S
+   Brunner, R
+   Feldhege, J
+   Gallinat, C
+   Herpertz, SC
+   Koenig, J
+   Lustig, S
+   Moessner, M
+   Ozer, F
+   Parzer, P
+   Spinner, J
+   Diestelkamp, S
+   Wille, K
+   Baldofski, S
+   Kohls, E
+   Peter, LJ
+   Gille, V
+   Hofmann, H
+   Lehner, L
+   Voss, E
+   Pfeiffer, J
+   Samel, A
+AF Kaess, Michael
+   Ritter, Sabrina
+   Lustig, Sophia
+   Bauer, Stephanie
+   Becker, Katja
+   Eschenbeck, Heike
+   Moessner, Markus
+   Rummel-Kluge, Christine
+   Salize, Hans-Joachim
+   Thomasius, Rainer
+   Resch, Franz
+   Koenig, Julian
+   Bertsch, Katja
+   Bilic, Sally
+   Brunner, Romuald
+   Feldhege, Johannes
+   Gallinat, Christina
+   Herpertz, Sabine C.
+   Koenig, Julian
+   Lustig, Sophia
+   Moessner, Markus
+   Ozer, Fikret
+   Parzer, Peter
+   Spinner, Jens
+   Diestelkamp, Silke
+   Wille, Kristina
+   Baldofski, Sabrina
+   Kohls, Elisabeth
+   Peter, Lina-Jolien
+   Gille, Vera
+   Hofmann, Hanna
+   Lehner, Laya
+   Voss, Elke
+   Pfeiffer, Jens
+   Samel, Alisa
+CA ProHEAD Consortium
+TI Promoting Help-seeking using E-technology for ADolescents with mental
+   health problems: study protocol for a randomized controlled trial within
+   the ProHEAD Consortium
+SO TRIALS
+AB BackgroundThe highest incidence and prevalence of mental health problems across the lifespan as well as the first onset of most long-term mental health conditions are reported for youths between 14 and 25years of age. At the same time, only 25% of adolescents with mental health problems receive professional treatment. One explanation for poor treatment access in youths is their low help-seeking behavior. Barriers that can keep children and adolescents (C&A) from seeking professional help include a lack of perceived need, structural barriers, or stigma. Interventions based on e-technology might present an effective approach, overcoming these barriers by reducing stigma and providing low-threshold access with enhanced reach, ultimately facilitating help-seeking for mental health problems among youths.MethodsThe study is designed as a multi-center, randomized controlled trial. In total, an estimated number of n =1,500 C&A with mental health problems, drawn from a school-based sample of n =15,000 pupils attending school grades 6 to 13 (12years of age), recruited in five regions of Germany, will be randomized either to an intervention (ProHEAD online) or a control condition. C&A in the intervention group will receive online access to tailored information and individual advice on where to seek professional help for their specific needs close to their place of living, case reports of and interaction with peers, as well as the opportunity for online and telephone counseling. C&A in the control intervention will receive a recommendation to seek help and online information on where to find professional help. All participants will be asked to complete questionnaires concerning their help-seeking behavior at baseline, during the intervention (monitoring), and also at a 1 and 2 year follow-up. The primary endpoint is the number of C&A seeking conventional face-to-face professional help in the real-world setting within 1 year after their initial screening.DiscussionThe trial will investigate if an Internet-based intervention can increase professional help-seeking in C&A with mental health problems. With its randomized controlled design and large-scale school-based sampling, the study aims to overcome the shortages of previous research. The intervention has the potential to narrow the treatment gap in C&A and to ultimately improve the mental health care system.Trial registrationGerman Clinical Trials Register, DRKS00014685. Registered on7 July, 2018.
+SN 1745-6215
+PD JAN 31
+PY 2019
+VL 20
+AR 94
+DI 10.1186/s13063-018-3157-7
+UT WOS:000457453200003
+PM 30704534
+ER
+
+PT J
+AU Bauer, S
+   Bilic, S
+   Reetz, C
+   Ozer, F
+   Becker, K
+   Eschenbeck, H
+   Kaess, M
+   Rummel-Kluge, C
+   Salize, HJ
+   Diestelkamp, S
+   Moessner, M
+   Kaess, M
+   Bauer, S
+   Thomasius, R
+   Rummel-Kluge, C
+   Eschenbeck, H
+   Salize, HJ
+   Becker, K
+   Bertsch, K
+   Bilic, S
+   Brunner, R
+   Feldhege, J
+   Gallinat, C
+   Herpertz, SC
+   Koenig, J
+   Lustig, S
+   Moessner, M
+   Ozer, F
+   Parzer, P
+   Resch, F
+   Ritter, S
+   Spinner, J
+   Diestelkamp, S
+   Wille, K
+   Baldofski, S
+   Kohls, E
+   Peter, LJ
+   Gille, V
+   Hofmann, H
+   Lehner, L
+   Voss, E
+   Pfeiffer, J
+   Samel, A
+AF Bauer, Stephanie
+   Bilic, Sally
+   Reetz, Christina
+   Ozer, Fikret
+   Becker, Katja
+   Eschenbeck, Heike
+   Kaess, Michael
+   Rummel-Kluge, Christine
+   Salize, Hans-Joachim
+   Diestelkamp, Silke
+   Moessner, Markus
+   Kaess, Michael
+   Bauer, Stephanie
+   Thomasius, Rainer
+   Rummel-Kluge, Christine
+   Eschenbeck, Heike
+   Salize, Hans-Joachim
+   Becker, Katja
+   Bertsch, Katja
+   Bilic, Sally
+   Brunner, Romuald
+   Feldhege, Johannes
+   Gallinat, Christina
+   Herpertz, Sabine C.
+   Koenig, Julian
+   Lustig, Sophia
+   Moessner, Markus
+   Ozer, Fikret
+   Parzer, Peter
+   Resch, Franz
+   Ritter, Sabrina
+   Spinner, Jens
+   Diestelkamp, Silke
+   Wille, Kristina
+   Baldofski, Sabrina
+   Kohls, Elisabeth
+   Peter, Lina-Jolien
+   Gille, Vera
+   Hofmann, Hanna
+   Lehner, Laya
+   Voss, Elke
+   Pfeiffer, Jens
+   Samel, Alisa
+CA ProHEAD Consortium
+TI Efficacy and cost-effectiveness of Internet-based selective eating
+   disorder prevention: study protocol for a randomized controlled trial
+   within the ProHEAD Consortium
+SO TRIALS
+AB BackgroundThe development of efficacious, cost-effective, and widely accessible programs for the prevention of eating disorders (EDs) is crucial in order to reduce the ED-related burden of illness. Programs using dissonance-based and cognitive behavioral approaches are most effective for the selective prevention of ED. Internet-based delivery is assumed to maximize the reach and impact of preventive efforts. However, the current evidence for Internet-based ED prevention is limited. The present trial evaluates the efficacy and cost-effectiveness of two new interventions (based on dissonance theory and principles of cognitive behavioral therapy (CBT)) that are implemented as add-ons to the existing Internet-based ED prevention program ProYouth.MethodsThe trial is one of five sub-projects of the German multicenter consortium ProHEAD. It is a three-arm, parallel, randomized controlled superiority trial. Participants will be randomized to (1) the online program ProYouth (active control condition) or (2) ProYouth plus a structured dissonance-based module or (3) ProYouth plus a CBT-based chat group intervention. As part of ProHEAD, a representative school-based sample of N=15,000 students (12years) will be screened for mental health problems. N=309 participants at risk for ED (assessed with the Weight Concerns Scale (WCS)and the Short Evaluation of Eating Disorders(SEED)) will be included in the present trial. Online assessments will be conducted at baseline, at end of intervention (6weeks), at 6 months follow-up, and as part of ProHEAD at 12 and 24 months follow-up. The primary outcome is ED-related impairment (assessed with the Child version of the Eating Disorder Examination-Questionnaire(ChEDE-Q)) at the end of the intervention. Secondary outcomes include ED-related symptomatology at follow-up, ED-related stigma, ED-related help-seeking, and acceptance of and compliance with the interventions. For the health economic evaluation data on costs of the interventions, healthcare utilization and health-related quality of life will be assessed.DiscussionThis is the first study augmenting a flexible prevention approach such as ProYouth with structured evidence-based modules in order to overcome some of the key limitations in the current practice of ED prevention.Trial registrationGerman Clinical Trials Register (DRKS), DRKS00014679. Registered on 25 April 2018.
+SN 1745-6215
+PD JAN 30
+PY 2019
+VL 20
+AR 91
+DI 10.1186/s13063-018-3161-y
+UT WOS:000457331000001
+PM 30700318
+ER
+
+PT J
+AU Diestelkamp, S
+   Wartberg, L
+   Kaess, M
+   Bauer, S
+   Rummel-Kluge, C
+   Becker, K
+   Eschenbeck, H
+   Salize, HJ
+   Moessner, M
+   Baldus, C
+   Arnaud, N
+   The, RT
+AF Diestelkamp, Silke
+   Wartberg, Lutz
+   Kaess, Michael
+   Bauer, Stephanie
+   Rummel-Kluge, Christine
+   Becker, Katja
+   Eschenbeck, Heike
+   Salize, Hans-Joachim
+   Moessner, Markus
+   Baldus, Christiane
+   Arnaud, Nicolas
+   The, Rainer Thomasius
+CA ProHEAD Consortium
+TI Effectiveness of a web-based screening and brief intervention with
+   weekly text-message-initiated individualised prompts for reducing risky
+   alcohol use among teenagers: study protocol of a randomised controlled
+   trial within the ProHEAD consortium
+SO TRIALS
+AB BackgroundEarly and excessive alcohol use is a significant threat to healthy development. Evidence supports the effectiveness of electronic alcohol interventions for young drinkers. However, effects are typically small and studies targeting under 18-year-olds are scarce. This trial is the first to evaluate the effectiveness of a single-session, brief, motivational, web-based intervention (ProWISE) plus weekly text-message-initiated individualised prompts (TIPs) in reducing alcohol consumption and alcohol-related harm among children and adolescents aged 12years. TIPs are designed to decrease risky alcohol use by reaching youth in the contexts of their everyday lives and by providing individualised feedback on drinking intentions, actual drinking and succession in achieving personal goals for low-risk drinking or abstinence.Methods/DesignThe trial is part of the multicentre consortium ProHEAD testing e-interventions for mental health problems in children and adolescents. Participants in grades 6-13 aged 12years will be recruited in schools which participate in ProHEAD (target N=15,000). Main criterion for inclusion in the ProWISE-TIP trial is a positive screening for at-risk alcohol use in the CRAFFT-d questionnaire (target n=1076). In a multicentre, four-arm, randomised controlled design the following groups will be compared: (A) web-based intervention plus TIPs for 12weeks; (B) web-based intervention plus text-message-initiated assessment of alcohol consumption for 12weeks; (C) web-based intervention only; and (D) alcohol-related psychoeducation. TIPs will be delivered shortly before and after high-risk situations for excessive alcohol use and will be tailored to age, gender, drinking motives and alcohol consumption. Study participants will be followed up at three, six and ninemonths in the ProWISE-TIP trial and at one and twoyears in the ProHEAD consortium. Primary outcome is alcohol use in the past 30days at ninemonths after enrolment. Secondary outcomes are alcohol-related problems, co-occurring substance use, health service utilisation, mental health problems and quality of life.DiscussionTrial results will generate important evidence on how to enhance effectiveness of single-session, web-based alcohol interventions for youth. The ProWISE-TIP intervention, if effective, can be used as a stand-alone alcohol intervention or as an add-on to school-based or community-based alcohol prevention programs.Trial registrationGerman Clinical Trials Register, DRKS00014606 Registered on 20 April 2018.
+SN 1745-6215
+PD JAN 22
+PY 2019
+VL 20
+AR 73
+DI 10.1186/s13063-018-3160-z
+UT WOS:000456481600002
+PM 30670102
+ER
+
+PT J
+AU Baldofski, S
+   Kohls, E
+   Bauer, S
+   Becker, K
+   Bilic, S
+   Eschenbeck, H
+   Kaess, M
+   Moessner, M
+   Salize, HJ
+   Diestelkamp, S
+   Voss, E
+   Rummel-Kluge, C
+   Kaess, M
+   Bauer, S
+   Thomasius, R
+   Rummel-Kluge, C
+   Eschenbeck, H
+   Salize, HJ
+   Becker, K
+   Bertsch, K
+   Bilic, S
+   Brunner, R
+   Feldhege, J
+   Gallinat, C
+   Herpertz, SC
+   Koenig, J
+   Lustig, S
+   Moessner, M
+   Ozer, F
+   Parzer, P
+   Resch, F
+   Ritter, S
+   Spinner, J
+   Diestelkamp, S
+   Wille, K
+   Baldofski, S
+   Kohls, E
+   Peter, LJ
+   Gille, V
+   Hofmann, H
+   Lehner, L
+   Voss, E
+   Pfeiffer, J
+   Samel, A
+AF Baldofski, Sabrina
+   Kohls, Elisabeth
+   Bauer, Stephanie
+   Becker, Katja
+   Bilic, Sally
+   Eschenbeck, Heike
+   Kaess, Michael
+   Moessner, Markus
+   Salize, Hans Joachim
+   Diestelkamp, Silke
+   Voss, Elke
+   Rummel-Kluge, Christine
+   Kaess, Michael
+   Bauer, Stephanie
+   Thomasius, Rainer
+   Rummel-Kluge, Christine
+   Eschenbeck, Heike
+   Salize, Hans-Joachim
+   Becker, Katja
+   Bertsch, Katja
+   Bilic, Sally
+   Brunner, Romuald
+   Feldhege, Johannes
+   Gallinat, Christina
+   Herpertz, Sabine C.
+   Koenig, Julian
+   Lustig, Sophia
+   Moessner, Markus
+   Ozer, Fikret
+   Parzer, Peter
+   Resch, Franz
+   Ritter, Sabrina
+   Spinner, Jens
+   Diestelkamp, Silke
+   Wille, Kristina
+   Baldofski, Sabrina
+   Kohls, Elisabeth
+   Peter, Lina-Jolien
+   Gille, Vera
+   Hofmann, Hanna
+   Lehner, Laya
+   Voss, Elke
+   Pfeiffer, Jens
+   Samel, Alisa
+CA ProHEAD consortium
+TI Efficacy and cost-effectiveness of two online interventions for children
+   and adolescents at risk for depression (E.motion trial): study protocol
+   for a randomized controlled trial within the ProHEAD consortium
+SO TRIALS
+AB BackgroundDepression is a serious mental health problem and is common in children and adolescents. Online interventions are promising in overcoming the widespread undertreatment of depression and in improving the help-seeking behavior in children and adolescents.MethodsThe multicentre, randomized controlled E.motion trial is part of the German ProHEAD consortium (Promoting Help-seeking using E-technology for ADolescents). The objective of the trial is to investigate the efficacy and cost-effectiveness of two online interventions to reduce depressive symptomatology in high-risk children and adolescents with subsyndromal symptoms of depression in comparison to an active control group. Participants will be randomized to one of three conditions: (1) Intervention 1, a clinician-guided self-management program (iFightDepression (R)); (2) Intervention 2, a clinician-guided group chat intervention; and (3) Control intervention, a psycho-educational website on depressive symptoms. Interventions last sixweeks. In total, N=363 children and adolescents aged 12years with Patient Health Questionnaire-9 modified for Adolescents (PHQ-A) scores in the range of 5-9 will be recruited at five study sites across Germany. Online questionnaires will be administered before onset of the intervention, at the end of the intervention, and at the six-month follow-up. Further, children and adolescents will participate in the baseline screening and the one- and two-year school-based follow-up assessments integrated in the ProHEAD consortium. The primary endpoint is depression symptomatology at the end of intervention as measured by the PHQ-A score. Secondary outcomes include depression symptomatology at all follow-ups, help-seeking attitudes, and actual face-to-face help-seeking, adherence to and satisfaction with the interventions, depression stigma, and utilization and cost of interventions.DiscussionThis study represents the first randomized controlled trial (RCT) investigating efficacy and cost-effectiveness of two online interventions in children and adolescents aged 12years at risk for depression. It aims to provide a better understanding of the help-seeking behavior of children and adolescents, potential benefits of E-mental health interventions for this age group, and new insights into so far understudied aspects of E-mental health programs, such as potential negative effects of online interventions. This knowledge will be used to tailor and improve future help offers and programs for children and adolescents and ways of treatment allocation.Trial registrationGerman Register for Clinical Trials (DRKS), DRKS00014668. Registered on 4 May 2018.International trial registration took place through the international clinical trials registry platform with the secondary ID S-086/2018.
+SN 1745-6215
+PD JAN 15
+PY 2019
+VL 20
+AR 53
+DI 10.1186/s13063-018-3156-8
+UT WOS:000455819200003
+PM 30646944
+ER
+
+PT J
+AU Linman, S
+   Benjenk, I
+   Chen, J
+AF Linman, Shawn
+   Benjenk, Ivy
+   Chen, Jie
+TI The medical home functions of primary care practices that care for
+   adults with psychological distress: a cross-sectional study
+SO BMC HEALTH SERVICES RESEARCH
+AB BackgroundPrimary care practices are changing the way that they provide care by increasing their medical home functionality. Medical home functionality can improve access to care and increase patient-centeredness, which is essential for persons with mental health issues. This study aims to explore the degree to which medical home functions have been implemented by primary care practices that care for adults with psychological distress.MethodsAnalysis of the 2015 Medical Expenditure Panel Survey Household Component and Medical Organizations Survey. This unique data set links data from a nationally representative sample of US households to the practices in which they receive primary care. This study focused on adults aged 18 and above.ResultsAs compared to adults without psychological distress, adults with psychological distress had significantly higher rates of chronic illness and poverty. Adults with psychological distress were more likely to receive care from practices that include advanced practitioners and are non-profit or hospital-based. Multivariate models that were adjusted for patient-level and practice-level characteristics indicated that adults with psychological distress are as likely to receive primary care from practices with medical home functionality, including case management, electronic health records, flexible scheduling, and PCMH certification, as adults without psychological distress.ConclusionsPractices that care for adults with mental health issues have not been left behind in the transition towards medical home models of primary care. Policy makers should continue to prioritize adults with mental health issues to receive primary care through this model of delivery due to this population's great potential to benefit from improved access and care coordination.Trial registrationThis study does not report the results of a health care intervention on human subject's participants.
+EI 1472-6963
+PD JAN 9
+PY 2019
+VL 19
+AR 21
+DI 10.1186/s12913-018-3845-8
+UT WOS:000455345600001
+PM 30626378
+ER
+
+PT J
+AU Birk, MV
+   Mandryk, RL
+AF Birk, Max Valentin
+   Mandryk, Regan Lee
+TI Improving the Efficacy of Cognitive Training for Digital Mental Health
+   Interventions Through Avatar Customization: Crowdsourced
+   Quasi-Experimental Study
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+AB Background: The success of internet-based mental health interventions in practice-that is, in the wild-depends on the uptake and retention of the application and the user's focused attention in the moment of use. Incorporating game-based motivational design into digital interventions delivered in the wild has been shown to increase uptake and retention in internet-based training; however, there are outstanding questions about the potential of game-based motivational strategies to increase engagement with a task in the moment of use and the effect on intervention efficacy.
+   Objective: Designers of internet-based interventions need to know whether game-based motivational design strategies can increase in-the-moment engagement and thus improve digital interventions. The aim of this study was to investigate the effects of 1 motivational design strategy (avatar customization) in an example mental health intervention (computerized cognitive training for attention bias modification).
+   Methods: We assigned 317 participants to either a customized avatar or an assigned avatar condition. After measuring state anxiety (State-Trait Anxiety Inventory), we randomly assigned half of the participants in each condition to either an attentional retraining condition (Attention Bias Modification Training) or a control condition. After training, participants were exposed to a negative mood induction using images with strong negative valance (International Affective Picture System), after which we measured state anxiety again.
+   Results: Avatar customization decreased posttraining state anxiety when controlling for baseline state anxiety for those in the attentional retraining condition; however, those who did not train experienced decreased resilience to the negative mood induction (F-1,F-252= 6.86, P=. 009 eta(2)(p)=. 027). This interaction effect suggests that customization increased task engagement with the intervention in the moment of use. Avatar customization also increased avatar identification (F-5,F-252 = 12.46, P<.001, R-2 =.23), regardless of condition (F-1,F-252 =.79, P =.38). Avatar identification reduced anxiety after the negative mood induction for participants who underwent training but increased poststimulus anxiety for participants who did not undergo training, further suggesting that customization increases engagement in the task (F-1,F-252 = 6.19, P = .01). The beneficial effect of avatar customization on training was driven by participants who were low in their basic satisfaction of relatedness (F-10,F-248 = 18.5, P<.001, R-2=.43), which is important because these are the participants who are most likely in need of digital interventions for mental health.
+   Conclusions: Our results suggest that applying motivational design-specifically avatar customization-is a viable strategy to increase engagement and subsequently training efficacy in a computerized cognitive task.
+RI Birk, Max/V-1924-2019
+OI Birk, Max/0000-0002-1490-2086; Mandryk, Regan/0000-0003-0772-6616
+SN 1438-8871
+PD JAN 8
+PY 2019
+VL 21
+IS 1
+AR e10133
+DI 10.2196/10133
+UT WOS:000455496400001
+PM 30622095
+ER
+
+PT J
+AU Karatekin, C
+AF Karatekin, Canan
+TI Adverse Childhood Experiences (ACEs) and Help-Seeking for Health-Related
+   Interventions in Young Adults
+SO JOURNAL OF PSYCHOLOGY
+AB Although college students have increasingly higher health needs, they underutilize interventions. Given the association between adverse childhood experiences (ACEs) and poor health, the goal of this study was to examine the contribution of ACEs in undergraduates to seeking help for problems related to health. An online survey of students (N = 321, 76% female, 72% Caucasian) in a large public university showed that respondents with more ACEs were more likely to seek help, including both professional and informal types of help. However, they were less likely to find interventions helpful and more likely to quit prematurely. Common reasons for seeking help were anxiety, stress, and depression, with depression more prevalent in the high-ACEs group. More ACEs were associated with more unmet needs and greater likelihood of obtaining health information from school, another professional, or the media. More research is needed on how to harness the power of informal sources of help to improve the health of students with more ACEs, how to tailor health-related messages to fit their needs, and why students with more ACEs find interventions less helpful. Finally results suggest that ACEs shape not only lifelong health but also behaviors related to seeking help in young adults.
+SN 0022-3980
+EI 1940-1019
+PD JAN 2
+PY 2019
+VL 153
+IS 1
+SI SI
+BP 6
+EP 22
+DI 10.1080/00223980.2018.1476316
+UT WOS:000462320400002
+PM 30265849
+ER
+
+PT J
+AU Fletcher, R
+   Campbell, L
+   Williams, AS
+   Rawlinson, C
+   Dye, J
+   Baldwin, A
+   May, C
+   StGeorge, J
+AF Fletcher, Richard
+   Campbell, Linda
+   Williams, Anne Sved
+   Rawlinson, Catherine
+   Dye, Jacob
+   Baldwin, Andrea
+   May, Chris
+   StGeorge, Jennifer
+TI SMS4 perinatal parents: designing parenting support via text messages
+   for mothers with severe mental illness (SMI) and their partners
+SO ADVANCES IN MENTAL HEALTH
+AB Objective: This paper will describe the development of a programme of SMS messages including parenting information and support to be sent to the mobile phones of mothers with severe mental illness (SMI) and their partners from early pregnancy to 24 weeks post birth. Method: Text messages (total 176) designed and tested for fathers (SMS4Dads) addressing father-infant attachment, co-parenting and self-care (including Mood Tracker texts asking fathers to rate their mood) were adapted by an expert advisory group of clinicians with experience across perinatal mental health services. Messages were rated on importance, clarity, acceptability (separately for mothers and fathers) and being consistent with current evidence. Additional messages were developed specifically for this population and all messages were tested for literacy level. The SMS4dads 'Mood Tracker' was redesigned to address common stress-inducing parenting issues such as infant crying, lack of sleep, and self-doubt about capacity to parent with an escalation process in cases of significant distress. Results: Separate protocol tested text-message banks for mothers (141 messages), and fathers (141 messages) were developed. Fourteen Mood Tracker topics were developed with two levels of distress escalation linked to local mental health services. Discussion: The need for accurate descriptions of health interventions processes is widely recognised, particularly in the case of digital mental health. This study provides a detailed description of the adaptive design by clinicians and researchers of brief text messages suitable for mothers with severe mental illness and their partners.
+RI Williams, Anne Sved/B-4188-2017; St George, Jennifer/G-7752-2013
+OI St George, Jennifer/0000-0003-4979-2267; Dye, Jacob/0000-0002-3469-2792;
+   Fletcher, Richard/0000-0003-0970-4541
+SN 1838-7357
+EI 1837-4905
+PD JAN 2
+PY 2019
+VL 17
+IS 1
+SI SI
+BP 85
+EP 95
+DI 10.1080/18387357.2018.1550367
+UT WOS:000462044800008
+ER
+
+PT J
+AU Heffernan, M
+   Andrews, G
+   Singh, MAF
+   Valenzuela, M
+   Anstey, KJ
+   Maeder, AJ
+   McNeil, J
+   Jorm, L
+   Lautenschlager, NT
+   Sachdev, PS
+   Ginige, JA
+   Hobbs, MJ
+   Boulamatsis, C
+   Chau, T
+   Cobiac, L
+   Cox, KL
+   Daniel, K
+   Hood, VM
+   Guerrero, Y
+   Gunn, J
+   Jain, N
+   Kochan, NA
+   Lampit, A
+   Mavros, Y
+   Meiklejohn, J
+   Noble, Y
+   O'Leary, F
+   Radd-Vagenas, S
+   Walton, CC
+   Brodaty, H
+AF Heffernan, Megan
+   Andrews, Gavin
+   Singh, Maria A. Fiatarone
+   Valenzuela, Michael
+   Anstey, Kaarin J.
+   Maeder, Anthony J.
+   McNeil, John
+   Jorm, Louisa
+   Lautenschlager, Nicola T.
+   Sachdev, Perminder S.
+   Ginige, Jeewani A.
+   Hobbs, Megan J.
+   Boulamatsis, Christos
+   Chau, Tiffany
+   Cobiac, Lynne
+   Cox, Kay L.
+   Daniel, Kenneth
+   Hood, Victoria M.
+   Guerrero, Yareni
+   Gunn, Jane
+   Jain, Nidhi
+   Kochan, Nicole A.
+   Lampit, Amit
+   Mavros, Yorgi
+   Meiklejohn, Jacinda
+   Noble, Yian
+   O'Leary, Fiona
+   Radd-Vagenas, Sue
+   Walton, Courtney C.
+   Brodaty, Henry
+CA Maintain Your Brain Collaborative
+TI Maintain Your Brain: Protocol of a 3-Year Randomized Controlled Trial of
+   a Personalized Multi-Modal Digital Health Intervention to Prevent
+   Cognitive Decline Among Community Dwelling 55 to 77 Year Olds
+SO JOURNAL OF ALZHEIMERS DISEASE
+AB Background: Maintain Your Brain (MYB) is a randomized controlled trial of an online multi-modal lifestyle intervention targeting modifiable dementia risk factors with its primary aim being to reduce cognitive decline in an older age cohort.
+   Methods: MYB aims to recruit 8,500 non-demented community dwelling 55 to 77 year olds from the Sax Institute's 45 and Up Study in New South Wales, Australia. Participants will be screened for risk factors related to four modules that comprise the MYB intervention: physical activity, nutrition, mental health, and cognitive training Targeting risk factors will enable interventions to be personalized so that participants receive the most appropriate modules. MYB will run for three years and up to four modules will be delivered sequentially each quarter during year one. Upon completing a module, participants will continue to receive less frequent booster activities for their eligible modules (except for the mental health module) until the end of the trial.
+   Discussion: MYB will be the largest internet-based trial to attempt to prevent cognitive decline and potentially dementia. If successful, MYB will provide a model for not just effective intervention among older adults, but an intervention that is scalable for broad use.
+RI Mavros, Yorgi/I-2274-2019; Walton, Courtney Campbell/X-7293-2018;
+   Anstey, Kaarin/AAB-4870-2020; Sachdev, Perminder/H-3968-2015; Hobbs,
+   Megan/F-7353-2013
+OI Mavros, Yorgi/0000-0002-2588-0425; Walton, Courtney
+   Campbell/0000-0003-0835-2310; Lampit, Amit/0000-0001-6522-8397; Gunn,
+   Jane/0000-0001-8836-7525; Sachdev, Perminder/0000-0002-9595-3220;
+   Radd-Vagenas, Sue/0000-0001-8285-5819; Hobbs, Megan/0000-0003-0131-0089
+SN 1387-2877
+EI 1875-8908
+PY 2019
+VL 70
+SU 1
+BP S221
+EP S237
+DI 10.3233/JAD-180572
+UT WOS:000481670800017
+PM 30475762
+ER
+
+EF

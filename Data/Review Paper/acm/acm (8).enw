@@ -1,0 +1,1583 @@
+%0 Conference Paper
+%T Progress of Animal Behavior Studies with Optical Motion Capture System
+%@ 9781450365062
+%U https://doi.org/10.1145/3278198.3278212
+%R 10.1145/3278198.3278212
+%B Proceedings of the 2nd International Conference on Biomedical Engineering and Bioinformatics
+%I Association for Computing Machinery
+%A Yingpu Bi
+%A Lei Wu
+%D 2018
+%P 102–105
+%K optical motion capture system, animal behavior
+%C Tianjin, China
+  
+%0 Conference Paper
+%T Mobilizing Assets: Data-Driven Community Development with Refugees
+%@ 9781450352772
+%U https://doi.org/10.1145/3136560.3136579
+%R 10.1145/3136560.3136579
+%B Proceedings of the Ninth International Conference on Information and Communication Technologies and Development
+%I Association for Computing Machinery
+%A Ying Xu
+%A Carleen Maitland
+%D 2017
+%P Article 10
+%K Asset-based Community Development, Community Informatics, Sense of Community, Data for Development, Participatory Action Research
+%C Lahore, Pakistan
+  
+%0 Journal Article
+%T Discovery of latent subcommunities in a blog’s readership
+%V 4
+%@ 1559-1131
+%U https://doi.org/10.1145/1806916.1806921
+%R 10.1145/1806916.1806921
+%N 3
+%J ACM Trans. Web
+%I Association for Computing Machinery
+%A Brett Adams
+%A Dinh Phung
+%A Svetha Venkatesh
+%D 2010
+%P Article 12
+%K affinity propagation, Blog, Web communities, topic models
+  
+%0 Conference Paper
+%T Witchcraft and HCI: Morality, Modernity, and Postcolonial Computing in Rural Bangladesh
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300586
+%R 10.1145/3290605.3300586
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Sharifa Sultana
+%A Syed Ishtiaque Ahmed
+%D 2019
+%P Paper 356
+%K witchcraft, rural, postcolonial, faith, ictd, wellbeing
+%C Glasgow, Scotland Uk
+  
+%0 Journal Article
+%T Healthcare robotics
+%V 60
+%@ 0001-0782
+%U https://doi.org/10.1145/3127874
+%R 10.1145/3127874
+%N 11
+%J Commun. ACM
+%I Association for Computing Machinery
+%A Laurel D. Riek
+%D 2017
+%P 68–78
+  
+%0 Conference Paper
+%T AVEC 2019 Workshop and Challenge: State-of-Mind, Detecting Depression with AI, and Cross-Cultural Affect Recognition
+%@ 9781450369138
+%U https://doi.org/10.1145/3347320.3357688
+%R 10.1145/3347320.3357688
+%B Proceedings of the 9th International on Audio/Visual Emotion Challenge and Workshop
+%I Association for Computing Machinery
+%A %A Fabien Ringeval
+%A Björn Schuller
+%A Michel Valstar
+%A Nicholas Cummins
+%A Roddy Cowie
+%A Leili Tavabi
+%A Maximilian Schmitt
+%A Sina Alisamir
+%A Shahin Amiriparian
+%A Eva-Maria Messner et al.
+%D 2019
+%P 3–12
+%K state-of-mind, cross-cultural emotion, affective computing
+%C Nice, France
+  
+%0 Conference Paper
+%T “This is a Throwaway Account”: Temporary Technical Identities and Perceptions of Anonymity in a Massive Online Community
+%@ 9781450329224
+%U https://doi.org/10.1145/2675133.2675175
+%R 10.1145/2675133.2675175
+%B Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing
+%I Association for Computing Machinery
+%A Alex Leavitt
+%D 2015
+%P 317–327
+%K multiple profile maintenance, anonymity, throwaway account, social news sites, reddit, selective self-presentation
+%C Vancouver, BC, Canada
+  
+%0 Conference Paper
+%T “I’m so glad I met you”: Designing Dynamic Collaborative Support for Young Adult Cancer Survivors
+%@ 9781450343350
+%U https://doi.org/10.1145/2998181.2998326
+%R 10.1145/2998181.2998326
+%B Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing
+%I Association for Computing Machinery
+%A Jordan Eschler
+%A Wanda Pratt
+%D 2017
+%P 1763–1774
+%K young adult cancer, qualitative methods, online collaboration, health information seeking
+%C Portland, Oregon, USA
+  
+%0 Journal Article
+%T Bridging Disconnected Knowledges for Community Health
+%V 2
+%U https://doi.org/10.1145/3274344
+%R 10.1145/3274344
+%N CSCW
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Azra Ismail
+%A Naveena Karusala
+%A Neha Kumar
+%D 2018
+%P Article 75
+%K healthcare, situated, india, hci4d, ictd, qualitative
+  
+%0 Journal Article
+%T The Effect of Expressive Biosignals on Empathy and Closeness for a Stigmatized Group Member
+%V 3
+%U https://doi.org/10.1145/3359303
+%R 10.1145/3359303
+%N CSCW
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Fannie Liu
+%A Geoff Kaufman
+%A Laura Dabbish
+%D 2019
+%P Article 201
+%K emotion, interpersonal closeness, stigmatized groups, empathy, biosignals
+  
+%0 Conference Paper
+%T Stimulight: Exploring Social Interaction to Reduce Physical Inactivity among Office Workers
+%@ 9781450359719
+%U https://doi.org/10.1145/3290607.3313094
+%R 10.1145/3290607.3313094
+%B Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Hans Brombacher
+%A Dennis Arts
+%A Carl Megens
+%A Steven Vos
+%D 2019
+%P Paper LBW0136
+%K design framework, social feedback, physical activity, intervention design, social interaction, office environment
+%C Glasgow, Scotland Uk
+  
+%0 Conference Paper
+%T Military Masculinity and the Travails of Transitioning: Disclosure in Social Media
+%@ 9781450343350
+%U https://doi.org/10.1145/2998181.2998221
+%R 10.1145/2998181.2998221
+%B Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing
+%I Association for Computing Machinery
+%A Bryan Semaan
+%A Lauren M. Britton
+%A Bryan Dosono
+%D 2017
+%P 387–403
+%K invisible crises, disclosure, gender, veterans, military, ICTS, social media, disruption, identity, crisis, transition
+%C Portland, Oregon, USA
+  
+%0 Conference Paper
+%T The Quantified Patient in the Doctor’s Office: Challenges & Opportunities
+%@ 9781450333627
+%U https://doi.org/10.1145/2858036.2858445
+%R 10.1145/2858036.2858445
+%B Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Peter West
+%A Richard Giordano
+%A Max Van Kleek
+%A Nigel Shadbolt
+%D 2016
+%P 3066–3078
+%K clinical decision making, self-tracking, quantified self
+%C San Jose, California, USA
+  
+%0 Conference Paper
+%T Depresjon: a motor activity database of depression episodes in unipolar and bipolar patients
+%@ 9781450351928
+%U https://doi.org/10.1145/3204949.3208125
+%R 10.1145/3204949.3208125
+%B Proceedings of the 9th ACM Multimedia Systems Conference
+%I Association for Computing Machinery
+%A Enrique Garcia-Ceja
+%A Michael Riegler
+%A Petter Jakobsen
+%A Jim Tørresen
+%A Tine Nordgreen
+%A Ketil J. Oedegaard
+%A Ole Bernt Fasmer
+%D 2018
+%P 472–477
+%K motor activity, bipolar disorder, artificial intelligence, depression, depressive disorder, dataset, machine learning, major
+%C Amsterdam, Netherlands
+  
+%0 Conference Paper
+%T Challenges, feedback & notifications: empirical explorations to inform the design of interfaces to motivate and encourage long-term personal informatics use
+%@ 9781450335751
+%U https://doi.org/10.1145/2800835.2800964
+%R 10.1145/2800835.2800964
+%B Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers
+%I Association for Computing Machinery
+%A Stephen Voida
+%A Yuan Jia
+%A Yamini Karanam
+%A Alex Chambers
+%A Joe Dara
+%A Abdulaziz Alderhami
+%A Kunal Bodke
+%A Dushyant Shrikhande
+%A Jessica Despard
+%D 2015
+%P 1081–1086
+%K empirical studies, affordances, personal informatics, notifications, motivation, interaction design, feedback
+%C Osaka, Japan
+  
+%0 Conference Paper
+%T A usability study with healthcare professionals of a customizable framework for reminiscence and music based cognitive activities for people with dementia
+%@ 9781450372923
+%U https://doi.org/10.1145/3368640.3368654
+%R 10.1145/3368640.3368654
+%B Proceedings of the 23rd Pan-Hellenic Conference on Informatics
+%I Association for Computing Machinery
+%A Luis Ferreira
+%A Sofia Cavaco
+%A Sergi Bermudez i Badia
+%D 2019
+%P 16–23
+%K usability testing, dementia, customization, technological versatility, music, reminiscence
+%C Nicosia, Cyprus
+  
+%0 Conference Paper
+%T Exploiting Multiple Receivers for CSI-Based Activity Classification Using A Hybrid CNN-LSTM Model
+%@ 9781450370073
+%U https://doi.org/10.1145/3360773.3360878
+%R 10.1145/3360773.3360878
+%B Proceedings of the 1st ACM International Workshop on Device-Free Human Sensing
+%I Association for Computing Machinery
+%A Hoonyong Lee
+%A Changbum Ryan Ahn
+%A Nakjung Choi
+%D 2019
+%P 18–21
+%K Channel State Information, Indoor Activity Classification, Multiple Receivers
+%C New York, NY, USA
+  
+%0 Conference Paper
+%T Design of a Culturally-Informed Virtual Human for Educating Hispanic Women about Cervical Cancer
+%@ 9781450364508
+%U https://doi.org/10.1145/3240925.3240968
+%R 10.1145/3240925.3240968
+%B Proceedings of the 12th EAI International Conference on Pervasive Computing Technologies for Healthcare
+%I Association for Computing Machinery
+%A Sanjana Mendu
+%A Mehdi Boukhechba
+%A Janna R. Gordon
+%A Debajyoti Datta
+%A Edwin Molina
+%A Gloria Arroyo
+%A Sara K. Proctor
+%A Kristen J. Wells
+%A Laura E. Barnes
+%D 2018
+%P 360–366
+%K Patient Education, Cervical Cancer, Health Disparities, Health Literacy, Virtual Human
+%C New York, NY, USA
+  
+%0 Conference Paper
+%T Ontological modeling of motivational messages for physical activity coaching
+%@ 9781450363631
+%U https://doi.org/10.1145/3154862.3154926
+%R 10.1145/3154862.3154926
+%B Proceedings of the 11th EAI International Conference on Pervasive Computing Technologies for Healthcare
+%I Association for Computing Machinery
+%A Claudia Villalonga
+%A Harm op den Akker
+%A Hermie Hermens
+%A Luis Javier Herrera
+%A Hector Pomares
+%A Ignacio Rojas
+%A Olga Valenzuela
+%A Oresti Banos
+%D 2017
+%P 355–364
+%K motivational messages, ontology, smart coaching
+%C Barcelona, Spain
+  
+%0 Conference Paper
+%T UPEQ: ubisoft perceived experience questionnaire: a self-determination evaluation tool for video games
+%@ 9781450365710
+%U https://doi.org/10.1145/3235765.3235780
+%R 10.1145/3235765.3235780
+%B Proceedings of the 13th International Conference on the Foundations of Digital Games
+%I Association for Computing Machinery
+%A Ahmad Azadvar
+%A Alessandro Canossa
+%D 2018
+%P Article 5
+%K self-determination theory, player experience, player profiling, data driven modeling
+%C Malmö, Sweden
+  
+%0 Conference Paper
+%T Health Consumer Usage Patterns in Management of CVD using Data Mining Techniques
+%@ 9781450366038
+%U https://doi.org/10.1145/3290688.3290732
+%R 10.1145/3290688.3290732
+%B Proceedings of the Australasian Computer Science Week Multiconference
+%I Association for Computing Machinery
+%A Devipriyaa Nagappan
+%A Jim Warren
+%A Patricia Riddle
+%D 2019
+%P Article 28
+%K Health trajectories, Clustering, Chronic diseases, Cardio-vascular diseases(CVD)
+%C Sydney, NSW, Australia
+  
+%0 Conference Paper
+%T Social Media TestDrive: Real-World Social Media Education for the Next Generation
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300533
+%R 10.1145/3290605.3300533
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Dominic DiFranzo
+%A Yoon Hyung Choi
+%A Amanda Purington
+%A Jessie G. Taft
+%A Janis Whitlock
+%A Natalya N. Bazarova
+%D 2019
+%P Paper 303
+%K youth development, social media, digital citizen, education
+%C Glasgow, Scotland Uk
+  
+%0 Conference Paper
+%T Quality of life in people with transtibial amputation: the influence of using 3 different prosthetic feet
+%B Proceedings of the 2nd International Convention on Rehabilitation Engineering & Assistive Technology
+%I Singapore Therapeutic, Assistive & Rehabilitative Technologies (START) Centre
+%A Miaoju Hsu
+%A David H. Nielsen
+%A Yaju Chang
+%D 2008
+%P 122–125
+%K quality of life, prosthesis, questionnaire, amputation
+%C Bangkok, Thailand
+  
+%0 Conference Paper
+%T Social Issues in Personal Informatics: Design, Data, and Infrastructure
+%@ 9781450360180
+%U https://doi.org/10.1145/3272973.3273016
+%R 10.1145/3272973.3273016
+%B Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing
+%I Association for Computing Machinery
+%A Elizabeth L. Murnane
+%A Jaime Snyder
+%A Stephen Voida
+%A Matthew J. Bietz
+%A Mark Matthews
+%A Sean Munson
+%A Laura R. Pina
+%D 2018
+%P 471–478
+%K collective engagement, personal informatics, collaborative sensemaking, quantified self, data representation
+%C Jersey City, NJ, USA
+  
+%0 Conference Paper
+%T Coerced Change-talk with Conversational Agents Promotes Confidence in Behavior Change
+%@ 9781450361262
+%U https://doi.org/10.1145/3329189.3329202
+%R 10.1145/3329189.3329202
+%B Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare
+%I Association for Computing Machinery
+%A Stefan Olafsson
+%A Teresa O’Leary
+%A Timothy Bickmore
+%D 2019
+%P 31–40
+%K Attitude, Forced compliance, Motivational interviewing, Change-talk, Virtual agents, Behavior change, Health
+%C Trento, Italy
+  
+%0 Conference Paper
+%T The Role of Color in Palliative Care for Children
+%@ 9781450362313
+%U https://doi.org/10.1145/3340074.3340098
+%R 10.1145/3340074.3340098
+%B Proceedings of the 2019 11th International Conference on Bioinformatics and Biomedical Technology
+%I Association for Computing Machinery
+%A Andrew Chixiao Yang
+%D 2019
+%P 27–31
+%K Children, Palliative care, Color
+%C Stockholm, Sweden
+  
+%0 Conference Paper
+%T AVEC 2018 Workshop and Challenge: Bipolar Disorder and Cross-Cultural Affect Recognition
+%@ 9781450359832
+%U https://doi.org/10.1145/3266302.3266316
+%R 10.1145/3266302.3266316
+%B Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop
+%I Association for Computing Machinery
+%A %A Fabien Ringeval
+%A Björn Schuller
+%A Michel Valstar
+%A Roddy Cowie
+%A Heysem Kaya
+%A Maximilian Schmitt
+%A Shahin Amiriparian
+%A Nicholas Cummins
+%A Denis Lalanne
+%A Adrien Michaud et al.
+%D 2018
+%P 3–13
+%K cross-cultural emotion, bipolar disorder, affective computing
+%C Seoul, Republic of Korea
+  
+%0 Conference Paper
+%T REDSim: a spatial agent-based simulation for studying emergency departments
+%@ 9781479920778
+%B Proceedings of the 2013 Winter Simulation Conference: Simulation: Making Decisions in a Complex World
+%I IEEE Press
+%A Ana Paula Centeno
+%A Richard Martin
+%A Robert Sweeney
+%D 2013
+%P 1431–1442
+%C Washington, D.C.
+  
+%0 Conference Paper
+%T GameChanger: a middleware for social exergames
+%@ 9781450305785
+%U https://doi.org/10.1145/1984674.1984688
+%R 10.1145/1984674.1984688
+%B Proceedings of the 1st International Workshop on Games and Software Engineering
+%I Association for Computing Machinery
+%A Jamie Payton
+%A Evie Powell
+%A Andrea Nickel
+%A Katelyn Doran
+%A Tiffany Barnes
+%D 2011
+%P 36–39
+%K sensors, pervasive computing, middleware, games
+%C Waikiki, Honolulu, HI, USA
+  
+%0 Conference Paper
+%T Closing the Loop in Exergaming - Health Benefits of Biocybernetic Adaptation in Senior Adults
+%@ 9781450356244
+%U https://doi.org/10.1145/3242671.3242673
+%R 10.1145/3242671.3242673
+%B Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play
+%I Association for Computing Machinery
+%A John E. Muñoz
+%A M. Cameirão
+%A S. Bermúdez i Badia
+%A E. Rubio Gouveia
+%D 2018
+%P 329–339
+%K physiological computing, cardiorespiratory fitness, exergames, senior adults, biocybernetic loops, heart rate
+%C Melbourne, VIC, Australia
+  
+%0 Conference Paper
+%T More Text Please! Understanding and Supporting the Use of Visualization for Clinical Text Overview
+%@ 9781450356206
+%U https://doi.org/10.1145/3173574.3173996
+%R 10.1145/3173574.3173996
+%B Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Nicole Sultanum
+%A Michael Brudno
+%A Daniel Wigdor
+%A Fanny Chevalier
+%D 2018
+%P Paper 422
+%K clinical overview, user study, text visualization, medicine, medical visualization, medical narrative, clinical text
+%C Montreal QC, Canada
+  
+%0 Conference Paper
+%T Participatory Design of VR Scenarios for Exposure Therapy
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300799
+%R 10.1145/3290605.3300799
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Eivind Flobak
+%A Jo D. Wake
+%A Joakim Vindenes
+%A Smiti Kahlon
+%A Tine Nordgreen
+%A Frode Guribye
+%D 2019
+%P Paper 569
+%K virtual reality, participatory design, exposure therapy, workshop
+%C Glasgow, Scotland Uk
+  
+%0 Conference Paper
+%T ICT-Enabled Social Innovation in Support of Public Sector Reform: the Potential of Integrated Approaches to Social Services Delivery to Promote Social Investment Policies in Europe
+%@ 9781450336406
+%U https://doi.org/10.1145/2910019.2910084
+%R 10.1145/2910019.2910084
+%B Proceedings of the 9th International Conference on Theory and Practice of Electronic Governance
+%I Association for Computing Machinery
+%A Gianluca Misuraca
+%A Clelia Colombo
+%D 2016
+%P 163–172
+%K Investment, Social Policy, Innovation, Public Services, ICTs
+%C Montevideo, Uruguay
+  
+%0 Conference Paper
+%T The Role of Gaming During Difficult Life Experiences
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300453
+%R 10.1145/3290605.3300453
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Ioanna Iacovides
+%A Elisa D. Mekler
+%D 2019
+%P Paper 223
+%K games, sensitive life experiences, difficult life experiences
+%C Glasgow, Scotland Uk
+  
+%0 Conference Paper
+%T MoodLight: Exploring Personal and Social Implications of Ambient Display of Biosensor Data
+%@ 9781450329224
+%U https://doi.org/10.1145/2675133.2675191
+%R 10.1145/2675133.2675191
+%B Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing
+%I Association for Computing Machinery
+%A Jaime Snyder
+%A Mark Matthews
+%A Jacqueline Chien
+%A Pamara F. Chang
+%A Emily Sun
+%A Saeed Abdullah
+%A Geri Gay
+%D 2015
+%P 143–153
+%K personal informatics, light, color, biofeedback, ambient display, stress management, self-discovery
+%C Vancouver, BC, Canada
+  
+%0 Conference Paper
+%T Distilling the Outcomes of Personal Experiences: A Propensity-scored Analysis of Social Media
+%@ 9781450343350
+%U https://doi.org/10.1145/2998181.2998353
+%R 10.1145/2998181.2998353
+%B Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing
+%I Association for Computing Machinery
+%A Alexandra Olteanu
+%A Onur Varol
+%A Emre Kiciman
+%D 2017
+%P 370–386
+%K experience outcomes, information extraction, social media
+%C Portland, Oregon, USA
+  
+%0 Conference Paper
+%T Towards an Integrated mHealth Platform for Community-based Maternity Health Workers in Low-Income Communities
+%@ 9781450364508
+%U https://doi.org/10.1145/3240925.3240938
+%R 10.1145/3240925.3240938
+%B Proceedings of the 12th EAI International Conference on Pervasive Computing Technologies for Healthcare
+%I Association for Computing Machinery
+%A Beenish Moalla Chaudhry
+%A Louis Faust
+%A Nitesh V. Chawla
+%D 2018
+%P 118–127
+%K maternity health workers, low socioeconomic, care coordination, communication, pregnancy, community-based, design
+%C New York, NY, USA
+  
+%0 Journal Article
+%T KNOWME: An Energy-Efficient Multimodal Body Area Network for Physical Activity Monitoring
+%V 11
+%@ 1539-9087
+%U https://doi.org/10.1145/2331147.2331158
+%R 10.1145/2331147.2331158
+%N S2
+%J ACM Trans. Embed. Comput. Syst.
+%I Association for Computing Machinery
+%A Gautam Thatte
+%A Ming Li
+%A Sangwon Lee
+%A Adar Emken
+%A Shrikanth Narayanan
+%A Urbashi Mitra
+%A Donna Spruijt-Metz
+%A Murali Annavaram
+%D 2012
+%P Article 48
+%K people-centric sensing, Mobile phones
+  
+%0 Journal Article
+%T Expanding Our Reflexive Toolbox: Collaborative Possibilities for Examining Socio-Technical Systems Using Duoethnography
+%V 3
+%U https://doi.org/10.1145/3359292
+%R 10.1145/3359292
+%N CSCW
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Patricia Garcia
+%A Marika Cifor
+%D 2019
+%P Article 190
+%K ethnography, qualitative methods, duoethnography, feminist hci, interpretivist, health tracking, self-tracking
+  
+%0 Conference Paper
+%T Analysis of unstructured text data for a person social profile
+%@ 9781450354127
+%U https://doi.org/10.1145/3129757.3129758
+%R 10.1145/3129757.3129758
+%B Proceedings of the Internationsl Conference on Electronic Governance and Open Society: Challenges in Eurasia
+%I Association for Computing Machinery
+%A Alexey Y. Timonin
+%A Alexander S. Bozhday
+%A Alexander M. Bershadsky
+%D 2017
+%P 1–5
+%K unstructured data, public data sources, data analysis, personal social profile, big data, natural language processing, data mining, text analysis, visual analysis, social media
+%C St. Petersburg, Russia
+  
+%0 Conference Paper
+%T Sexbots: Replacements for Sex Workers? Ethical Constraints on the Design of Sentient Beings for Utilitarian Purposes
+%@ 9781450333146
+%U https://doi.org/10.1145/2693787.2693789
+%R 10.1145/2693787.2693789
+%B Proceedings of the 2014 Workshops on Advances in Computer Entertainment Conference
+%I Association for Computing Machinery
+%A Robin Mackenzie
+%D 2014
+%P Article 8
+%K ethical design of robots, paraphilias, bestiality, legal rights of robots, sexual practices, Sexbots, zoophilia, sex work
+%C Funchal, Portugal
+  
+%0 Conference Paper
+%T Interacting with Anatomically Complete Robots: A Discussion About Human-robot Relationships
+%@ 9781450356152
+%U https://doi.org/10.1145/3173386.3173387
+%R 10.1145/3173386.3173387
+%B Companion of the 2018 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Christoph Bartneck
+%A Matthew McMullen
+%D 2018
+%P 1–4
+%K robot, doll, relationship, intimacy, companionship
+%C Chicago, IL, USA
+  
+%0 Conference Paper
+%T Emotional competences’ development and evaluation in the non-university teaching staff in Spain
+%@ 9781450328968
+%U https://doi.org/10.1145/2669711.2669947
+%R 10.1145/2669711.2669947
+%B Proceedings of the Second International Conference on Technological Ecosystems for Enhancing Multiculturality
+%I Association for Computing Machinery
+%A Patricia Torrijos Fincias
+%A Juan Francisco Martín Izard
+%A Paloma No Gutiérrez
+%D 2014
+%P 507–512
+%K teacher qualifications, educational personnel training, skills development
+%C Salamanca, Spain
+  
+%0 Conference Paper
+%T Domain adaptation methods for improving lab-to-field generalization of cocaine detection using wearable ECG
+%@ 9781450344616
+%U https://doi.org/10.1145/2971648.2971666
+%R 10.1145/2971648.2971666
+%B Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+%I Association for Computing Machinery
+%A Annamalai Natarajan
+%A Gustavo Angarita
+%A Edward Gaiser
+%A Robert Malison
+%A Deepak Ganesan
+%A Benjamin M. Marlin
+%D 2016
+%P 875–885
+%K classification, domain adaptation, prior probability shift, cocaine detection, covariate shift, wearable sensors
+%C Heidelberg, Germany
+  
+%0 Journal Article
+%T Beacon: Designing a Portable Device for Self-Administering a Measure of Critical Flicker Frequency
+%V 2
+%U https://doi.org/10.1145/3264927
+%R 10.1145/3264927
+%N 3
+%J Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+%I Association for Computing Machinery
+%A Ravi Karkar
+%A Rafal Kocielnik
+%A Xiaoyi Zhang
+%A Jasmine Zia
+%A George N. Ioannou
+%A Sean A. Munson
+%A James Fogarty
+%D 2018
+%P Article 117
+%K cirrhosis, hepatic encephalopathy, Critical flicker frequency, self-tracking
+  
+%0 Conference Paper
+%T Envisioning complexity in healthcare systems through social networks
+%@ 9781450322409
+%U https://doi.org/10.1145/2492517.2500313
+%R 10.1145/2492517.2500313
+%B Proceedings of the 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+%I Association for Computing Machinery
+%A Andrew V. Levula
+%A Kon Shing Kenneth Chung
+%A Jane Young
+%A Kate White
+%D 2013
+%P 931–936
+%K density, complex adaptive systems, aggregate complexity, coordination, social network
+%C Niagara, Ontario, Canada
+  
+%0 Conference Paper
+%T Five Provocations for Ethical HCI Research
+%@ 9781450333627
+%U https://doi.org/10.1145/2858036.2858313
+%R 10.1145/2858036.2858313
+%B Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Barry Brown
+%A Alexandra Weilenmann
+%A Donald McMillan
+%A Airi Lampinen
+%D 2016
+%P 852–863
+%K research practice, ethics, human trials
+%C San Jose, California, USA
+  
+%0 Conference Paper
+%T Local Standards for Anonymization Practices in Health, Wellness, Accessibility, and Aging Research at CHI
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300692
+%R 10.1145/3290605.3300692
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Jacob Abbott
+%A Haley MacLeod
+%A Novia Nurain
+%A Gustave Ekobe
+%A Sameer Patil
+%D 2019
+%P Paper 462
+%K anonymization, data sharing, privacy, meta-hci, research reporting, methodology
+%C Glasgow, Scotland Uk
+  
+%0 Journal Article
+%T Learning from and with Menstrupedia: Towards Menstrual Health Education in India
+%V 2
+%U https://doi.org/10.1145/3274443
+%R 10.1145/3274443
+%N CSCW
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Anupriya Tuli
+%A Shaan Chopra
+%A Neha Kumar
+%A Pushpendra Singh
+%D 2018
+%P Article 174
+%K hci4d, menstrual health education, menstrupedia, india
+  
+%0 Conference Paper
+%T Transforming Lives Through Story Immersion: Innovation of Aphasia Rehabilitation Therapy through Storytelling Learning Landscapes
+%@ 9781450331227
+%U https://doi.org/10.1145/2660579.2660590
+%R 10.1145/2660579.2660590
+%B Proceedings of the 2nd ACM International Workshop on Immersive Media Experiences
+%I Association for Computing Machinery
+%A Christopher Stapleton
+%A Janet Whiteside PhD
+%A Jim Davies PhD
+%A Dana Mott
+%A Jennifer Vick
+%D 2014
+%P 29–34
+%K play-testing, experiential media, cognition, mixed reality, augmented reality, media, aphasia, immersion, storytelling, imagination, virtual reality, therapy, rehabilitation
+%C Orlando, Florida, USA
+  
+%0 Conference Paper
+%T Disability studies as a source of critical inquiry for the field of assistive technology
+%@ 9781605588810
+%U https://doi.org/10.1145/1878803.1878807
+%R 10.1145/1878803.1878807
+%B Proceedings of the 12th international ACM SIGACCESS conference on Computers and accessibility
+%I Association for Computing Machinery
+%A Jennifer Mankoff
+%A Gillian R. Hayes
+%A Devva Kasnitz
+%D 2010
+%P 3–10
+%K assistive technology, disability studies
+%C Orlando, Florida, USA
+  
+%0 Conference Paper
+%T Living with HIV/AIDS: Exploring Vloggers’ Narratives on YouTube
+%@ 9781450363341
+%U https://doi.org/10.1145/3217804.3217937
+%R 10.1145/3217804.3217937
+%B Proceedings of the 9th International Conference on Social Media and Society
+%I Association for Computing Machinery
+%A Gagan Jindal
+%A Yuting Liao
+%D 2018
+%P 320–324
+%K misinformation, social media, YouTube, video blogging, HIV/AIDS, online social support, vlogging, stigma
+%C Copenhagen, Denmark
+  
+%0 Conference Paper
+%T Bicultural: Examining Teenage Latinas’ Perspectives on Technologies for Emotional Support
+%@ 9781450349215
+%U https://doi.org/10.1145/3078072.3079742
+%R 10.1145/3078072.3079742
+%B Proceedings of the 2017 Conference on Interaction Design and Children
+%I Association for Computing Machinery
+%A Ralph Vacca
+%D 2017
+%P 117–126
+%K social emotional health, participatory design, emotional support, biculturalism, Latina
+%C Stanford, California, USA
+  
+%0 Conference Paper
+%T Making Community: The Wider Role of Makerspaces in Public Life
+%@ 9781450333627
+%U https://doi.org/10.1145/2858036.2858073
+%R 10.1145/2858036.2858073
+%B Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Nick Taylor
+%A Ursula Hurley
+%A Philip Connolly
+%D 2016
+%P 1415–1425
+%K fablab, making, makerspace, well-being, men’s shed, community, DIY, inclusion
+%C San Jose, California, USA
+  
+%0 Conference Paper
+%T PlanSourcing: Generating Behavior Change Plans with Friends and Crowds
+%@ 9781450335928
+%U https://doi.org/10.1145/2818048.2819943
+%R 10.1145/2818048.2819943
+%B Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing
+%I Association for Computing Machinery
+%A Elena Agapie
+%A Lucas Colusso
+%A Sean A. Munson
+%A Gary Hsieh
+%D 2016
+%P 119–133
+%K Behavior change plans, friend sourcing, crowdsourcing
+%C San Francisco, California, USA
+  
+%0 Journal Article
+%T News From the Background to the Foreground: How People Use Technology To Manage Media Transitions: A Study of Technology-mediated News Behaviors in a Hyper-connected World
+%V 3
+%U https://doi.org/10.1145/3351268
+%R 10.1145/3351268
+%N 3
+%J Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+%I Association for Computing Machinery
+%A Jordan Wirfs-Brock
+%A Katie Quehl
+%D 2019
+%P Article 110
+%K media consumption, cross-device, diary study, information seeking, transmodal, multitasking, news, cross-media, passive media, cross-platform
+  
+%0 Conference Paper
+%T A Bayesian Cognition Approach to Improve Data Visualization
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300912
+%R 10.1145/3290605.3300912
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Yea-Seul Kim
+%A Logan A. Walls
+%A Peter Krafft
+%A Jessica Hullman
+%D 2019
+%P Paper 682
+%K uncertainty elicitation, bayesian cognition, visualization
+%C Glasgow, Scotland Uk
+  
+%0 Conference Paper
+%T Gamification of cognitive training: a crowdsourcing-inspired approach for older adults
+%@ 9781450341196
+%U https://doi.org/10.1145/2998626.2998663
+%R 10.1145/2998626.2998663
+%B Proceedings of the XVII International Conference on Human Computer Interaction
+%I Association for Computing Machinery
+%A Alberto Mora
+%A Carina González
+%A Joan Arnedo-Moreno
+%A Alexis Álvarez
+%D 2016
+%P Article 5
+%K crowdsourcing, health, cognitive, older adults, prevention, Gamification, personalization
+%C Salamanca, Spain
+  
+%0 Conference Paper
+%T Barriers to adoption of information technology in healthcare
+%B Proceedings of the 27th Annual International Conference on Computer Science and Software Engineering
+%I IBM Corp.
+%A Christina Christodoulakis
+%A Azin Asgarian
+%A Steve Easterbrook
+%D 2017
+%P 66–75
+%K remote patient monitoring, electronic medical records, systems thinking, Healthcare
+%C Markham, Ontario, Canada
+  
+%0 Conference Paper
+%T Combined Language and Motor Therapy for Brain Injury Patients
+%@ 9781450338981
+%U https://doi.org/10.1145/2838944.2838976
+%R 10.1145/2838944.2838976
+%B Proceedings of the 3rd 2015 Workshop on ICTs for improving Patients Rehabilitation Research Techniques
+%I Association for Computing Machinery
+%A Maitreyee Wairagkar
+%A Rachel McCrindle
+%A Holly Robson
+%A Lotte Meteyard
+%A Malcolm Sperrin
+%A Andy Smith
+%A Moyra Pugh
+%D 2015
+%P 131–134
+%K brain injury, Multidisciplinary, stroke, motor rehabilitation, Kinect, language rehabilitation, games based therapy
+%C Lisbon, Portugal
+  
+%0 Conference Paper
+%T Predicting Risk of Getting Smoking-Related Cancer: A Comparison of Three Prediction Models
+%@ 9781450353045
+%U https://doi.org/10.1145/3230905.3230950
+%R 10.1145/3230905.3230950
+%B Proceedings of the International Conference on Learning and Optimization Algorithms: Theory and Applications
+%I Association for Computing Machinery
+%A Fadratul Hafinaz Hassan
+%A Au Yong Kah Wye
+%A Sharifah Syafiqah Syed Yusof
+%A Teh Yi Xiang
+%D 2018
+%P Article 13
+%K support vector machine, linear regression, prediction model, Decision tree
+%C Rabat, Morocco
+  
+%0 Conference Paper
+%T Augmenting imagination for children with autism
+%@ 9781450310079
+%U https://doi.org/10.1145/2307096.2307159
+%R 10.1145/2307096.2307159
+%B Proceedings of the 11th International Conference on Interaction Design and Children
+%I Association for Computing Machinery
+%A Zhen Bai
+%D 2012
+%P 327–330
+%K augmented reality, autism, pretend play, social interaction
+%C Bremen, Germany
+  
+%0 Conference Paper
+%T Safe walking technology for people with dementia: what do they want?
+%@ 9781450324052
+%U https://doi.org/10.1145/2513383.2513434
+%R 10.1145/2513383.2513434
+%B Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility
+%I Association for Computing Machinery
+%A Kristine Holbø
+%A Silje Bøthun
+%A Yngve Dahl
+%D 2013
+%P Article 21
+%K assistive technology, dementia care, participatory design, human values
+%C Bellevue, Washington
+  
+%0 Conference Paper
+%T Success and failure of audience response systems in the classroom
+%@ 9781605580746
+%U https://doi.org/10.1145/1449956.1449969
+%R 10.1145/1449956.1449969
+%B Proceedings of the 36th  annual ACM SIGUCCS fall conference: moving mountains, blazing trails
+%I Association for Computing Machinery
+%A Trevor Murphy
+%D 2008
+%P 33–38
+%K classroom, PRS, audience response system, educational technology, personal response system, clickers, turning technologies, TurningPoint, PowerPoint
+%C Portland, OR, USA
+  
+%0 Conference Paper
+%T Restructuring Human Infrastructure: The Impact of EHR Deployment in a Volunteer-Dependent Clinic
+%@ 9781450329224
+%U https://doi.org/10.1145/2675133.2675277
+%R 10.1145/2675133.2675277
+%B Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing
+%I Association for Computing Machinery
+%A Charlotte Tang
+%A Yunan Chen
+%A Bryan C. Semaan
+%A Jahmeilah A. Roberson
+%D 2015
+%P 649–661
+%K electronic health record, volunteer coordination, volunteer-dependent work practices, free clinic, human infrastructure, technology deployment
+%C Vancouver, BC, Canada
+  
+%0 Conference Paper
+%T Discerning Occupant Psychosocial Behaviour in Smart Built Environment and its Design
+%@ 9781450370141
+%U https://doi.org/10.1145/3363459.3363534
+%R 10.1145/3363459.3363534
+%B Proceedings of the 1st ACM International Workshop on Urban Building Energy Sensing, Controls, Big Data Analysis, and Visualization
+%I Association for Computing Machinery
+%A Tarun Kumar
+%A Monto Mani
+%D 2019
+%P 69–76
+%K Design, Smart Built Environment, Psychosocial behaviour
+%C New York, NY, USA
+  
+%0 Conference Paper
+%T CivilServant: Community-Led Experiments in Platform Governance
+%@ 9781450356206
+%U https://doi.org/10.1145/3173574.3173583
+%R 10.1145/3173574.3173583
+%B Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A J. Nathan Matias
+%A Merry Mou
+%D 2018
+%P Paper 9
+%K action research, ethics, moderation, randomized trials, governance, policy evaluation, platforms, field experiments
+%C Montreal QC, Canada
+  
+%0 Conference Paper
+%T “Is it Weird to Still Be a Virgin”: Anonymous, Locally Targeted Questions on Facebook Confession Boards
+%@ 9781450331456
+%U https://doi.org/10.1145/2702123.2702410
+%R 10.1145/2702123.2702410
+%B Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Jeremy Birnholtz
+%A Nicholas Aaron Ross Merola
+%A Arindam Paul
+%D 2015
+%P 2613–2622
+%K social support, facebook, anonymity, identity
+%C Seoul, Republic of Korea
+  
+%0 Journal Article
+%T It’s Not Just About the Product: How Persuasive Communication Affects the Disclosure of Personal Health Information
+%V 51
+%@ 0095-0033
+%U https://doi.org/10.1145/3380799.3380804
+%R 10.1145/3380799.3380804
+%N 1
+%J SIGMIS Database
+%I Association for Computing Machinery
+%A Moritz Becker
+%A Christian Matt
+%A Thomas Hess
+%D 2020
+%P 37–50
+%K data disclosure, health wearables (hw)., argument strength, personal health information (phi), attribute framing, persuasive messages
+  
+%0 Journal Article
+%T Measuring Interaction Proxemics with Wearable Light Tags
+%V 2
+%U https://doi.org/10.1145/3191757
+%R 10.1145/3191757
+%N 1
+%J Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+%I Association for Computing Machinery
+%A Alessandro Montanari
+%A Zhao Tian
+%A Elena Francu
+%A Benjamin Lucas
+%A Brian Jones
+%A Xia Zhou
+%A Cecilia Mascolo
+%D 2018
+%P Article 25
+%K light sensing, non-verbal behaviors, Face-to-face interactions
+  
+%0 Conference Paper
+%T A medical garbage bin recycling system based on AGV
+%@ 9781450372985
+%U https://doi.org/10.1145/3366194.3366232
+%R 10.1145/3366194.3366232
+%B Proceedings of the 2019 International Conference on Robotics, Intelligent Control and Artificial Intelligence
+%I Association for Computing Machinery
+%A Tao Sun
+%A Zhe Wang
+%A Qinghua Li
+%D 2019
+%P 220–225
+%K Medical garbage bin, AGV, Four-axis robot, Machine vision, Navigation
+%C Shanghai, China
+  
+%0 Conference Paper
+%T “Just because it’s gay?”: transgressive design in queer coming of age visual novels
+%@ 9781450365710
+%U https://doi.org/10.1145/3235765.3235778
+%R 10.1145/3235765.3235778
+%B Proceedings of the 13th International Conference on the Foundations of Digital Games
+%I Association for Computing Machinery
+%A Anastasia Salter
+%A Bridget Blodgett
+%A Anne Sullivan
+%D 2018
+%P Article 22
+%K transgressive play, queer games, game romances, visual novels, walking simulators
+%C Malmö, Sweden
+  
+%0 Journal Article
+%T Social Media Ethics: A Rawlsian Approach to Hypertargeting and Psychometrics in Political and Commercial Campaigns
+%V 1
+%@ 2469-7818
+%U https://doi.org/10.1145/3281450
+%R 10.1145/3281450
+%N 4
+%J Trans. Soc. Comput.
+%I Association for Computing Machinery
+%A Morten Bay
+%D 2018
+%P Article 16
+%K ethics, Social media, psychometrics, data collection, targeting
+  
+%0 Journal Article
+%T Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors
+%V 3
+%U https://doi.org/10.1145/3369817
+%R 10.1145/3369817
+%N 4
+%J Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+%I Association for Computing Machinery
+%A Yoojung Kim
+%A Hee-Tae Jung
+%A Joonwoo Park
+%A Yangsoo Kim
+%A Nathan Ramasarma
+%A Paolo Bonato
+%A Eun Kyoung Choe
+%A Sunghoon Ivan Lee
+%D 2019
+%P Article 138
+%K hemiparesis, stroke rehabilitation, Ring accelerometers, stroke survivor, upper limb, mixed-methods study, finger-worn accelerometers, self-monitoring
+  
+%0 Conference Paper
+%T Cross-cultural perspectives on eHealth privacy in Africa
+%@ 9781450365581
+%U https://doi.org/10.1145/3283458.3283472
+%R 10.1145/3283458.3283472
+%B Proceedings of the Second African Conference for Human Computer Interaction: Thriving Communities
+%I Association for Computing Machinery
+%A Moses Namara
+%A Daricia Wilkinson
+%A Byron M. Lowens
+%A Bart P. Knijnenburg
+%A Rita Orji
+%A Remy L. Sekou
+%D 2018
+%P Article 7
+%K Africa, cross-cultural privacy, eHealth, privacy
+%C Windhoek, Namibia
+  
+%0 Conference Paper
+%T SayWAT: Augmenting Face-to-Face Conversations for Adults with Autism
+%@ 9781450333627
+%U https://doi.org/10.1145/2858036.2858215
+%R 10.1145/2858036.2858215
+%B Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A LouAnne E. Boyd
+%A Alejandro Rangel
+%A Helen Tomimbang
+%A Andrea Conejo-Toledo
+%A Kanika Patel
+%A Monica Tentori
+%A Gillian R. Hayes
+%D 2016
+%P 4872–4883
+%K autism, assistive technology, communication, social skills, wearable computing, prosody
+%C San Jose, California, USA
+  
+%0 Conference Paper
+%T Research and Analysis of the Achievements of Philosophy in Yunnan Universities Based on Bibliometrics
+%@ 9781450372053
+%U https://doi.org/10.1145/3352740.3352751
+%R 10.1145/3352740.3352751
+%B Proceedings of the 2019 3rd International Workshop on Education, Big Data and Information Technology
+%I Association for Computing Machinery
+%A Du Xiang
+%A Zhang Guofei
+%A Li Qiong
+%D 2019
+%P 60–65
+%K Citespace V, Knowledge mapping, Scientometrics, Bibliometrics, Philosophy
+%C Guilin, China
+  
+%0 Conference Paper
+%T Ehealth smart application of WSN on WWAN
+%@ 9781450366458
+%U https://doi.org/10.1145/3320326.3320358
+%R 10.1145/3320326.3320358
+%B Proceedings of the 2nd International Conference on Networking, Information Systems & Security
+%I Association for Computing Machinery
+%A Hamza Zemrane
+%A Youssef Baddi
+%A Abderrahim Hasbi
+%D 2019a
+%P Article 26
+%K Wireless Wide Area Networks (WWAN), Low Power Wide Area Network (LPWAN), Wireless Sensor Network (WSN), Cellular Networks, Ehealth
+%C Rabat, Morocco
+  
+%0 Journal Article
+%T Social Support, Reciprocity, and Anonymity in Responses to Sexual Abuse Disclosures on Social Media
+%V 25
+%@ 1073-0516
+%U https://doi.org/10.1145/3234942
+%R 10.1145/3234942
+%N 5
+%J ACM Trans. Comput.-Hum. Interact.
+%I Association for Computing Machinery
+%A Nazanin Andalibi
+%A Oliver L. Haimson
+%A Munmun De Choudhury
+%A Andrea Forte
+%D 2018
+%P Article 28
+%K throwaway, anonymity, reciprocity, social support, wellbeing, self-disclosure, support provision, Reddit, stigma, social media, sexual abuse, reciprocal self-disclosure, Identity
+  
+%0 Conference Paper
+%T A Warm Welcome Matters! The Link Between Social Feedback and Weight Loss in /r/loseit
+%@ 9781450349147
+%U https://doi.org/10.1145/3041021.3055131
+%R 10.1145/3041021.3055131
+%B Proceedings of the 26th International Conference on World Wide Web Companion
+%I International World Wide Web Conferences Steering Committee
+%A Tiago Cunha
+%A Ingmar Weber
+%A Gisele Pappa
+%D 2017
+%P 1063–1072
+%K causal inference, mediation analysis, reddit, obesity
+%C Perth, Australia
+  
+%0 Conference Paper
+%T KARE: a hybrid reasoning approach for promoting active lifestyle
+%@ 9781450333771
+%U https://doi.org/10.1145/2701126.2701156
+%R 10.1145/2701126.2701156
+%B Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication
+%I Association for Computing Machinery
+%A Rahman Ali
+%A Muhammad Hameed Siddiqi
+%A Byeong Ho Kang
+%A Sungyoung Lee
+%D 2015
+%P Article 72
+%K active lifestyle, recommendations, KARE, hybrid reasoning, healthcare, reasoning, learning
+%C Bali, Indonesia
+  
+%0 Conference Paper
+%T Improve IoT ehealth ecosystem with SDN
+%@ 9781450362894
+%U https://doi.org/10.1145/3368756.3368981
+%R 10.1145/3368756.3368981
+%B Proceedings of the 4th International Conference on Smart City Applications
+%I Association for Computing Machinery
+%A Hamza Zemrane
+%A Youssef Baddi
+%A Abderrahim Hasbi
+%D 2019b
+%P Article 15
+%K eheatlh ecosystem, internet of thing (IoT), wireless sensor network (WSN), software define network (SDN), virtualization
+%C Casablanca, Morocco
+  
+%0 Conference Paper
+%T The new era of AI will revolutionize our wellness
+%@ 9781450352857
+%U https://doi.org/10.1145/3136273.3136622
+%R 10.1145/3136273.3136622
+%B Proceedings of the 8th Balkan Conference in Informatics
+%I Association for Computing Machinery
+%A Guruduth Banavar
+%A Reza Basseda
+%A Matteo Rinaldi
+%D 2017
+%P Article 2
+%K Screencasts, Logic Programming, Learning Technologies
+%C Skopje, Macedonia
+  
+%0 Journal Article
+%T Crossmod: A Cross-Community Learning-based System to Assist Reddit Moderators
+%V 3
+%U https://doi.org/10.1145/3359276
+%R 10.1145/3359276
+%N CSCW
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Eshwar Chandrasekharan
+%A Chaitrali Gandhi
+%A Matthew Wortley Mustelier
+%A Eric Gilbert
+%D 2019
+%P Article 174
+%K sociotechnical systems, mixed initiative, online governance, open source., ai, moderation, participatory design, machine learning, community norms, online communities
+  
+%0 Conference Paper
+%T Plant-based Games for Anxiety Reduction
+%@ 9781450344562
+%U https://doi.org/10.1145/2967934.2968094
+%R 10.1145/2967934.2968094
+%B Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play
+%I Association for Computing Machinery
+%A Taiwoo Park
+%A Tianyu Hu
+%A Jina Huh
+%D 2016
+%P 199–204
+%K anxiety reduction, experimental game, human-plant interaction, user interface design
+%C Austin, Texas, USA
+  
+%0 Conference Paper
+%T Collaborative beamforming and dirty paper coding assisted transmission strategy for e-health wireless sensor networks
+%@ 9781605585697
+%U https://doi.org/10.1145/1582379.1582616
+%R 10.1145/1582379.1582616
+%B Proceedings of the 2009 International Conference on Wireless Communications and Mobile Computing: Connecting the World Wirelessly
+%I Association for Computing Machinery
+%A Feng Han
+%A Ying Chang
+%A Pingyi Fan
+%A Athanasios V. Vasilakos
+%D 2009
+%P 1080–1084
+%K E-health, collaborative beamforming, dirty paper coding, wireless sensor network
+%C Leipzig, Germany
+  
+%0 Conference Paper
+%T Volunteer Moderators in Twitch Micro Communities: How They Get Involved, the Roles They Play, and the Emotional Labor They Experience
+%@ 9781450359702
+%U https://doi.org/10.1145/3290605.3300390
+%R 10.1145/3290605.3300390
+%B Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Donghee Yvette Wohn
+%D 2019
+%P Paper 160
+%K moderation, qualitative, online community, twitch, live streaming, online harassment
+%C Glasgow, Scotland Uk
+  
+%0 Conference Paper
+%T HIIT The Road: Using Virtual Spectator Feedback in HIIT-based Exergaming
+%@ 9781450366038
+%U https://doi.org/10.1145/3290688.3290752
+%R 10.1145/3290688.3290752
+%B Proceedings of the Australasian Computer Science Week Multiconference
+%I Association for Computing Machinery
+%A Joshua C. Haller
+%A Young H. Jang
+%A Jack Haller
+%A Lindsay Shaw
+%A Burkhard C. Wünsche
+%D 2019
+%P Article 47
+%K Exergaming, motivation, computer games, HIIT training, virtual crowds, aural feedback
+%C Sydney, NSW, Australia
+  
+%0 Journal Article
+%T Integration of Multisensorial Stimuli and Multimodal Interaction in a Hybrid 3DTV System
+%V 11
+%@ 1551-6857
+%U https://doi.org/10.1145/2617992
+%R 10.1145/2617992
+%N 1s
+%J ACM Trans. Multimedia Comput. Commun. Appl.
+%I Association for Computing Machinery
+%A Francisco Pedro Luque
+%A Iris Galloso
+%A Claudio Feijoo
+%A Carlos Alberto Martín
+%A Guillermo Cisneros
+%D 2014
+%P Article 16
+%K immersive media, interactive media, second screen, Multimedia information systems, sensory effects, binaural audio, multisensorial multimodal media, interactive 3D objects integrated into the video scene, hybrid-based 3DTV, quality of experience
+  
+%0 Conference Paper
+%T On the viability of pro-active automated PII breach detection: A South African case study
+%@ 9781450332460
+%U https://doi.org/10.1145/2664591.2664600
+%R 10.1145/2664591.2664600
+%B Proceedings of the Southern African Institute for Computer Scientist and Information Technologists Annual Conference 2014 on SAICSIT 2014 Empowered by Technology
+%I Association for Computing Machinery
+%A Ignus Swart
+%A Barry Irwin
+%A Marthie Grobler
+%D 2014
+%P 251–259
+%K Automation, Detection, Personally identifiable information, Pro-active security
+%C Centurion, South Africa
+  
+%0 Conference Paper
+%T A novel knee rehabilitation system for the home
+%@ 9781450324731
+%U https://doi.org/10.1145/2556288.2557353
+%R 10.1145/2556288.2557353
+%B Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Mobolaji Ayoade
+%A Lynne Baillie
+%D 2014
+%P 2521–2530
+%K user design, visualizations, inertial sensors, usability, home knee rehabilitation
+%C Toronto, Ontario, Canada
+  
+%0 Conference Paper
+%T “Put yourself in the picture”: designing for futures with young adults with intellectual disability
+%@ 9781450346184
+%U https://doi.org/10.1145/3010915.3010924
+%R 10.1145/3010915.3010924
+%B Proceedings of the 28th Australian Conference on Computer-Human Interaction
+%I Association for Computing Machinery
+%A Cara Wilson
+%A Laurianne Sitbon
+%A Margot Brereton
+%A Daniel Johnson
+%A Stewart Koplick
+%D 2016
+%P 271–281
+%K intellectual disability, person-centred planning, young adults, communication, assistive technology, participatory design, mobile apps
+%C Launceston, Tasmania, Australia
+  
+%0 Conference Paper
+%T Design considerations for family-centered health management: preliminary findings with pediatric BMT patients
+%@ 9781450351522
+%U https://doi.org/10.1145/3202185.3210781
+%R 10.1145/3202185.3210781
+%B Proceedings of the 17th ACM Conference on Interaction Design and Children
+%I Association for Computing Machinery
+%A Ji Youn Shin
+%A Jacob Kedroske
+%A Rebecca Vue
+%A Roshun Sankaran
+%A Dima Chaar
+%A Tracey Churay
+%A Sung Won Choi
+%D 2018
+%P 593–598
+%K health information technology (HIT), patient-centered care, pediatric BMT, interaction design
+%C Trondheim, Norway
+  
+%0 Conference Paper
+%T Homeless young people on social network sites
+%@ 9781450310154
+%U https://doi.org/10.1145/2207676.2208686
+%R 10.1145/2207676.2208686
+%B Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Jill Palzkill Woelfer
+%A David G. Hendry
+%D 2012
+%P 2825–2834
+%K homeless young people, myspace, facebook, vulnerability, social and technical design, social network sites
+%C Austin, Texas, USA
+  
+%0 Conference Paper
+%T “It just seems outside my health”: How Patients with Chronic Conditions Perceive Communication Boundaries with Providers
+%@ 9781450340311
+%U https://doi.org/10.1145/2901790.2901866
+%R 10.1145/2901790.2901866
+%B Proceedings of the 2016 ACM Conference on Designing Interactive Systems
+%I Association for Computing Machinery
+%A Catherine Lim
+%A Andrew B.L. Berry
+%A Tad Hirsch
+%A Andrea L. Hartzler
+%A Edward H. Wagner
+%A Evette Ludman
+%A James D. Ralston
+%D 2016
+%P 1172–1184
+%K chronic illness, patient-provider communication, patient self-disclosure
+%C Brisbane, QLD, Australia
+  
+%0 Conference Paper
+%T Making smart IT choices: a bridge between theory and practice
+%@ 9781605586632
+%U https://doi.org/10.1145/1693042.1693077
+%R 10.1145/1693042.1693077
+%B Proceedings of the 3rd international conference on Theory and practice of electronic governance
+%I Association for Computing Machinery
+%A Santiago Guerrero
+%D 2009
+%P 171–175
+%K success factors, information technology, smart IT, case study
+%C Bogota, Colombia
+  
+%0 Conference Paper
+%T Algorithmic realism: expanding the boundaries of algorithmic thought
+%@ 9781450369367
+%U https://doi.org/10.1145/3351095.3372840
+%R 10.1145/3351095.3372840
+%B Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency
+%I Association for Computing Machinery
+%A Ben Green
+%A Salomé Viljoen
+%D 2020
+%P 19–31
+%K critical algorithm studies, algorithms, law, STS, epistemology
+%C Barcelona, Spain
+  
+%0 Conference Paper
+%T Situated Anonymity: Impacts of Anonymity, Ephemerality, and Hyper-Locality on Social Media
+%@ 9781450346559
+%U https://doi.org/10.1145/3025453.3025682
+%R 10.1145/3025453.3025682
+%B Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Ari Schlesinger
+%A Eshwar Chandrasekharan
+%A Christina A. Masden
+%A Amy S. Bruckman
+%A W. Keith Edwards
+%A Rebecca E. Grinter
+%D 2017
+%P 6912–6924
+%K ephemerality, transitory use, online communities, anonymity, community identity, hyper-locality, commitment
+%C Denver, Colorado, USA
+  
+%0 Journal Article
+%T The uncap experience in developing ICT for health: “HTA by design”
+%V 7
+%@ 2331-9291
+%U https://doi.org/10.1145/3183624.3183625
+%R 10.1145/3183624.3183625
+%N 3
+%J ACM SIGBioinformatics Rec.
+%I Association for Computing Machinery
+%A S. Anzivino
+%A F. Tessarolo
+%A E. Morganti
+%A G. Conti
+%A G. Nollo
+%D 2018
+%P Article 1
+  
+%0 Journal Article
+%T The Coerciveness of the Primary Key: Infrastructure Problems in Human Services Work
+%V 3
+%U https://doi.org/10.1145/3359153
+%R 10.1145/3359153
+%N CSCW
+%J Proc. ACM Hum.-Comput. Interact.
+%I Association for Computing Machinery
+%A Chris Bopp
+%A Lehn M. Benjamin
+%A Amy Voida
+%D 2019
+%P Article 51
+%K nonprofit sector, identifier, interjected abstraction, human services organization, primary key, infrastructure
+  
