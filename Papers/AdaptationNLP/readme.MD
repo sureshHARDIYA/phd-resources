@@ -1,6 +1,6 @@
 We provide a list of supplement resources for the paper entitled `Adaptation of IDPT system based onpatient-authored text data using NLP*`. Please download the PDF file named `supplement.pdf` in the same folder.
 
-# [Download the file from here!](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/AdaptationNLP/supplement.pdf)
+#### [Download the file from here!](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/AdaptationNLP/supplement.pdf)
 
 ## Authors
 
@@ -16,3 +16,7 @@ We provide a list of supplement resources for the paper entitled `Adaptation of 
 }
 
 ```
+
+## Request resources
+
+As the part of the paper, we created `depression2Vec` word embeddings and validated our results using human annotated data. Interested readers can request both the annotated results and the embeddings by sending an email to <skmu@hvl.no>.
