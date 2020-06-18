@@ -53,7 +53,7 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 - [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
 - [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
-- [How does GraphQL GraphQL does query parsing and validation?](- [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
+- [How does GraphQL GraphQL does query parsing and validation?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 
 # Open-source Codebase and API
 
