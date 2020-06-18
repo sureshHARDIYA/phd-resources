@@ -55,12 +55,9 @@ Here are the lists of presentations given in different courses and during my `Ph
 - [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 - [How does GraphQL GraphQL does query parsing and validation?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 
-# Open-source Codebase and API
-
-- `API Endpoint` [HL7 FHIR standard self-assessment questionnaire.](https://mhof.ml/)
-
 # Blogs and News
 
+- [What is information architecture](https://skmukhiya.netlify.com/theory-about-information-architecture)
 - [What mental health issues INTROMAT is dealing with?](https://www.skmukhiya.com.np/what-are-the-mental-health-conditions-we-are-referring-here/)
 - [Facts about Depression](https://www.skmukhiya.com.np/depression/)
 - [Correlation between Sleep and mental health problems](https://www.skmukhiya.com.np/correlation-between-sleep-and-mental-health-problems/)
