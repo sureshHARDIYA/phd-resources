@@ -21,6 +21,7 @@ Here are the lists of presentations given in different courses and during my `Ph
 - `PDF`https://skmukhiya.netlify.com/ethical-aspects-of-my-project.md/
 
 # Presentations
+
 - `PDF`: [How can we model adaptive Internet Delivered psychological Treatment system](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/Solstrand%20), 13<sup>th</sup> Jan, 2020. [Solstrand Hotel & Bad](https://solstrand.com/no)
 - `PDF`: [A GraphQL approach to Healthcare Information Exchange with HL7 FHIR](https://github.com/sureshHARDIYA/phd-resources/blob/master/presentations/ICTH%202019/ICTH_2019_Conference.pdf), 5<sup>th</sup> November, 2019. INSTITUTE PEDRO NUNES (IPN), [R. Pedro Nunes 3030-199 Coimbra](https://www.ipn.pt/), Portugal.
 - `PDF`: [Composing HL7 FHIR Resource Server](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/HelseVestIKT), 24<sup>th</sup> June, 2019. At Helse Vest IKT, Ibsensgate 104
@@ -29,18 +30,20 @@ Here are the lists of presentations given in different courses and during my `Ph
 - `keynote`: [Personalized Treatment of mental Health problems using Adaptive Technology](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/SanFrancisco), 8<sup>th</sup> March, 2019. 148 Townsend Street, San Francisco
 
 # Papers
+
+- [`Journal`] S. K. Mukhiya, J. D. Wake, Y. Inal and Y. Lamo, "Adaptive Systems for Internet-Delivered Psychological Treatments," in IEEE Access, doi: 10.1109/ACCESS.2020.3002793.
+
 - [`Conference`] Usman Ahmed, Jerry Chun-Wei Lin, Youcef Djenouri, Gautam Srivastava, and Suresh Kumar Mukhiya, Mining of the Non-dominated High Expected Utility Patterns from Uncertain Databases, 2020, Accepted in [IEA/AIE 2020](https://jsasaki3.wixsite.com/ieaaie2020)
 
 - [`Book Chapter`] Nordberg O.E. et al. (2020) [Designing Chatbots for Guiding Online Peer Support Conversations for Adults with ADHD. In: Følstad A. et al. (eds) Chatbot Research and Design. CONVERSATIONS 2019. Lecture Notes in Computer Science, vol 11970. Springer, Cham](https://link.springer.com/chapter/10.1007/978-3-030-39540-7_8)
 
-- [`Conference`]  Oda E. Nordberg, Suresh Kumar Mukhiya, Frode Guribye, Eivind Flobak, Robin Kenter, Daniel A. Jensen, Astri Lundervold, Tine Nordgreen . The design of a chatbot for guiding peer support chats between adults with ADHD , May 14, 2019 (https://www.norsrii.no/)
+- [`Conference`] Oda E. Nordberg, Suresh Kumar Mukhiya, Frode Guribye, Eivind Flobak, Robin Kenter, Daniel A. Jensen, Astri Lundervold, Tine Nordgreen . The design of a chatbot for guiding peer support chats between adults with ADHD , May 14, 2019 (https://www.norsrii.no/)
 
 - [`Conference`] Suresh Kumar Mukhiya, Fazle Rabbi, Violet Ka I Pun, Adrian Rutle, Yngve Lamo, A GraphQL approach to Healthcare Information Exchange with HL7 FHIR, Procedia Computer Science, Volume 160, 2019, Pages 338-345, ISSN 1877-0509, https://doi.org/10.1016/j.procs.2019.11.082. (http://www.sciencedirect.com/science/article/pii/S187705091931782X)
 
 - [`Workshop`] Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, and Yngve Lamo. 2019. An architectural design for self-reporting e-health systems. In Proceedings of the 1st International Workshop on Software Engineering for Healthcare (SEH ’19). IEEE Press, 1–8. DOI: https://doi.org/10.1109/SEH.2019.00008
 
 - [`Journal Paper`] Mukhiya, Suresh Kumar, & Hoang Hung, K. (2018). [An Architectural Style for Single Page Scalable Modern Web Application, 5(4), 6–13](https://www.ijrra.net/Vol5issue4/IJRRA-05-04-02.pdf), International Journal of Recent Research Aspects ISSN: 2349-7688, Vol. 5
-
 
 # Posters
 
@@ -51,7 +54,6 @@ Here are the lists of presentations given in different courses and during my `Ph
 - [Getting Started With Python](https://medium.com/@dr_code_skm/getting-started-with-machine-learning-with-python-part-1-83450a4a6b48)
 - [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
 - [How does GraphQL GraphQL does query parsing and validation?](- [How does GraphQL work?](https://skmukhiya.netlify.com/how-does-graphql-work/)
-
 
 # Open-source Codebase and API
 
