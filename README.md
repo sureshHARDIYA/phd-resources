@@ -31,6 +31,8 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 # Papers
 
+- [`Conference`] Suresh Kumar Mukhiya, Usman Ahmed, Fazle Rabbi, Ka I Pun, & Yngve Lamo. [Adaptation of IDPT System Based on Patient-Authored Text Data Using NLP.](https://easychair-www.easychair.org/publications/preprint/fRkW)
+
 - [`Journal`] S. K. Mukhiya, J. D. Wake, Y. Inal and Y. Lamo, "Adaptive Systems for Internet-Delivered Psychological Treatments," in IEEE Access, doi: 10.1109/ACCESS.2020.3002793.
 
 - [`Conference`] Usman Ahmed, Jerry Chun-Wei Lin, Youcef Djenouri, Gautam Srivastava, and Suresh Kumar Mukhiya, Mining of the Non-dominated High Expected Utility Patterns from Uncertain Databases, 2020, Accepted in [IEA/AIE 2020](https://jsasaki3.wixsite.com/ieaaie2020)
