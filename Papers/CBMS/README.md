@@ -15,7 +15,7 @@ Background: Internet-Delivered Psychological Treatment (IDPT) systems have the p
 <p align="center">
  <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9169740/9182790/9183294/942900a226-fig-1-source-large.gif" alt="Overall architecture of the process" />
 
- <em style="font-size: 8px; text-style: italics;">A workflow architecture for estimating PHQ-9 symptoms from the patient-authored texts. Method 1: universal sentence encoder, method 2: wordnet, method 3: glove, and method 4: depression2vec. We first get the embeddings for both PHQ-9 questionnaire and patient-authored text, and then we use cosine similarity to compute the similarity between each symptom.</em>
+ <sup style="font-style: italics;">A workflow architecture for estimating PHQ-9 symptoms from the patient-authored texts. Method 1: universal sentence encoder, method 2: wordnet, method 3: glove, and method 4: depression2vec. We first get the embeddings for both PHQ-9 questionnaire and patient-authored text, and then we use cosine similarity to compute the similarity between each symptom.</sup>
 </p>
 
 # Keywords
