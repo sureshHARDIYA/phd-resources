@@ -10,12 +10,11 @@
 
 # Adaptation of IDPT System Based on Patient-Authored Text Data Using NLP
 
-```
 Background: Internet-Delivered Psychological Treatment (IDPT) systems have the potential to provide evidence-based mental health treatments for a far-reaching population at a lower cost. However, most of the current IDPT systems follow a tunnel-based treatment process and do not adapt to the needs of different patients'. In this paper, we explore the possibility of applying Natural Language Processing (NLP) for personalizing mental health interventions. Objective: The primary objective of this study is to present an adaptive strategy based on NLP techniques that analyses patient-authored text data and extract depression symptoms based on a clinically established assessment questionnaire, PHQ-9. Method: We propose a novel word-embedding (Depression2Vec) to extract depression symptoms from patient authored text data and compare it with three state-of-the-art NLP techniques. We also present an adaptive IDPT system that personalizes treatments for mental health patients based on the proposed depression symptoms detection technique. Result: Our results indicate that the performance of proposed embedding Depression2Vec is comparable to WordNet, but in some cases, the former outperforms the latter with respect to extracting depression symptoms from the patient-authored text. Conclusion: Although the extraction of symptoms from text is challenging, our proposed method can effectively extract depression symptoms from text data, which can be used to deliver personalized intervention.
-```
-<center>
+
+<p style="text-align: center;">
 <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9169740/9182790/9183294/942900a226-fig-1-source-large.gif" alt="Overall architecture of the process" />
-</center>
+</p>
 
 # Keywords
 
