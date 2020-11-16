@@ -13,7 +13,7 @@ Adaptive Elements in Internet-Delivered Psychological Treatments Systems: System
 
 # Authors
 
-Suresh Kumar Mukhiya; Jo Dugstad Wake; Yavuz Inal; Ka I Pun; Yngve Lamo
+[Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA/); Jo Dugstad Wake; Yavuz Inal; Ka I Pun; Yngve Lamo
 
 # Metadata analysis
 
