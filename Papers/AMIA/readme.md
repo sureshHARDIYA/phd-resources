@@ -1,4 +1,4 @@
-# Supplement resources for AMIA paper.
+# Supplement resources for SAGE paper.
 
 ```
 An HL7 FHIR and GraphQL approach for interoperability between heterogeneous Electronic Health Record systems
