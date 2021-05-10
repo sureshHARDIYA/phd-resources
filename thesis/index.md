@@ -1,6 +1,6 @@
+# Outline
  - [Thesis Metadata](#metadata)
- - [Errata](http://github.com/sureshHARDIYA/phd-resources/thesis/errata)
+ - [Errata](https://github.com/sureshHARDIYA/phd-resources/blob/master/thesis/errata.md)
 
-
-
- # Thesis metadata
+# Thesis metadata
+Coming soon ....
