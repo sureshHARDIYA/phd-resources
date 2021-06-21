@@ -32,6 +32,14 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 # Papers
 
+- [`Journal`] Ahmed, U., Kumar Mukhiya, S., Lin, J. C.-W., Srivastava, G., & Lamo, Y. (2021). Attention-based Deep Entropy Active Learning using Lexical Algorithm for Mental Health Treatment. Frontiers in Psychology, 12, 471. [https://doi.org/10.3389/FPSYG.2021.642347](https://doi.org/10.3389/FPSYG.2021.642347).
+
+- [`Book chapter`] S. Mukhiya, A. Aminifar, F. Rabbi, V. Pun, and Y. Lamo. [Artificial Intelligence in Mental Health](https://benthambooks.com/book/9781681088266/). Bentham Science Publishers LTD., pages 13–34, 2021.
+
+- [`Journal`] Mukhiya SK, Wake JD, Inal Y, Pun KI, Lamo Yngve, Adaptive Elements in Internet-Delivered Psychological Treatment Systems: Systematic Review, JMIR, [doi: https://doi.org/10.2196/21066](https://www.jmir.org/2020/11/e21066).
+
+- [`Conference`] Ahmed U., Lin J.CW., Wu J.MT., Djenouri Y., Srivastava G., Mukhiya S.K. (2020) Efficient Mining of Pareto-Front High Expected Utility Patterns. In: Fujita H., Fournier-Viger P., Ali M., Sasaki J. (eds) Trends in Artificial Intelligence Theory and Applications. Artificial Intelligence Practices. IEA/AIE 2020. Lecture Notes in Computer Science, vol 12144. Springer, Cham. https://doi.org/10.1007/978-3-030-55789-8_74
+
 - [`Conference`] Suresh Kumar Mukhiya, Usman Ahmed, Fazle Rabbi, Ka I Pun, & Yngve Lamo. [Adaptation of IDPT System Based on Patient-Authored Text Data Using NLP.](https://easychair-www.easychair.org/publications/preprint/fRkW)
 
 - [`Journal`] S. K. Mukhiya, J. D. Wake, Y. Inal and Y. Lamo, "Adaptive Systems for Internet-Delivered Psychological Treatments," in IEEE Access, doi: 10.1109/ACCESS.2020.3002793.
