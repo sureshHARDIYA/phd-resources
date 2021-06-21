@@ -18,3 +18,7 @@ Heterogeneities in data representation and care processes create complexity in i
 # Communication between `FHIR patient app`, `HL7 FHIR Resource` server
 
 <img src="comm.png" alt="communication" />
+
+# Experiments
+
+Read the experiment [process and results presented in the paper here.]()
