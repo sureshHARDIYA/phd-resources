@@ -38,11 +38,11 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 - [`Journal`] Mukhiya SK, Wake JD, Inal Y, Pun KI, Lamo Yngve, Adaptive Elements in Internet-Delivered Psychological Treatment Systems: Systematic Review, JMIR, [doi: https://doi.org/10.2196/21066](https://www.jmir.org/2020/11/e21066).
 
-- [`Conference`] Ahmed U., Lin J.CW., Wu J.MT., Djenouri Y., Srivastava G., Mukhiya S.K. (2020) Efficient Mining of Pareto-Front High Expected Utility Patterns. In: Fujita H., Fournier-Viger P., Ali M., Sasaki J. (eds) Trends in Artificial Intelligence Theory and Applications. Artificial Intelligence Practices. IEA/AIE 2020. Lecture Notes in Computer Science, vol 12144. Springer, Cham. https://doi.org/10.1007/978-3-030-55789-8_74
+- [`Conference`] Ahmed U., Lin J.CW., Wu J.MT., Djenouri Y., Srivastava G., Mukhiya S.K. (2020) [Efficient Mining of Pareto-Front High Expected Utility Patterns. In: Fujita H., Fournier-Viger P., Ali M., Sasaki J. (eds) Trends in Artificial Intelligence Theory and Applications](https://doi.org/10.1007/978-3-030-55789-8_74). Artificial Intelligence Practices. IEA/AIE 2020. Lecture Notes in Computer Science, vol 12144. Springer, Cham. https://doi.org/10.1007/978-3-030-55789-8_74
 
 - [`Conference`] Suresh Kumar Mukhiya, Usman Ahmed, Fazle Rabbi, Ka I Pun, & Yngve Lamo. [Adaptation of IDPT System Based on Patient-Authored Text Data Using NLP.](https://easychair-www.easychair.org/publications/preprint/fRkW)
 
-- [`Journal`] S. K. Mukhiya, J. D. Wake, Y. Inal and Y. Lamo, "Adaptive Systems for Internet-Delivered Psychological Treatments," in IEEE Access, doi: 10.1109/ACCESS.2020.3002793.
+- [`Journal`] S. K. Mukhiya, J. D. Wake, Y. Inal and Y. Lamo, "[Adaptive Systems for Internet-Delivered Psychological Treatments](https://ieeexplore.ieee.org/abstract/document/9118898)," in IEEE Access, doi: 10.1109/ACCESS.2020.3002793.
 
 - [`Conference`] Usman Ahmed, Jerry Chun-Wei Lin, Youcef Djenouri, Gautam Srivastava, and Suresh Kumar Mukhiya, Mining of the Non-dominated High Expected Utility Patterns from Uncertain Databases, 2020, Accepted in [IEA/AIE 2020](https://jsasaki3.wixsite.com/ieaaie2020)
 
@@ -52,7 +52,7 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 - [`Conference`] Suresh Kumar Mukhiya, Fazle Rabbi, Violet Ka I Pun, Adrian Rutle, Yngve Lamo, A GraphQL approach to Healthcare Information Exchange with HL7 FHIR, Procedia Computer Science, Volume 160, 2019, Pages 338-345, ISSN 1877-0509, https://doi.org/10.1016/j.procs.2019.11.082. (http://www.sciencedirect.com/science/article/pii/S187705091931782X)
 
-- [`Workshop`] Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, and Yngve Lamo. 2019. An architectural design for self-reporting e-health systems. In Proceedings of the 1st International Workshop on Software Engineering for Healthcare (SEH ’19). IEEE Press, 1–8. DOI: https://doi.org/10.1109/SEH.2019.00008
+- [`Workshop`] Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, and Yngve Lamo. 2019. [An architectural design for self-reporting e-health systems](https://doi.org/10.1109/SEH.2019.00008). In Proceedings of the 1st International Workshop on Software Engineering for Healthcare (SEH ’19). IEEE Press, 1–8. DOI: https://doi.org/10.1109/SEH.2019.00008
 
 - [`Journal Paper`] Mukhiya, Suresh Kumar, & Hoang Hung, K. (2018). [An Architectural Style for Single Page Scalable Modern Web Application, 5(4), 6–13](https://www.ijrra.net/Vol5issue4/IJRRA-05-04-02.pdf), International Journal of Recent Research Aspects ISSN: 2349-7688, Vol. 5
 
