@@ -322,7 +322,7 @@ mutation EncounterRemove{
 
 ### Results
 
-The response time and responsize size by each of these queires are tabulated in [Excel file](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/SAGE/Ep%20.xlsx).
+The response time and responsize size by each of these queires are tabulated in [Excel file](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/SAGE/Ep.xlsx).
 
 ### Code for analyzing the results
 
