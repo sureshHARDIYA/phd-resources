@@ -322,4 +322,8 @@ mutation EncounterRemove{
 
 ### Results
 
-The response time and responsize size by each of these queires are tabulated in [Excel file]().
+The response time and responsize size by each of these queires are tabulated in [Excel file](https://github.com/sureshHARDIYA/phd-resources/blob/master/Papers/SAGE/Ep%20.xlsx).
+
+### Code for analyzing the results
+
+The Python code used to visualize the results from the above excel file can be found here.
