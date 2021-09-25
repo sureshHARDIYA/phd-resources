@@ -1,6 +1,6 @@
 # Personalized Treatment of Mental Health Problems using Adaptive Technology
 
-List of `Ph.D` resources, I want to share with the research community. Currently, I am associated with [INTROMAT](http://intromat.no/) project, which has a vision of improving public mental health with innovative technologies and psychological treatments. I am a Ph.D. candidate hired by INTROMAT team to research the use of adaptive technology for the personalized treatment of mental health issues including [Depression](https://www.skmukhiya.com.np/category/mental-health/depression/), ADHD, Bipolar Disorder and Social Anxiety Disorder.
+List of `PhD` resources I want to share with the research community. I was associated with [INTROMAT](http://intromat.no/) project, which holds a vision of improving public mental health with innovative technologies and psychological treatments. I was a PhD candidate hired by the INTROMAT team to research the use of adaptive technology for the personalized treatment of mental health issues including [Depression](https://www.skmukhiya.com.np/category/mental-health/depression/), ADHD, Bipolar Disorder and Social Anxiety Disorder.
 
 # Course Work
 
@@ -31,6 +31,9 @@ Here are the lists of presentations given in different courses and during my `Ph
 - `keynote`: [Personalized Treatment of mental Health problems using Adaptive Technology](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/SanFrancisco), 8<sup>th</sup> March, 2019. 148 Townsend Street, San Francisco
 
 # Papers
+- [`Journal`] Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies (2021).
+
+- [`Journal`]  Mukhiya SK, Lamo Y. An HL7 FHIR and GraphQL approach for interoperability between heterogeneous Electronic Health Record systems. Health Informatics Journal. July 2021. doi:10.1177/14604582211043920
 
 - [`Journal`] Ahmed, U., Kumar Mukhiya, S., Lin, J. C.-W., Srivastava, G., & Lamo, Y. (2021). Attention-based Deep Entropy Active Learning using Lexical Algorithm for Mental Health Treatment. Frontiers in Psychology, 12, 471. [https://doi.org/10.3389/FPSYG.2021.642347](https://doi.org/10.3389/FPSYG.2021.642347).
 
@@ -68,6 +71,7 @@ Here are the lists of presentations given in different courses and during my `Ph
 
 # Blogs and News
 
+- [Difference between software architecture and software design](https://www.skmukhiya.com.np/difference-between-software-architecture-and-software-design/)
 - [What is information architecture](https://skmukhiya.netlify.com/theory-about-information-architecture)
 - [What mental health issues INTROMAT is dealing with?](https://www.skmukhiya.com.np/what-are-the-mental-health-conditions-we-are-referring-here/)
 - [Facts about Depression](https://www.skmukhiya.com.np/depression/)
