@@ -31,6 +31,13 @@ Here are the lists of presentations given in different courses and during my `Ph
 - `keynote`: [Personalized Treatment of mental Health problems using Adaptive Technology](https://github.com/sureshHARDIYA/phd-resources/tree/master/presentations/SanFrancisco), 8<sup>th</sup> March, 2019. 148 Townsend Street, San Francisco
 
 # Papers
+
+- [`Journal`] Lamo Y, Mukhiya SK, Rabbi F, et al. "Towards adaptive technology in routine mental health care." DIGITAL HEALTH. 2022;8., 10.1177/2055207622112867.
+
+- [`Journal`] Mukhiya S, Lamo Y, Rabbi F. "A Reference Architecture for Data-Driven and Adaptive Internet-Delivered Psychological Treatment Systems: Software Architecture Development and Validation Study" JMIR Hum Factors 2022;9(2):e31029, [10.2196/31029](https://doi.org/10.2196/31029).
+
+- [`Journal`] Nordby, Emilie S., Astri J. Lundervold, Robin MF Kenter, Frode Guribye, Suresh K. Mukhiya, and Tine Nordgreen. "The effect of SMS reminders on adherence in a self-guided Internet-delivered intervention for adults with ADHD." Frontiers in Digital Health: 67, [https://doi.org/10.3389/fdgth.2022.821031](https://doi.org/10.3389/fdgth.2022.821031).
+
 - [`Journal`] Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies (2021).
 
 - [`Journal`]  Mukhiya SK, Lamo Y. An HL7 FHIR and GraphQL approach for interoperability between heterogeneous Electronic Health Record systems. Health Informatics Journal. July 2021. doi:10.1177/14604582211043920
